@@ -1,0 +1,104 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-03-13T00:00:00Z",
+  "program": {
+    "phase": "R0_Orientation",
+    "target_phase": "R6_Synthesis",
+    "total_lanes": 5,
+    "active_lanes": 0
+  },
+  "metrics": {
+    "core_readings": 0,
+    "core_readings_target": 180,
+    "mechanisms_identified": 0,
+    "mechanisms_identified_target": 50,
+    "mechanisms_admitted": 0,
+    "mechanisms_admitted_target": 20,
+    "threshold_models": 0,
+    "threshold_models_target": 5,
+    "simulation_modules": 0,
+    "simulation_modules_target": 10
+  },
+  "lanes": {
+    "R2-01": {
+      "name": "Origin of Life",
+      "description": "Chemistry → Biology",
+      "readings_total": 10,
+      "readings_completed": 0,
+      "mechanisms_extracted": 0,
+      "synthesis_status": "none",
+      "status": "not_started"
+    },
+    "R2-02": {
+      "name": "Origin of Cognition", 
+      "description": "Life → Mind",
+      "readings_total": 10,
+      "readings_completed": 0,
+      "mechanisms_extracted": 0,
+      "synthesis_status": "none",
+      "status": "not_started"
+    },
+    "R2-03": {
+      "name": "Origin of Society",
+      "description": "Mind → Social Systems",
+      "readings_total": 10,
+      "readings_completed": 0,
+      "mechanisms_extracted": 0,
+      "synthesis_status": "none",
+      "status": "not_started"
+    },
+    "R2-04": {
+      "name": "Origin of Symbolic Systems",
+      "description": "Social Systems → Symbolic",
+      "readings_total": 10,
+      "readings_completed": 0,
+      "mechanisms_extracted": 0,
+      "synthesis_status": "none",
+      "status": "not_started"
+    },
+    "R2-05": {
+      "name": "Reflexive Knowledge",
+      "description": "Symbolic → Reflexive",
+      "readings_total": 10,
+      "readings_completed": 0,
+      "mechanisms_extracted": 0,
+      "synthesis_status": "none",
+      "status": "not_started"
+    }
+  },
+  "reading_queue": {
+    "R2-01": [
+      {"id": "R201-001", "title": "Energy Flow in Biology", "author": "Harold Morowitz", "year": 1968, "status": "queued"},
+      {"id": "R201-002", "title": "Vital Dust", "author": "Christian de Duve", "year": 1991, "status": "queued"},
+      {"id": "R201-003", "title": "What Is Life?", "author": "Addy Pross", "year": 2012, "status": "queued"},
+      {"id": "R201-004", "title": "Origins of Order", "author": "Stuart Kauffman", "year": 1993, "status": "queued"},
+      {"id": "R201-005", "title": "Steps Toward Life", "author": "Manfred Eigen", "year": 1992, "status": "queued"}
+    ]
+  },
+  "mechanisms": {
+    "candidates": [],
+    "under_review": [],
+    "admitted": [],
+    "rejected": [],
+    "superseded": []
+  },
+  "pipeline": {
+    "R0": {"name": "Orientation", "status": "not_started", "count": 0},
+    "R1": {"name": "Source Acquisition", "status": "pending", "count": 0},
+    "R2": {"name": "Structured Reading", "status": "not_started", "count": 0},
+    "R3": {"name": "Mechanism Extraction", "status": "not_started", "count": 0},
+    "R4": {"name": "Mechanism Integration", "status": "not_started", "count": 0},
+    "R5": {"name": "Simulation Translation", "status": "not_started", "count": 0},
+    "R6": {"name": "Theoretical Synthesis", "status": "not_started", "count": 0}
+  },
+  "open_problems": [
+    {"id": "OP-001", "description": "Define module grammar", "lane": "R0", "status": "open"},
+    {"id": "OP-002", "description": "Identify first mechanism", "lane": "R2-01", "status": "open"},
+    {"id": "OP-003", "description": "Establish threshold TP-05", "lane": "R2-01", "status": "open"}
+  ],
+  "activity_log": [
+    {"date": "2026-03-13", "action": "repository_initialized", "details": "scale-threshold-emergence"},
+    {"date": "2026-03-13", "action": "templates_created", "details": "Reading notes, mechanism extraction"},
+    {"date": "2026-03-13", "action": "dashboard_activated", "details": "Operational tracking ready"}
+  ]
+}
