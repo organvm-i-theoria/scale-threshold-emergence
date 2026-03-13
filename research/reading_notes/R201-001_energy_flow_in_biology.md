@@ -2,17 +2,25 @@
 id: R201-001
 title: Energy Flow in Biology
 type: reading-note
-status: completed
+status: placeholder_awaiting_source
 lane: R2-01
 author: Harold Morowitz
 year: 1968
 importance: core
 date_started: 2026-03-13
-date_completed: 2026-03-13
 source: Wikipedia, Academic Press, archive.org
 ---
 
 # Reading Note: Energy Flow in Biology
+
+## ⚠️ Status: Placeholder - Awaiting Source Access
+
+This reading note requires the actual book text to complete. The current content is based on secondary sources and general knowledge about the book's arguments.
+
+**To complete this note:**
+1. Obtain physical or digital copy of the book
+2. Read and extract key concepts
+3. Update with actual content
 
 ## Metadata
 
