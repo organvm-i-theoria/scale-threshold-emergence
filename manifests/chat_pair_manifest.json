@@ -1,0 +1,39 @@
+{
+  "repo": "ontological-framework",
+  "generated_at": "2026-03-12T20:08:31.418501Z",
+  "source_file": "MASTER_transcript.json",
+  "total_messages": 137,
+  "total_pairs": 51,
+  "message_hashes": [
+    {
+      "index": 0,
+      "role": "Prompt",
+      "sha256": "8d910522e5481ba591d94354ab5918e5dec58a000971276c85a332992774d854",
+      "length": 57
+    },
+    {
+      "index": 1,
+      "role": "Response",
+      "sha256": "5dc2cd8b2d2cd09742f3961a826613ba878829126e3162e28a7189b540c61ab4",
+      "length": 5004
+    },
+    {
+      "index": 2,
+      "role": "Prompt",
+      "sha256": "5ad6e80a738917b499ec464f89b136584f6f7a3ecdebb8da7a59351f139d3e14",
+      "length": 84
+    },
+    {
+      "index": 3,
+      "role": "Response",
+      "sha256": "4aeda020b40169bc3d6fa88af625f44b060c20c5aaeb7077a41bc98b64c45f22",
+      "length": 6096
+    },
+    {
+      "index": 4,
+      "role": "Prompt",
+      "sha256": "2845b5434aa4cc576646e7e843025cc6581cbc47ed1541acce54d75c70027cdb",
+      "length": 3746
+    }
+  ]
+}

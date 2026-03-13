@@ -1,0 +1,32 @@
+{
+  "import_bundle_id": "IMP-002",
+  "bundle_type": "chat_transcript",
+  "source": {
+    "platform": "chatgpt",
+    "url": "https://chatgpt.com/c/example",
+    "title": "Theory of Everything Domains - Sample"
+  },
+  "content": {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What is emergence in complex systems?"
+      },
+      {
+        "role": "assistant", 
+        "content": "Emergence is a fundamental concept in complex systems theory.\n\n## Definition\nSimple components interact to produce complex, unexpected behaviors.\n\n## Types\n- **Weak emergence**: Predictable from micro to macro\n- **Strong emergence**: Novel properties not derivable from parts\n\n## Examples\n1. Temperature from particle kinematics\n2. Consciousness from neural activity\n3. Markets from economic agents"
+      }
+    ]
+  },
+  "metadata": {
+    "created_at": "2026-03-12T00:00:00Z",
+    "message_count": 2,
+    "expected_atoms": 12,
+    "expected_relations": 8,
+    "processing_hints": {
+      "extract_concepts": true,
+      "extract_mechanisms": true,
+      "extract_definitions": true
+    }
+  }
+}

@@ -1,0 +1,18 @@
+schema_version: '1.0'
+repo: knowledge-engine
+organ: I
+display_name: "Theoria-native knowledge engine for lossless archival, normalization, and graphing of research threads"
+
+delivery:
+- platform: python_library
+  status: in_progress
+  priority: high
+  notes: "Thread manifests, integrity reports, and knowledge graphs"
+  next_action: "Complete normalization pipeline and graph generation"
+
+content:
+- platform: docs_site
+  status: not_started
+  priority: medium
+  notes: "Thread format specification, archival methodology, graph schema"
+  next_action: "Document thread manifest format and graph structure"

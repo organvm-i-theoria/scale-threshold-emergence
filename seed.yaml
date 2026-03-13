@@ -1,0 +1,16 @@
+schema_version: "1"
+organ: I
+org: organvm-i-theoria
+repo: ontological-framework
+metadata:
+  tier: standard
+  promotion_status: LOCAL
+  description: Theoria-native knowledge engine for lossless archival, normalization, and graphing of research threads.
+produces:
+  - thread.manifest
+  - thread.graph
+  - thread.integrity_report
+consumes:
+  - chatgpt.thread_export
+subscriptions: []
+

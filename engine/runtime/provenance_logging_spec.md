@@ -1,0 +1,10 @@
+
+
+Provenance Logging Spec
+
+
+source_artifact_id
+source_version
+interpretation_layer
+implementation_note
+confidence_level

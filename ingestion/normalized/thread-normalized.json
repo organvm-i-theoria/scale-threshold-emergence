@@ -1,0 +1,2642 @@
+{
+  "thread_id": "69aed518-2570-832c-92ba-01d53d078c73",
+  "source_path": "/Users/4jp/Workspace/meta-organvm/materia-collider/genesis/ChatGPT-Branch \u00b7 Theory of Everything Domains (1).json",
+  "source_sha256": "50e3a86870ecc7a8787abec0d8995a014d0bcb7288961fe990f08ed88e7db5a9",
+  "generated_at": "2026-03-11T07:48:01Z",
+  "metadata": {
+    "title": "Branch \u00b7 Theory of Everything Domains",
+    "user": {
+      "name": "Anthony Padavano",
+      "email": "padavano.anthony@gmail.com"
+    },
+    "dates": {
+      "created": "3/9/2026 10:11:37",
+      "updated": "3/11/2026 3:17:50",
+      "exported": "3/11/2026 3:22:04"
+    },
+    "link": "https://chatgpt.com/c/69aed518-2570-832c-92ba-01d53d078c73",
+    "powered_by": "ChatGPT Exporter (https://www.chatgptexporter.com)"
+  },
+  "messages": [
+    {
+      "message_id": "MSG-001",
+      "index": 0,
+      "role": "Prompt",
+      "sha256": "8d910522e5481ba591d94354ab5918e5dec58a000971276c85a332992774d854",
+      "char_count": 57
+    },
+    {
+      "message_id": "MSG-002",
+      "index": 1,
+      "role": "Response",
+      "sha256": "5dc2cd8b2d2cd09742f3961a826613ba878829126e3162e28a7189b540c61ab4",
+      "char_count": 5004
+    },
+    {
+      "message_id": "MSG-003",
+      "index": 2,
+      "role": "Prompt",
+      "sha256": "5ad6e80a738917b499ec464f89b136584f6f7a3ecdebb8da7a59351f139d3e14",
+      "char_count": 84
+    },
+    {
+      "message_id": "MSG-004",
+      "index": 3,
+      "role": "Response",
+      "sha256": "4aeda020b40169bc3d6fa88af625f44b060c20c5aaeb7077a41bc98b64c45f22",
+      "char_count": 6096
+    },
+    {
+      "message_id": "MSG-005",
+      "index": 4,
+      "role": "Prompt",
+      "sha256": "2845b5434aa4cc576646e7e843025cc6581cbc47ed1541acce54d75c70027cdb",
+      "char_count": 3746
+    },
+    {
+      "message_id": "MSG-006",
+      "index": 5,
+      "role": "Response",
+      "sha256": "bb25ad387304bd7722e659c56117a457cf55b40d117df5f53463ba5f0b1280ac",
+      "char_count": 5884
+    },
+    {
+      "message_id": "MSG-007",
+      "index": 6,
+      "role": "Prompt",
+      "sha256": "2e77f26f2ea5eb2158e07ec55354288e4d121335b7c6e2d35d0c08f391eed281",
+      "char_count": 41
+    },
+    {
+      "message_id": "MSG-008",
+      "index": 7,
+      "role": "Response",
+      "sha256": "e80b7243106fb4b233016a1d8aba5ee8e82f29ce595c74ec738b62a950fdaf6d",
+      "char_count": 5431
+    },
+    {
+      "message_id": "MSG-009",
+      "index": 8,
+      "role": "Prompt",
+      "sha256": "89c94ef905c00aad238fd265e5f1f51db70758c08e804ccc6ef0a60b28d6c8f5",
+      "char_count": 180
+    },
+    {
+      "message_id": "MSG-010",
+      "index": 9,
+      "role": "Response",
+      "sha256": "343adceddc3f2e628c23e61301c3be72181014fd599a8262adfc032c1c817b05",
+      "char_count": 8039
+    },
+    {
+      "message_id": "MSG-011",
+      "index": 10,
+      "role": "Prompt",
+      "sha256": "c7c6c452e812a9e2e887f5cd92cb6b00187c217889378805651b67e595ef7843",
+      "char_count": 123
+    },
+    {
+      "message_id": "MSG-012",
+      "index": 11,
+      "role": "Response",
+      "sha256": "e3b42d18dfff788ded9a693b266464dfc979ceaca9cfe24e2dbcd77a3e1448f2",
+      "char_count": 34453
+    },
+    {
+      "message_id": "MSG-013",
+      "index": 12,
+      "role": "Prompt",
+      "sha256": "086072cc2bde641ddbd204a209fed8ed3ecdd933794bbca3737615f5d84ee132",
+      "char_count": 84
+    },
+    {
+      "message_id": "MSG-014",
+      "index": 13,
+      "role": "Response",
+      "sha256": "67f02ef946c4a94cc3a68aed0a32aaa874ee07423774f1923debb5f1b7be3937",
+      "char_count": 21310
+    },
+    {
+      "message_id": "MSG-015",
+      "index": 14,
+      "role": "Prompt",
+      "sha256": "8403baff076ced9680b9370cde42842324281039c62d35c14363d33e465113c4",
+      "char_count": 96
+    },
+    {
+      "message_id": "MSG-016",
+      "index": 15,
+      "role": "Response",
+      "sha256": "f297a0ff1b31293a815753e6b1c367f6b47834dac373eb846ca236bc413baf17",
+      "char_count": 27666
+    },
+    {
+      "message_id": "MSG-017",
+      "index": 16,
+      "role": "Prompt",
+      "sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-018",
+      "index": 17,
+      "role": "Response",
+      "sha256": "5b6c097c4999e3886ab2763d4d512b9aa199be63f04ad7483436a267938fed84",
+      "char_count": 16325
+    },
+    {
+      "message_id": "MSG-019",
+      "index": 18,
+      "role": "Prompt",
+      "sha256": "9db791111b14410f7cf664187134cf36753b2316b1363ef9b119778b7b060b21",
+      "char_count": 190
+    },
+    {
+      "message_id": "MSG-020",
+      "index": 19,
+      "role": "Response",
+      "sha256": "591b5328e6c5e032f8f07ee74bccaa8c00ca388fb597ff8410f3e700671a4669",
+      "char_count": 6902
+    },
+    {
+      "message_id": "MSG-021",
+      "index": 20,
+      "role": "Prompt",
+      "sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-022",
+      "index": 21,
+      "role": "Response",
+      "sha256": "9f9b9d3c31492cc6e2988278f34052371d7d9da1d3c9443ea1423ecc3176957a",
+      "char_count": 13506
+    },
+    {
+      "message_id": "MSG-023",
+      "index": 22,
+      "role": "Prompt",
+      "sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-024",
+      "index": 23,
+      "role": "Response",
+      "sha256": "a187aa36783c13d97a5ba9cc87a35920a54add7bb267796406ef05fe750309f1",
+      "char_count": 10180
+    },
+    {
+      "message_id": "MSG-025",
+      "index": 24,
+      "role": "Prompt",
+      "sha256": "fb8bac4fe9a6e287c6da7745a1227f53ebaf6d1416102378f1eca7ce66f6a6c5",
+      "char_count": 101
+    },
+    {
+      "message_id": "MSG-026",
+      "index": 25,
+      "role": "Response",
+      "sha256": "2c8ac5417ea9205241488b6c9a7caea377d09823426884533fb42dc365bb8d27",
+      "char_count": 8295
+    },
+    {
+      "message_id": "MSG-027",
+      "index": 26,
+      "role": "Prompt",
+      "sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-028",
+      "index": 27,
+      "role": "Response",
+      "sha256": "bfd3fa394e1810f173aaddc6683fe010da409c221a65d2dfe89668ae5c63d39e",
+      "char_count": 8153
+    },
+    {
+      "message_id": "MSG-029",
+      "index": 28,
+      "role": "Prompt",
+      "sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-030",
+      "index": 29,
+      "role": "Response",
+      "sha256": "a7678c9cd0cadbf6679eb806461e89819958faef55f8da03e78b5077da816991",
+      "char_count": 11977
+    },
+    {
+      "message_id": "MSG-031",
+      "index": 30,
+      "role": "Prompt",
+      "sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-032",
+      "index": 31,
+      "role": "Response",
+      "sha256": "e7e1eedd2874982b8a6a46c76b2e315476ae146dc14ba47de947cb8d06332a95",
+      "char_count": 10392
+    },
+    {
+      "message_id": "MSG-033",
+      "index": 32,
+      "role": "Prompt",
+      "sha256": "db00df594f886bbf12958d4f1b1516ca4ad343a33adb977d6dee2507d1fa27e4",
+      "char_count": 14
+    },
+    {
+      "message_id": "MSG-034",
+      "index": 33,
+      "role": "Response",
+      "sha256": "bfeac62d005497ea8c427fbfbe2bd05348b39b5690437277b8cc4c30d37a45ff",
+      "char_count": 20373
+    },
+    {
+      "message_id": "MSG-035",
+      "index": 34,
+      "role": "Prompt",
+      "sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-036",
+      "index": 35,
+      "role": "Response",
+      "sha256": "f65d947ee91770c14a5ad018c490bab90ffaa1cd69e60e47409c351f71eb148e",
+      "char_count": 10571
+    },
+    {
+      "message_id": "MSG-037",
+      "index": 36,
+      "role": "Prompt",
+      "sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-038",
+      "index": 37,
+      "role": "Response",
+      "sha256": "e6c6ccdf3396422a2f5f92790b7c0559b34797040a70089c150646c52e97f119",
+      "char_count": 7964
+    },
+    {
+      "message_id": "MSG-039",
+      "index": 38,
+      "role": "Prompt",
+      "sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-040",
+      "index": 39,
+      "role": "Response",
+      "sha256": "41adfe5284a548625dd527ef34d471c8c9edbc3ab976c7c4d6269c5860ad97b0",
+      "char_count": 6451
+    },
+    {
+      "message_id": "MSG-041",
+      "index": 40,
+      "role": "Prompt",
+      "sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-042",
+      "index": 41,
+      "role": "Response",
+      "sha256": "4cb8d02d1cda906c642d2ccadd64a2162d6b76ab28d6e2ad4b30621fe7305f60",
+      "char_count": 14065
+    },
+    {
+      "message_id": "MSG-043",
+      "index": 42,
+      "role": "Prompt",
+      "sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-044",
+      "index": 43,
+      "role": "Response",
+      "sha256": "e76619b385233e394b85332cc30c4781d81b76e0822c153a060b6489d4fb4f4e",
+      "char_count": 16292
+    },
+    {
+      "message_id": "MSG-045",
+      "index": 44,
+      "role": "Prompt",
+      "sha256": "8d1177a85f8326ce8024a72329e1797aa1d12dcd7c0d57df367672a33f2f038e",
+      "char_count": 6
+    },
+    {
+      "message_id": "MSG-046",
+      "index": 45,
+      "role": "Response",
+      "sha256": "1d57d2e5f7dc7b97b069aca02b0937caaedc46f5b81e17812dc08860989e61e5",
+      "char_count": 16755
+    },
+    {
+      "message_id": "MSG-047",
+      "index": 46,
+      "role": "Prompt",
+      "sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-048",
+      "index": 47,
+      "role": "Response",
+      "sha256": "5689febf191ee98d88381b43b53cc22f73de41d6c7e373b0a488cf7983059302",
+      "char_count": 8810
+    },
+    {
+      "message_id": "MSG-049",
+      "index": 48,
+      "role": "Prompt",
+      "sha256": "0de4fbe9c557f4409919936e3cdd58c58be175f19eb18b8a64fc634b0283e3c2",
+      "char_count": 32
+    },
+    {
+      "message_id": "MSG-050",
+      "index": 49,
+      "role": "Response",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "char_count": 0
+    },
+    {
+      "message_id": "MSG-051",
+      "index": 50,
+      "role": "Prompt",
+      "sha256": "59ccedf43a9c0f2b736399a13b772c353bd9392083b208b4e134c079e59b28a7",
+      "char_count": 135
+    },
+    {
+      "message_id": "MSG-052",
+      "index": 51,
+      "role": "Response",
+      "sha256": "59a71a5c5f065b2446dcc3588c3b6d67823074b46a3d93191c7fdc735b134164",
+      "char_count": 3832
+    },
+    {
+      "message_id": "MSG-053",
+      "index": 52,
+      "role": "Prompt",
+      "sha256": "8e1c8f49c5ef2d85d01fd6d83eb4b4ce8cc3c3163ae2af8bb9562657b8c0ffb8",
+      "char_count": 11
+    },
+    {
+      "message_id": "MSG-054",
+      "index": 53,
+      "role": "Response",
+      "sha256": "58ec831ced9f7eefa520995b9d31c168904ad7aef25f9c6d4f61c963cf8f6233",
+      "char_count": 4354
+    },
+    {
+      "message_id": "MSG-055",
+      "index": 54,
+      "role": "Prompt",
+      "sha256": "cbc2935aebe3ca1f1c6384809d35dfa592d9adb6d692b8001cd4089f7a178861",
+      "char_count": 3
+    },
+    {
+      "message_id": "MSG-056",
+      "index": 55,
+      "role": "Response",
+      "sha256": "d5e84fabdfe85593c0035d19fa699f77a8dfb7b62940a9647b8901c4fdc0d466",
+      "char_count": 14072
+    },
+    {
+      "message_id": "MSG-057",
+      "index": 56,
+      "role": "Prompt",
+      "sha256": "8b4f32581173b20a0bb51ee95e366518783e783c6d64bc9fb2f710e9422011b8",
+      "char_count": 128
+    },
+    {
+      "message_id": "MSG-058",
+      "index": 57,
+      "role": "Response",
+      "sha256": "b4733ff3b1acfd14f3c43b55b032af73625fdf4e310f1e3e1181e5e2a1e2697e",
+      "char_count": 6481
+    },
+    {
+      "message_id": "MSG-059",
+      "index": 58,
+      "role": "Prompt",
+      "sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-060",
+      "index": 59,
+      "role": "Response",
+      "sha256": "981829c44864bc3584952b2998e94bd3c7444aa36d760e448660cc7aa57db6cf",
+      "char_count": 5724
+    },
+    {
+      "message_id": "MSG-061",
+      "index": 60,
+      "role": "Prompt",
+      "sha256": "8a798890fe93817163b10b5f7bd2ca4d25d84c52739a645a889c173eee7d9d3d",
+      "char_count": 3
+    },
+    {
+      "message_id": "MSG-062",
+      "index": 61,
+      "role": "Response",
+      "sha256": "49c04a61adfd1ce9365de1134aed79ef4c374656cfa884400c5d36111a7ff720",
+      "char_count": 6630
+    },
+    {
+      "message_id": "MSG-063",
+      "index": 62,
+      "role": "Prompt",
+      "sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-064",
+      "index": 63,
+      "role": "Response",
+      "sha256": "3e83d3aabad24f9e146cbca0febdd1d19f1293f70efb00e665d17a5cacaf239f",
+      "char_count": 5633
+    },
+    {
+      "message_id": "MSG-065",
+      "index": 64,
+      "role": "Prompt",
+      "sha256": "8a798890fe93817163b10b5f7bd2ca4d25d84c52739a645a889c173eee7d9d3d",
+      "char_count": 3
+    },
+    {
+      "message_id": "MSG-066",
+      "index": 65,
+      "role": "Response",
+      "sha256": "fbe47093ac37dbbe11bdd5b597625ded6e08aafa95296c39462d6052ca53a4f7",
+      "char_count": 14210
+    },
+    {
+      "message_id": "MSG-067",
+      "index": 66,
+      "role": "Prompt",
+      "sha256": "f080016569e64516a20350e267d6523e6cb4fca8f8a5161be6b22346e3d1eb0d",
+      "char_count": 1634
+    },
+    {
+      "message_id": "MSG-068",
+      "index": 67,
+      "role": "Response",
+      "sha256": "9d1c3369d687ed161726533d39bf1428bee97bfbc2c4031c46bb55dc9fdc3056",
+      "char_count": 6654
+    },
+    {
+      "message_id": "MSG-069",
+      "index": 68,
+      "role": "Prompt",
+      "sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-070",
+      "index": 69,
+      "role": "Response",
+      "sha256": "6ad3642f8d3028ccb5c3df4f22f11037e5a9f4a2d31021e9bdc7954b255e9b06",
+      "char_count": 7099
+    },
+    {
+      "message_id": "MSG-071",
+      "index": 70,
+      "role": "Prompt",
+      "sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-072",
+      "index": 71,
+      "role": "Response",
+      "sha256": "87ce3d1aa511a88da7b24047938a99988e5783f538c73c2d72811b7543646386",
+      "char_count": 13182
+    },
+    {
+      "message_id": "MSG-073",
+      "index": 72,
+      "role": "Prompt",
+      "sha256": "f656c762667dd8c68ec2bac8b14b331ab6eb307b2b43c3ac2a3c6f0e0a3dae6d",
+      "char_count": 115
+    },
+    {
+      "message_id": "MSG-074",
+      "index": 73,
+      "role": "Response",
+      "sha256": "425687b1943558b74bf320b321930721a7a2ebf70c56f0b433798f7976ef85c7",
+      "char_count": 4559
+    },
+    {
+      "message_id": "MSG-075",
+      "index": 74,
+      "role": "Prompt",
+      "sha256": "3da91947d628ea1f945f80cba4837376a12104aa89911663d8f18b7151c32407",
+      "char_count": 82
+    },
+    {
+      "message_id": "MSG-076",
+      "index": 75,
+      "role": "Response",
+      "sha256": "81aa0bb948390beaa7c3b38545a0859cd484e32cad63cd59b74f6ceda7c4f47e",
+      "char_count": 7192
+    },
+    {
+      "message_id": "MSG-077",
+      "index": 76,
+      "role": "Prompt",
+      "sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-078",
+      "index": 77,
+      "role": "Response",
+      "sha256": "6759a18e83101d849628fb9abbd1698f72e375757693fba39dfec31531917872",
+      "char_count": 9241
+    },
+    {
+      "message_id": "MSG-079",
+      "index": 78,
+      "role": "Prompt",
+      "sha256": "03b4b255b2cda60cf48df4808a45986243b08ecba73d7ae8149e7752cfc993ff",
+      "char_count": 39
+    },
+    {
+      "message_id": "MSG-080",
+      "index": 79,
+      "role": "Response",
+      "sha256": "db7cf2918e17483086181ab6bd0db01c1d96b68db169515ac6c8439e8cecb9cc",
+      "char_count": 6201
+    },
+    {
+      "message_id": "MSG-081",
+      "index": 80,
+      "role": "Prompt",
+      "sha256": "c8f6a17df697649088faf641f495bb47fe5c2bcedcd8b519d18d037d5bdf8380",
+      "char_count": 146
+    },
+    {
+      "message_id": "MSG-082",
+      "index": 81,
+      "role": "Response",
+      "sha256": "b8d91f99766990c15d916922ce60c3f1416ece8559d454c5d8dd8863170489d5",
+      "char_count": 5558
+    },
+    {
+      "message_id": "MSG-083",
+      "index": 82,
+      "role": "Prompt",
+      "sha256": "40d6765bd471d3f6123a87bd506cee44f7fd69ada5cdc93b20b8b6a231eb94d7",
+      "char_count": 129
+    },
+    {
+      "message_id": "MSG-084",
+      "index": 83,
+      "role": "Response",
+      "sha256": "4e879c09357d20184cab96393ddd4b52f34b0c5321d34d09421fff9caf63deda",
+      "char_count": 8221
+    },
+    {
+      "message_id": "MSG-085",
+      "index": 84,
+      "role": "Prompt",
+      "sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-086",
+      "index": 85,
+      "role": "Response",
+      "sha256": "5b35c9d0664f9f783b32e4093970f05cdb2cdd65dea80628403f134141641fa9",
+      "char_count": 16334
+    },
+    {
+      "message_id": "MSG-087",
+      "index": 86,
+      "role": "Prompt",
+      "sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-088",
+      "index": 87,
+      "role": "Response",
+      "sha256": "0a959dcf9711eb5910ca7d777a564ec4f710413b450820c251fddea82c625ad4",
+      "char_count": 7935
+    },
+    {
+      "message_id": "MSG-089",
+      "index": 88,
+      "role": "Prompt",
+      "sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-090",
+      "index": 89,
+      "role": "Response",
+      "sha256": "43dac1e0900be4234e439385cf3fa37981095061098e0108628821367ceb700b",
+      "char_count": 7759
+    },
+    {
+      "message_id": "MSG-091",
+      "index": 90,
+      "role": "Prompt",
+      "sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-092",
+      "index": 91,
+      "role": "Response",
+      "sha256": "3cbea1120cbc01db14b4f5c2827264714778e55cddd138a8a8e69a2e37aad8d9",
+      "char_count": 7138
+    },
+    {
+      "message_id": "MSG-093",
+      "index": 92,
+      "role": "Prompt",
+      "sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-094",
+      "index": 93,
+      "role": "Response",
+      "sha256": "b1183b959a229b21c861994dc513415c9ffb1364c440a3e8138d03cab8b338c3",
+      "char_count": 6251
+    },
+    {
+      "message_id": "MSG-095",
+      "index": 94,
+      "role": "Prompt",
+      "sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-096",
+      "index": 95,
+      "role": "Response",
+      "sha256": "cb69cdc410f979fda9b5a29f575908b2aed4ae47f1361a35c28efd9bfc481ef7",
+      "char_count": 6172
+    },
+    {
+      "message_id": "MSG-097",
+      "index": 96,
+      "role": "Prompt",
+      "sha256": "1edfcf053f255eb7b7dcc7bb3ff7e7a36dad2fb09c4f7ca4d65ffbedd6a34768",
+      "char_count": 363
+    },
+    {
+      "message_id": "MSG-098",
+      "index": 97,
+      "role": "Response",
+      "sha256": "d5979745949fe6f8b5789579732f2f247b67a0bbe2d01dd6b3c59a859cc26b99",
+      "char_count": 9380
+    },
+    {
+      "message_id": "MSG-099",
+      "index": 98,
+      "role": "Prompt",
+      "sha256": "7b72345a4594c64aa287a0e3b98fd2fed5df656c35ad555376051f7c3da97632",
+      "char_count": 153
+    },
+    {
+      "message_id": "MSG-100",
+      "index": 99,
+      "role": "Response",
+      "sha256": "1094a39794ee8e29e136509ce765f07cb72b1c0fd563759240cbb3af0f4082c0",
+      "char_count": 15382
+    },
+    {
+      "message_id": "MSG-101",
+      "index": 100,
+      "role": "Prompt",
+      "sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-102",
+      "index": 101,
+      "role": "Response",
+      "sha256": "0bda1ebf5aef88ace0a0354e3cad1e1ba1fbab31df882d3b821234cc7444971f",
+      "char_count": 12645
+    },
+    {
+      "message_id": "MSG-103",
+      "index": 102,
+      "role": "Prompt",
+      "sha256": "d5473fb2f64b6dc2a57faa62152472a404ed6f9349d6a151df57aee00371c9e3",
+      "char_count": 151
+    },
+    {
+      "message_id": "MSG-104",
+      "index": 103,
+      "role": "Response",
+      "sha256": "8e706f548d732cd28a4a76480759970713459f08d479ab204786688c511573ed",
+      "char_count": 1266
+    },
+    {
+      "message_id": "MSG-105",
+      "index": 104,
+      "role": "Prompt",
+      "sha256": "e097c18a52d4373c12b95ac2997e77ad6d4691d2c029be4105982ab71785aa04",
+      "char_count": 1077
+    },
+    {
+      "message_id": "MSG-106",
+      "index": 105,
+      "role": "Response",
+      "sha256": "f615994caa2a3ccf1c708a015a98ee50db2114605a384a100cf78e89765e7b5b",
+      "char_count": 5329
+    },
+    {
+      "message_id": "MSG-107",
+      "index": 106,
+      "role": "Prompt",
+      "sha256": "85a39ab345d672ff8ca9b9c6876f3adcacf45ee7c1e2dbd2408fd338bd55e07e",
+      "char_count": 3
+    },
+    {
+      "message_id": "MSG-108",
+      "index": 107,
+      "role": "Response",
+      "sha256": "35ea5fd6515b412174e84569f619cc882339fa119ad82520734b5b792c069152",
+      "char_count": 7583
+    },
+    {
+      "message_id": "MSG-109",
+      "index": 108,
+      "role": "Prompt",
+      "sha256": "278da46f51483a060a5c7f3039bf10550f8b34ea4a5750adb6fce4dfddb78abf",
+      "char_count": 58
+    },
+    {
+      "message_id": "MSG-110",
+      "index": 109,
+      "role": "Response",
+      "sha256": "11a3c9deb259752a1b5c9bfb35213dbe10c67323d8ca901df174a9a5351384f5",
+      "char_count": 3842
+    },
+    {
+      "message_id": "MSG-111",
+      "index": 110,
+      "role": "Prompt",
+      "sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-112",
+      "index": 111,
+      "role": "Response",
+      "sha256": "7f8ce2c00c552a0e670c6f0181a9425aa0e4180b248e86fcb2bb7a983b0e9315",
+      "char_count": 4896
+    },
+    {
+      "message_id": "MSG-113",
+      "index": 112,
+      "role": "Prompt",
+      "sha256": "1abb619bb5dce09cdc2af48f635ad4e96c5d35eddde6d9976dcae9b3556ed03e",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-114",
+      "index": 113,
+      "role": "Response",
+      "sha256": "dc2ba0c8372b376f0943bb36710cabe8c3b5dcb25cf31c860cd2bbded47db681",
+      "char_count": 6148
+    },
+    {
+      "message_id": "MSG-115",
+      "index": 114,
+      "role": "Prompt",
+      "sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-116",
+      "index": 115,
+      "role": "Response",
+      "sha256": "5ddcda42c0445dd3417dccfa4f0adaa15c2716d4dd73a32ed16efc0de59d9b91",
+      "char_count": 4686
+    },
+    {
+      "message_id": "MSG-117",
+      "index": 116,
+      "role": "Prompt",
+      "sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-118",
+      "index": 117,
+      "role": "Response",
+      "sha256": "00cff217f9cc5dd65152e37c8f6c2ba8d63b92a7ad03c58c6d53955f516b49d8",
+      "char_count": 6242
+    },
+    {
+      "message_id": "MSG-119",
+      "index": 118,
+      "role": "Prompt",
+      "sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-120",
+      "index": 119,
+      "role": "Response",
+      "sha256": "a772a4526e9f489fd404b31b6854e20512dc4d9e90aec8986ddf86bb6fcd2c53",
+      "char_count": 5262
+    },
+    {
+      "message_id": "MSG-121",
+      "index": 120,
+      "role": "Prompt",
+      "sha256": "56e10de7b4eed6e338edef6f8742f98650bdbc69dac0cad3cefa74d4c10082b4",
+      "char_count": 38
+    },
+    {
+      "message_id": "MSG-122",
+      "index": 121,
+      "role": "Response",
+      "sha256": "607b1d01b586b778aa02fa0d66f9eb80f8b14c7a397b563fa7517105896f0c35",
+      "char_count": 3817
+    },
+    {
+      "message_id": "MSG-123",
+      "index": 122,
+      "role": "Prompt",
+      "sha256": "b38d6b036d66abcf45ce8334dd05e2ce2565a90e06113a5ea06406e52315dd25",
+      "char_count": 398
+    },
+    {
+      "message_id": "MSG-124",
+      "index": 123,
+      "role": "Response",
+      "sha256": "6736f771d4364e0408c40ddb9f2817c13a9f01d0ee65191694bccf0e97a9e636",
+      "char_count": 4882
+    },
+    {
+      "message_id": "MSG-125",
+      "index": 124,
+      "role": "Prompt",
+      "sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-126",
+      "index": 125,
+      "role": "Response",
+      "sha256": "f031af16de0cf727d91dbf895aac6b0faacf8dcd4a400da1097fa9bb508ce4a2",
+      "char_count": 5455
+    },
+    {
+      "message_id": "MSG-127",
+      "index": 126,
+      "role": "Prompt",
+      "sha256": "6e96f0a0322306e09b434ca02eaa84c40bde04c1eaadf23d1378b27a6eca0fbf",
+      "char_count": 232
+    },
+    {
+      "message_id": "MSG-128",
+      "index": 127,
+      "role": "Response",
+      "sha256": "4f8ed54797ab0ddf7016f048d8cd55d3a9a451c5e6cd84bd7cdf25a0173302cb",
+      "char_count": 4086
+    },
+    {
+      "message_id": "MSG-129",
+      "index": 128,
+      "role": "Prompt",
+      "sha256": "29e82f6172fb6134881b0e86ebc07ce7efc76b37d51038b087de172ec7630ee2",
+      "char_count": 199
+    },
+    {
+      "message_id": "MSG-130",
+      "index": 129,
+      "role": "Response",
+      "sha256": "2d27c6827331da9328da9098c3a8881bb661909c046a3dec4cec9dea9c90e087",
+      "char_count": 5014
+    },
+    {
+      "message_id": "MSG-131",
+      "index": 130,
+      "role": "Prompt",
+      "sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-132",
+      "index": 131,
+      "role": "Response",
+      "sha256": "d4e292b59d23608910c4ce0978a67070f129ec43616423a5c6214f61df57fa58",
+      "char_count": 5207
+    },
+    {
+      "message_id": "MSG-133",
+      "index": 132,
+      "role": "Prompt",
+      "sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-134",
+      "index": 133,
+      "role": "Response",
+      "sha256": "dc6eb182e0a203170c7800b39357377d09ae9f88c5a7d70929db125b9125dd77",
+      "char_count": 5182
+    },
+    {
+      "message_id": "MSG-135",
+      "index": 134,
+      "role": "Prompt",
+      "sha256": "c0956992b4f01bd2b637f073c61a069397e84b8a673e564c465f753682ce3d88",
+      "char_count": 143
+    },
+    {
+      "message_id": "MSG-136",
+      "index": 135,
+      "role": "Response",
+      "sha256": "5bbc69366c444d24b188e872d19624fd480a2024308e376cdb7083c66361c56c",
+      "char_count": 4921
+    },
+    {
+      "message_id": "MSG-137",
+      "index": 136,
+      "role": "Prompt",
+      "sha256": "5d3c135e6af83b86f1f5ef883b472af24bab70f265519fb1a6abf352211ee179",
+      "char_count": 8285
+    },
+    {
+      "message_id": "MSG-138",
+      "index": 137,
+      "role": "Response",
+      "sha256": "6fdfd19812834ed17c524cf33cff353bbd90938c7887437329cf8eabf1ff4d2c",
+      "char_count": 5106
+    },
+    {
+      "message_id": "MSG-139",
+      "index": 138,
+      "role": "Prompt",
+      "sha256": "2ea7ee94d73a8256f4390dcaab1fdef1e0a9359fc0cc0e3ad0beca8fec9b56f7",
+      "char_count": 108
+    },
+    {
+      "message_id": "MSG-140",
+      "index": 139,
+      "role": "Response",
+      "sha256": "1147c68bddce31ab21f147c0dc28011a4eaabee45f6d102410baf32ea26d27e7",
+      "char_count": 4145
+    },
+    {
+      "message_id": "MSG-141",
+      "index": 140,
+      "role": "Prompt",
+      "sha256": "3e66adc764646e29f55304d89a5098d7107cf56db17a04ecd106668976401f57",
+      "char_count": 152
+    },
+    {
+      "message_id": "MSG-142",
+      "index": 141,
+      "role": "Response",
+      "sha256": "27b7e2bc7bc5d886346516ab0fc7a1b29e8d84becb0a9caa5343a1996bb2ca37",
+      "char_count": 6597
+    },
+    {
+      "message_id": "MSG-143",
+      "index": 142,
+      "role": "Prompt",
+      "sha256": "dcc14e21a4a1ae2243c044b35bcc4bbf436511555dcbf86e679da1306a403431",
+      "char_count": 92
+    },
+    {
+      "message_id": "MSG-144",
+      "index": 143,
+      "role": "Response",
+      "sha256": "c8e718099abfb099c94576651d80992edc8c825467676ea88ee5d7a7c9380c17",
+      "char_count": 5480
+    },
+    {
+      "message_id": "MSG-145",
+      "index": 144,
+      "role": "Prompt",
+      "sha256": "19fa762055eef1d9623a41a72e24c1b24e534432cfa8d51390a9dc0ce6f68fa8",
+      "char_count": 11
+    },
+    {
+      "message_id": "MSG-146",
+      "index": 145,
+      "role": "Response",
+      "sha256": "bcb9b9786b7997020eba8c9472c88ba4429951007346c501f80d6d930e2150f7",
+      "char_count": 4173
+    },
+    {
+      "message_id": "MSG-147",
+      "index": 146,
+      "role": "Prompt",
+      "sha256": "19fa762055eef1d9623a41a72e24c1b24e534432cfa8d51390a9dc0ce6f68fa8",
+      "char_count": 11
+    },
+    {
+      "message_id": "MSG-148",
+      "index": 147,
+      "role": "Response",
+      "sha256": "2b884ac56e90e3eebdc7384bccaab4d29b9b319f132fbbb11507a5ba48698ef1",
+      "char_count": 4494
+    },
+    {
+      "message_id": "MSG-149",
+      "index": 148,
+      "role": "Prompt",
+      "sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-150",
+      "index": 149,
+      "role": "Response",
+      "sha256": "24374d8179bd831e721ef4bd5778b4b582038924b90c8274fc5f6f6e56dc39b7",
+      "char_count": 4815
+    },
+    {
+      "message_id": "MSG-151",
+      "index": 150,
+      "role": "Prompt",
+      "sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "char_count": 7
+    },
+    {
+      "message_id": "MSG-152",
+      "index": 151,
+      "role": "Response",
+      "sha256": "5f480180adcac1f6cc18d5ec29948687ded3b36eccd22f254c447151869363e2",
+      "char_count": 4466
+    },
+    {
+      "message_id": "MSG-153",
+      "index": 152,
+      "role": "Prompt",
+      "sha256": "e5a4cd64ac85222ec1764e0f559c1ef2b512b183667530e8e971a474640bb207",
+      "char_count": 684
+    },
+    {
+      "message_id": "MSG-154",
+      "index": 153,
+      "role": "Response",
+      "sha256": "78f4a635d7050947a6f6797204b6deab12b614adca0aee14fc8b53035c4d5b2b",
+      "char_count": 35300
+    }
+  ],
+  "pairs": [
+    {
+      "pair_id": "TH-001",
+      "pair_number": 1,
+      "title": "Below is a structured domain map.",
+      "slug": "below-is-a-structured-domain-map",
+      "prompt_message_id": "MSG-001",
+      "response_message_id": "MSG-002",
+      "source_message_indexes": [
+        0,
+        1
+      ],
+      "prompt_sha256": "8d910522e5481ba591d94354ab5918e5dec58a000971276c85a332992774d854",
+      "response_sha256": "5dc2cd8b2d2cd09742f3961a826613ba878829126e3162e28a7189b540c61ab4",
+      "pair_sha256": "25ad5f1466230dc87e857266628727d45513657703dc28dca0805ddb3fe5f59a",
+      "pair_path": "research/thread_pairs/TH-001-below-is-a-structured-domain-map.md",
+      "artifact_path": "research/artifacts/ART-001-below-is-a-structured-domain-map.md",
+      "artifact_type": "research_artifact",
+      "family_dir": "research/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-002",
+      "pair_number": 2,
+      "title": "The process can be expressed as a structured pipeline.",
+      "slug": "the-process-can-be-expressed-as-a-structured-pipeline",
+      "prompt_message_id": "MSG-003",
+      "response_message_id": "MSG-004",
+      "source_message_indexes": [
+        2,
+        3
+      ],
+      "prompt_sha256": "5ad6e80a738917b499ec464f89b136584f6f7a3ecdebb8da7a59351f139d3e14",
+      "response_sha256": "4aeda020b40169bc3d6fa88af625f44b060c20c5aaeb7077a41bc98b64c45f22",
+      "pair_sha256": "8d439bb494aeacc36359d9e7cdb8ffd7429ce4055dbeef1207bc4e3b27848d7a",
+      "pair_path": "research/thread_pairs/TH-002-the-process-can-be-expressed-as-a-structured-pipeline.md",
+      "artifact_path": "engine/primitives/ART-002-the-process-can-be-expressed-as-a-structured-pipeline.md",
+      "artifact_type": "primitive_artifact",
+      "family_dir": "engine/primitives",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-003",
+      "pair_number": 3,
+      "title": "Master Hierarchy of Existence (Refined Ontological Stack)",
+      "slug": "master-hierarchy-of-existence-refined-ontological-stack",
+      "prompt_message_id": "MSG-005",
+      "response_message_id": "MSG-006",
+      "source_message_indexes": [
+        4,
+        5
+      ],
+      "prompt_sha256": "2845b5434aa4cc576646e7e843025cc6581cbc47ed1541acce54d75c70027cdb",
+      "response_sha256": "bb25ad387304bd7722e659c56117a457cf55b40d117df5f53463ba5f0b1280ac",
+      "pair_sha256": "eccb42897782bea6a6bf72306af37594d2da31986cb33e23270605760f519878",
+      "pair_path": "research/thread_pairs/TH-003-master-hierarchy-of-existence-refined-ontological-stack.md",
+      "artifact_path": "governance/artifacts/ART-003-master-hierarchy-of-existence-refined-ontological-stack.md",
+      "artifact_type": "governance_artifact",
+      "family_dir": "governance/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-004",
+      "pair_number": 4,
+      "title": "The resulting structure becomes a stack of possibility \u2192 instantiation \u2192 emergence.",
+      "slug": "the-resulting-structure-becomes-a-stack-of-possibility-instantiation-emergence",
+      "prompt_message_id": "MSG-007",
+      "response_message_id": "MSG-008",
+      "source_message_indexes": [
+        6,
+        7
+      ],
+      "prompt_sha256": "2e77f26f2ea5eb2158e07ec55354288e4d121335b7c6e2d35d0c08f391eed281",
+      "response_sha256": "e80b7243106fb4b233016a1d8aba5ee8e82f29ce595c74ec738b62a950fdaf6d",
+      "pair_sha256": "25b32e61beba9522ba5d0764a32f467bf4ed1e6d5873f3640e0ea92f7983f2fa",
+      "pair_path": "research/thread_pairs/TH-004-the-resulting-structure-becomes-a-stack-of-possibility-instantiation-emergence.md",
+      "artifact_path": "engine/mechanisms/ART-004-the-resulting-structure-becomes-a-stack-of-possibility-instantiation-emergence.md",
+      "artifact_type": "mechanism_artifact",
+      "family_dir": "engine/mechanisms",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-005",
+      "pair_number": 5,
+      "title": "Below is a structured research architecture designed for rigorous academic exploration.",
+      "slug": "below-is-a-structured-research-architecture-designed-for-rigorous-academic-exploration",
+      "prompt_message_id": "MSG-009",
+      "response_message_id": "MSG-010",
+      "source_message_indexes": [
+        8,
+        9
+      ],
+      "prompt_sha256": "89c94ef905c00aad238fd265e5f1f51db70758c08e804ccc6ef0a60b28d6c8f5",
+      "response_sha256": "343adceddc3f2e628c23e61301c3be72181014fd599a8262adfc032c1c817b05",
+      "pair_sha256": "5637a966c2b33872ae1996ad99981ad1c2a48e1ae58587bcacf96d18c5b35ad6",
+      "pair_path": "research/thread_pairs/TH-005-below-is-a-structured-research-architecture-designed-for-rigorous-academic-exploration.md",
+      "artifact_path": "atlas/artifacts/ART-005-below-is-a-structured-research-architecture-designed-for-rigorous-academic-exploration.md",
+      "artifact_type": "atlas_artifact",
+      "family_dir": "atlas/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-006",
+      "pair_number": 6,
+      "title": "The atlas is designed to do three things at once.",
+      "slug": "the-atlas-is-designed-to-do-three-things-at-once",
+      "prompt_message_id": "MSG-011",
+      "response_message_id": "MSG-012",
+      "source_message_indexes": [
+        10,
+        11
+      ],
+      "prompt_sha256": "c7c6c452e812a9e2e887f5cd92cb6b00187c217889378805651b67e595ef7843",
+      "response_sha256": "e3b42d18dfff788ded9a693b266464dfc979ceaca9cfe24e2dbcd77a3e1448f2",
+      "pair_sha256": "ca5ee45b4d42faeae8f6539bcba893d553e1b3403c37017fdf81039f9a644a21",
+      "pair_path": "research/thread_pairs/TH-006-the-atlas-is-designed-to-do-three-things-at-once.md",
+      "artifact_path": "atlas/artifacts/ART-006-the-atlas-is-designed-to-do-three-things-at-once.md",
+      "artifact_type": "atlas_artifact",
+      "family_dir": "atlas/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-007",
+      "pair_number": 7,
+      "title": "No. The compression is not logically necessary. It is only operationally useful.",
+      "slug": "no-the-compression-is-not-logically-necessary-it-is-only-operationally-useful",
+      "prompt_message_id": "MSG-013",
+      "response_message_id": "MSG-014",
+      "source_message_indexes": [
+        12,
+        13
+      ],
+      "prompt_sha256": "086072cc2bde641ddbd204a209fed8ed3ecdd933794bbca3737615f5d84ee132",
+      "response_sha256": "67f02ef946c4a94cc3a68aed0a32aaa874ee07423774f1923debb5f1b7be3937",
+      "pair_sha256": "67044e9cbbef7a93268160046dfea2576a2698f8a42ac7697061b72a22ad2ec9",
+      "pair_path": "research/thread_pairs/TH-007-no-the-compression-is-not-logically-necessary-it-is-only-operationally-useful.md",
+      "artifact_path": "atlas/artifacts/ART-007-no-the-compression-is-not-logically-necessary-it-is-only-operationally-useful.md",
+      "artifact_type": "atlas_artifact",
+      "family_dir": "atlas/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-008",
+      "pair_number": 8,
+      "title": "The added fields are",
+      "slug": "the-added-fields-are",
+      "prompt_message_id": "MSG-015",
+      "response_message_id": "MSG-016",
+      "source_message_indexes": [
+        14,
+        15
+      ],
+      "prompt_sha256": "8403baff076ced9680b9370cde42842324281039c62d35c14363d33e465113c4",
+      "response_sha256": "f297a0ff1b31293a815753e6b1c367f6b47834dac373eb846ca236bc413baf17",
+      "pair_sha256": "0c75341c834b7b6709568dd95c80a7f84d02e9c81e100c58c85b2280abd8db40",
+      "pair_path": "research/thread_pairs/TH-008-the-added-fields-are.md",
+      "artifact_path": "governance/artifacts/ART-008-the-added-fields-are.md",
+      "artifact_type": "governance_artifact",
+      "family_dir": "governance/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-009",
+      "pair_number": 9,
+      "title": "The pack contains four core artifacts",
+      "slug": "the-pack-contains-four-core-artifacts",
+      "prompt_message_id": "MSG-017",
+      "response_message_id": "MSG-018",
+      "source_message_indexes": [
+        16,
+        17
+      ],
+      "prompt_sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "response_sha256": "5b6c097c4999e3886ab2763d4d512b9aa199be63f04ad7483436a267938fed84",
+      "pair_sha256": "2d57f4e0e57543fb3bfc325d574745d2f96e3faa762bf114585e7f11ea2d30d1",
+      "pair_path": "research/thread_pairs/TH-009-the-pack-contains-four-core-artifacts.md",
+      "artifact_path": "governance/artifacts/ART-009-the-pack-contains-four-core-artifacts.md",
+      "artifact_type": "governance_artifact",
+      "family_dir": "governance/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-010",
+      "pair_number": 10,
+      "title": "Below is the Phase-1 Master Index.",
+      "slug": "below-is-the-phase-1-master-index",
+      "prompt_message_id": "MSG-019",
+      "response_message_id": "MSG-020",
+      "source_message_indexes": [
+        18,
+        19
+      ],
+      "prompt_sha256": "9db791111b14410f7cf664187134cf36753b2316b1363ef9b119778b7b060b21",
+      "response_sha256": "591b5328e6c5e032f8f07ee74bccaa8c00ca388fb597ff8410f3e700671a4669",
+      "pair_sha256": "9df0918d9cec822c1242ff0e6c5f07b3e83e76e1ecc3487aca34aba8676301fc",
+      "pair_path": "research/thread_pairs/TH-010-below-is-the-phase-1-master-index.md",
+      "artifact_path": "governance/artifacts/ART-010-below-is-the-phase-1-master-index.md",
+      "artifact_type": "governance_artifact",
+      "family_dir": "governance/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-011",
+      "pair_number": 11,
+      "title": "Phase-1 Dependency Graph",
+      "slug": "phase-1-dependency-graph",
+      "prompt_message_id": "MSG-021",
+      "response_message_id": "MSG-022",
+      "source_message_indexes": [
+        20,
+        21
+      ],
+      "prompt_sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "response_sha256": "9f9b9d3c31492cc6e2988278f34052371d7d9da1d3c9443ea1423ecc3176957a",
+      "pair_sha256": "14c8ce54d36106978e47a101609934c897b593bf76b1033527fc90570b0ad4c6",
+      "pair_path": "research/thread_pairs/TH-011-phase-1-dependency-graph.md",
+      "artifact_path": "governance/artifacts/ART-011-phase-1-dependency-graph.md",
+      "artifact_type": "governance_artifact",
+      "family_dir": "governance/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-012",
+      "pair_number": 12,
+      "title": "Phase-1 Control Sheet v2",
+      "slug": "phase-1-control-sheet-v2",
+      "prompt_message_id": "MSG-023",
+      "response_message_id": "MSG-024",
+      "source_message_indexes": [
+        22,
+        23
+      ],
+      "prompt_sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "response_sha256": "a187aa36783c13d97a5ba9cc87a35920a54add7bb267796406ef05fe750309f1",
+      "pair_sha256": "aad9fd147f87e8a8f71a220bcf54293c328d950f29aab26430c4078c6a5907cf",
+      "pair_path": "research/thread_pairs/TH-012-phase-1-control-sheet-v2.md",
+      "artifact_path": "governance/artifacts/ART-012-phase-1-control-sheet-v2.md",
+      "artifact_type": "governance_artifact",
+      "family_dir": "governance/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-013",
+      "pair_number": 13,
+      "title": "Phase-1 Wave-1 Launch Pack",
+      "slug": "phase-1-wave-1-launch-pack",
+      "prompt_message_id": "MSG-025",
+      "response_message_id": "MSG-026",
+      "source_message_indexes": [
+        24,
+        25
+      ],
+      "prompt_sha256": "fb8bac4fe9a6e287c6da7745a1227f53ebaf6d1416102378f1eca7ce66f6a6c5",
+      "response_sha256": "2c8ac5417ea9205241488b6c9a7caea377d09823426884533fb42dc365bb8d27",
+      "pair_sha256": "c07ef6f91003ddb0e8bca0f77067760466ed17a1e3309722017fb982f061c97a",
+      "pair_path": "research/thread_pairs/TH-013-phase-1-wave-1-launch-pack.md",
+      "artifact_path": "governance/artifacts/ART-013-phase-1-wave-1-launch-pack.md",
+      "artifact_type": "governance_artifact",
+      "family_dir": "governance/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-014",
+      "pair_number": 14,
+      "title": "Phase-1 Primitive Extraction Seed Library",
+      "slug": "phase-1-primitive-extraction-seed-library",
+      "prompt_message_id": "MSG-027",
+      "response_message_id": "MSG-028",
+      "source_message_indexes": [
+        26,
+        27
+      ],
+      "prompt_sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "response_sha256": "bfd3fa394e1810f173aaddc6683fe010da409c221a65d2dfe89668ae5c63d39e",
+      "pair_sha256": "496df32bde1e4039ec36f77805c32ad0494379fa3fc83ebca45f8c4fd4f8dea6",
+      "pair_path": "research/thread_pairs/TH-014-phase-1-primitive-extraction-seed-library.md",
+      "artifact_path": "engine/primitives/ART-014-phase-1-primitive-extraction-seed-library.md",
+      "artifact_type": "primitive_artifact",
+      "family_dir": "engine/primitives",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-015",
+      "pair_number": 15,
+      "title": "Primitive Interaction Map",
+      "slug": "primitive-interaction-map",
+      "prompt_message_id": "MSG-029",
+      "response_message_id": "MSG-030",
+      "source_message_indexes": [
+        28,
+        29
+      ],
+      "prompt_sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "response_sha256": "a7678c9cd0cadbf6679eb806461e89819958faef55f8da03e78b5077da816991",
+      "pair_sha256": "c2963151e293b76c624a6fcc21579b224cbb3f46db467fed024b236179967d1c",
+      "pair_path": "research/thread_pairs/TH-015-primitive-interaction-map.md",
+      "artifact_path": "governance/artifacts/ART-015-primitive-interaction-map.md",
+      "artifact_type": "governance_artifact",
+      "family_dir": "governance/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-016",
+      "pair_number": 16,
+      "title": "Cross-Lane Primitive Matrix",
+      "slug": "cross-lane-primitive-matrix",
+      "prompt_message_id": "MSG-031",
+      "response_message_id": "MSG-032",
+      "source_message_indexes": [
+        30,
+        31
+      ],
+      "prompt_sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "response_sha256": "e7e1eedd2874982b8a6a46c76b2e315476ae146dc14ba47de947cb8d06332a95",
+      "pair_sha256": "06fc2e0cb342c2c5a8ae742abf77a9bb3a7e5ce6ab37de05bc46b323b002efd1",
+      "pair_path": "research/thread_pairs/TH-016-cross-lane-primitive-matrix.md",
+      "artifact_path": "governance/artifacts/ART-016-cross-lane-primitive-matrix.md",
+      "artifact_type": "governance_artifact",
+      "family_dir": "governance/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-017",
+      "pair_number": 17,
+      "title": "Primitive Governance Table",
+      "slug": "primitive-governance-table",
+      "prompt_message_id": "MSG-033",
+      "response_message_id": "MSG-034",
+      "source_message_indexes": [
+        32,
+        33
+      ],
+      "prompt_sha256": "db00df594f886bbf12958d4f1b1516ca4ad343a33adb977d6dee2507d1fa27e4",
+      "response_sha256": "bfeac62d005497ea8c427fbfbe2bd05348b39b5690437277b8cc4c30d37a45ff",
+      "pair_sha256": "02b18c36f04aa1fee4bca588a658d28b40da7dc09423427b1cf8305d57b484b2",
+      "pair_path": "research/thread_pairs/TH-017-primitive-governance-table.md",
+      "artifact_path": "governance/artifacts/ART-017-primitive-governance-table.md",
+      "artifact_type": "governance_artifact",
+      "family_dir": "governance/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-018",
+      "pair_number": 18,
+      "title": "Glossary Draft Pack v1",
+      "slug": "glossary-draft-pack-v1",
+      "prompt_message_id": "MSG-035",
+      "response_message_id": "MSG-036",
+      "source_message_indexes": [
+        34,
+        35
+      ],
+      "prompt_sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "response_sha256": "f65d947ee91770c14a5ad018c490bab90ffaa1cd69e60e47409c351f71eb148e",
+      "pair_sha256": "672188e9fc1040946dd9a4a192dec59ac821893861e9fc073cb0d7e04ab84545",
+      "pair_path": "research/thread_pairs/TH-018-glossary-draft-pack-v1.md",
+      "artifact_path": "governance/artifacts/ART-018-glossary-draft-pack-v1.md",
+      "artifact_type": "governance_artifact",
+      "family_dir": "governance/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-019",
+      "pair_number": 19,
+      "title": "System Architecture Seed Modules",
+      "slug": "system-architecture-seed-modules",
+      "prompt_message_id": "MSG-037",
+      "response_message_id": "MSG-038",
+      "source_message_indexes": [
+        36,
+        37
+      ],
+      "prompt_sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "response_sha256": "e6c6ccdf3396422a2f5f92790b7c0559b34797040a70089c150646c52e97f119",
+      "pair_sha256": "a26111ebf14656de95641102f693dfa3f8c87d822bdef5ff026e619635cbbffa",
+      "pair_path": "research/thread_pairs/TH-019-system-architecture-seed-modules.md",
+      "artifact_path": "atlas/artifacts/ART-019-system-architecture-seed-modules.md",
+      "artifact_type": "atlas_artifact",
+      "family_dir": "atlas/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-020",
+      "pair_number": 20,
+      "title": "Universal Systems Map",
+      "slug": "universal-systems-map",
+      "prompt_message_id": "MSG-039",
+      "response_message_id": "MSG-040",
+      "source_message_indexes": [
+        38,
+        39
+      ],
+      "prompt_sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "response_sha256": "41adfe5284a548625dd527ef34d471c8c9edbc3ab976c7c4d6269c5860ad97b0",
+      "pair_sha256": "a884291db3e644c372b8e637211dfda176c39fdbbf629106ed4584a423f6ea82",
+      "pair_path": "research/thread_pairs/TH-020-universal-systems-map.md",
+      "artifact_path": "atlas/artifacts/ART-020-universal-systems-map.md",
+      "artifact_type": "atlas_artifact",
+      "family_dir": "atlas/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-021",
+      "pair_number": 21,
+      "title": "Universal Primitive Graph",
+      "slug": "universal-primitive-graph",
+      "prompt_message_id": "MSG-041",
+      "response_message_id": "MSG-042",
+      "source_message_indexes": [
+        40,
+        41
+      ],
+      "prompt_sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "response_sha256": "4cb8d02d1cda906c642d2ccadd64a2162d6b76ab28d6e2ad4b30621fe7305f60",
+      "pair_sha256": "88fdd9ec93ba286b340640fde6a347a7980fe62d940f5a64420b945e82b28734",
+      "pair_path": "research/thread_pairs/TH-021-universal-primitive-graph.md",
+      "artifact_path": "knowledge_graph/artifacts/ART-021-universal-primitive-graph.md",
+      "artifact_type": "knowledge_graph_artifact",
+      "family_dir": "knowledge_graph/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-022",
+      "pair_number": 22,
+      "title": "Transition Atlas",
+      "slug": "transition-atlas",
+      "prompt_message_id": "MSG-043",
+      "response_message_id": "MSG-044",
+      "source_message_indexes": [
+        42,
+        43
+      ],
+      "prompt_sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "response_sha256": "e76619b385233e394b85332cc30c4781d81b76e0822c153a060b6489d4fb4f4e",
+      "pair_sha256": "266479bfd4a9e1240e42c5ed54476f397f8ee07070e1d1bdde40cefe27d79883",
+      "pair_path": "research/thread_pairs/TH-022-transition-atlas.md",
+      "artifact_path": "engine/thresholds/ART-022-transition-atlas.md",
+      "artifact_type": "threshold_artifact",
+      "family_dir": "engine/thresholds",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-023",
+      "pair_number": 23,
+      "title": "Threshold Package Library",
+      "slug": "threshold-package-library",
+      "prompt_message_id": "MSG-045",
+      "response_message_id": "MSG-046",
+      "source_message_indexes": [
+        44,
+        45
+      ],
+      "prompt_sha256": "8d1177a85f8326ce8024a72329e1797aa1d12dcd7c0d57df367672a33f2f038e",
+      "response_sha256": "1d57d2e5f7dc7b97b069aca02b0937caaedc46f5b81e17812dc08860989e61e5",
+      "pair_sha256": "5829c98533a8244e708e1496bed282c0341209157282c60a64c379beb4a1d3c0",
+      "pair_path": "research/thread_pairs/TH-023-threshold-package-library.md",
+      "artifact_path": "engine/thresholds/ART-023-threshold-package-library.md",
+      "artifact_type": "threshold_artifact",
+      "family_dir": "engine/thresholds",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-024",
+      "pair_number": 24,
+      "title": "Phase-2 Deep Research Charter",
+      "slug": "phase-2-deep-research-charter",
+      "prompt_message_id": "MSG-047",
+      "response_message_id": "MSG-048",
+      "source_message_indexes": [
+        46,
+        47
+      ],
+      "prompt_sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "response_sha256": "5689febf191ee98d88381b43b53cc22f73de41d6c7e373b0a488cf7983059302",
+      "pair_sha256": "00dd0aaa9dc3f562c3d0fa98300234c31e236a1b25dc57edec13f1929830d7a0",
+      "pair_path": "research/thread_pairs/TH-024-phase-2-deep-research-charter.md",
+      "artifact_path": "atlas/artifacts/ART-024-phase-2-deep-research-charter.md",
+      "artifact_type": "atlas_artifact",
+      "family_dir": "atlas/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-025",
+      "pair_number": 25,
+      "title": "produce the core reading library",
+      "slug": "produce-the-core-reading-library",
+      "prompt_message_id": "MSG-049",
+      "response_message_id": "MSG-050",
+      "source_message_indexes": [
+        48,
+        49
+      ],
+      "prompt_sha256": "0de4fbe9c557f4409919936e3cdd58c58be175f19eb18b8a64fc634b0283e3c2",
+      "response_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "pair_sha256": "9c467febf710c595e18480de3ac45f6b23a771872a742580fc1a4dd4c549d932",
+      "pair_path": "research/thread_pairs/TH-025-produce-the-core-reading-library.md",
+      "artifact_path": "research/artifacts/ART-025-produce-the-core-reading-library.md",
+      "artifact_type": "research_artifact",
+      "family_dir": "research/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-026",
+      "pair_number": 26,
+      "title": "Below is the most reliable workflow.",
+      "slug": "below-is-the-most-reliable-workflow",
+      "prompt_message_id": "MSG-051",
+      "response_message_id": "MSG-052",
+      "source_message_indexes": [
+        50,
+        51
+      ],
+      "prompt_sha256": "59ccedf43a9c0f2b736399a13b772c353bd9392083b208b4e134c079e59b28a7",
+      "response_sha256": "59a71a5c5f065b2446dcc3588c3b6d67823074b46a3d93191c7fdc735b134164",
+      "pair_sha256": "4587b26b24013c0af9c65d02aa8e33ab3ff112de14c89ac6f0af444045219af9",
+      "pair_path": "research/thread_pairs/TH-026-below-is-the-most-reliable-workflow.md",
+      "artifact_path": "atlas/artifacts/ART-026-below-is-the-most-reliable-workflow.md",
+      "artifact_type": "atlas_artifact",
+      "family_dir": "atlas/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-027",
+      "pair_number": 27,
+      "title": "Below is the simplest robust version you can run locally.",
+      "slug": "below-is-the-simplest-robust-version-you-can-run-locally",
+      "prompt_message_id": "MSG-053",
+      "response_message_id": "MSG-054",
+      "source_message_indexes": [
+        52,
+        53
+      ],
+      "prompt_sha256": "8e1c8f49c5ef2d85d01fd6d83eb4b4ce8cc3c3163ae2af8bb9562657b8c0ffb8",
+      "response_sha256": "58ec831ced9f7eefa520995b9d31c168904ad7aef25f9c6d4f61c963cf8f6233",
+      "pair_sha256": "526be2e4f3f36041f0cee55bcdf45fa10d6f8b66bb6855084634515fcb7b9a81",
+      "pair_path": "research/thread_pairs/TH-027-below-is-the-simplest-robust-version-you-can-run-locally.md",
+      "artifact_path": "atlas/artifacts/ART-027-below-is-the-simplest-robust-version-you-can-run-locally.md",
+      "artifact_type": "atlas_artifact",
+      "family_dir": "atlas/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-028",
+      "pair_number": 28,
+      "title": "The core idea is simple",
+      "slug": "the-core-idea-is-simple",
+      "prompt_message_id": "MSG-055",
+      "response_message_id": "MSG-056",
+      "source_message_indexes": [
+        54,
+        55
+      ],
+      "prompt_sha256": "cbc2935aebe3ca1f1c6384809d35dfa592d9adb6d692b8001cd4089f7a178861",
+      "response_sha256": "d5e84fabdfe85593c0035d19fa699f77a8dfb7b62940a9647b8901c4fdc0d466",
+      "pair_sha256": "651706558a9ab5ad8639ca228794428052c7475804f69846af396a6e195ce0a8",
+      "pair_path": "research/thread_pairs/TH-028-the-core-idea-is-simple.md",
+      "artifact_path": "atlas/artifacts/ART-028-the-core-idea-is-simple.md",
+      "artifact_type": "atlas_artifact",
+      "family_dir": "atlas/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-029",
+      "pair_number": 29,
+      "title": "Yes \u2014 that was a real missing piece.",
+      "slug": "yes-that-was-a-real-missing-piece",
+      "prompt_message_id": "MSG-057",
+      "response_message_id": "MSG-058",
+      "source_message_indexes": [
+        56,
+        57
+      ],
+      "prompt_sha256": "8b4f32581173b20a0bb51ee95e366518783e783c6d64bc9fb2f710e9422011b8",
+      "response_sha256": "b4733ff3b1acfd14f3c43b55b032af73625fdf4e310f1e3e1181e5e2a1e2697e",
+      "pair_sha256": "2dfb10b83d6dea8d7dab1166a9f663fd5728f0b1de421395d1e47105fd42ee95",
+      "pair_path": "research/thread_pairs/TH-029-yes-that-was-a-real-missing-piece.md",
+      "artifact_path": "governance/artifacts/ART-029-yes-that-was-a-real-missing-piece.md",
+      "artifact_type": "governance_artifact",
+      "family_dir": "governance/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-030",
+      "pair_number": 30,
+      "title": "Below is Source Access Matrix v1 for the Wave-1 priority readings that correspond to the five Phase-2 research lanes.",
+      "slug": "below-is-source-access-matrix-v1-for-the-wave-1-priority-readings-that-correspond-to-the-five-phase-2-research-lanes",
+      "prompt_message_id": "MSG-059",
+      "response_message_id": "MSG-060",
+      "source_message_indexes": [
+        58,
+        59
+      ],
+      "prompt_sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "response_sha256": "981829c44864bc3584952b2998e94bd3c7444aa36d760e448660cc7aa57db6cf",
+      "pair_sha256": "4476429425926d04c6cb348a1a2c684b4e8e512f3273cb4d743ffadf227900c4",
+      "pair_path": "research/thread_pairs/TH-030-below-is-source-access-matrix-v1-for-the-wave-1-priority-readings-that-correspond-to-the-five-phase-2-research-lanes.md",
+      "artifact_path": "engine/mechanisms/ART-030-below-is-source-access-matrix-v1-for-the-wave-1-priority-readings-that-correspond-to-the-five-phase-2-research-lanes.md",
+      "artifact_type": "mechanism_artifact",
+      "family_dir": "engine/mechanisms",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-031",
+      "pair_number": 31,
+      "title": "The index is organized by the domain stack",
+      "slug": "the-index-is-organized-by-the-domain-stack",
+      "prompt_message_id": "MSG-061",
+      "response_message_id": "MSG-062",
+      "source_message_indexes": [
+        60,
+        61
+      ],
+      "prompt_sha256": "8a798890fe93817163b10b5f7bd2ca4d25d84c52739a645a889c173eee7d9d3d",
+      "response_sha256": "49c04a61adfd1ce9365de1134aed79ef4c374656cfa884400c5d36111a7ff720",
+      "pair_sha256": "061f6086309cc4c217c424290fb832184727685ad9001cbe9778cd8982f4c604",
+      "pair_path": "research/thread_pairs/TH-031-the-index-is-organized-by-the-domain-stack.md",
+      "artifact_path": "engine/thresholds/ART-031-the-index-is-organized-by-the-domain-stack.md",
+      "artifact_type": "threshold_artifact",
+      "family_dir": "engine/thresholds",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-032",
+      "pair_number": 32,
+      "title": "Below is the Research Lane Syllabus v1.",
+      "slug": "below-is-the-research-lane-syllabus-v1",
+      "prompt_message_id": "MSG-063",
+      "response_message_id": "MSG-064",
+      "source_message_indexes": [
+        62,
+        63
+      ],
+      "prompt_sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "response_sha256": "3e83d3aabad24f9e146cbca0febdd1d19f1293f70efb00e665d17a5cacaf239f",
+      "pair_sha256": "70332d826772e7a7338b0783a48732edd19eae9eb7bb39f099647e389bfa870f",
+      "pair_path": "research/thread_pairs/TH-032-below-is-the-research-lane-syllabus-v1.md",
+      "artifact_path": "atlas/artifacts/ART-032-below-is-the-research-lane-syllabus-v1.md",
+      "artifact_type": "atlas_artifact",
+      "family_dir": "atlas/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-033",
+      "pair_number": 33,
+      "title": "Research Knowledge Graph",
+      "slug": "research-knowledge-graph",
+      "prompt_message_id": "MSG-065",
+      "response_message_id": "MSG-066",
+      "source_message_indexes": [
+        64,
+        65
+      ],
+      "prompt_sha256": "8a798890fe93817163b10b5f7bd2ca4d25d84c52739a645a889c173eee7d9d3d",
+      "response_sha256": "fbe47093ac37dbbe11bdd5b597625ded6e08aafa95296c39462d6052ca53a4f7",
+      "pair_sha256": "643c1dcd0544422ca208425c03970180e37e39f40af09c481a9e95f8b0efcc3e",
+      "pair_path": "research/thread_pairs/TH-033-research-knowledge-graph.md",
+      "artifact_path": "knowledge_graph/artifacts/ART-033-research-knowledge-graph.md",
+      "artifact_type": "knowledge_graph_artifact",
+      "family_dir": "knowledge_graph/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-034",
+      "pair_number": 34,
+      "title": "Your three points raise three different governance questions for the project",
+      "slug": "your-three-points-raise-three-different-governance-questions-for-the-project",
+      "prompt_message_id": "MSG-067",
+      "response_message_id": "MSG-068",
+      "source_message_indexes": [
+        66,
+        67
+      ],
+      "prompt_sha256": "f080016569e64516a20350e267d6523e6cb4fca8f8a5161be6b22346e3d1eb0d",
+      "response_sha256": "9d1c3369d687ed161726533d39bf1428bee97bfbc2c4031c46bb55dc9fdc3056",
+      "pair_sha256": "a11d64f974a7398ef6730009d8415f7a0fd17e25c9e8c8b1397c22a30d007670",
+      "pair_path": "research/thread_pairs/TH-034-your-three-points-raise-three-different-governance-questions-for-the-project.md",
+      "artifact_path": "governance/artifacts/ART-034-your-three-points-raise-three-different-governance-questions-for-the-project.md",
+      "artifact_type": "governance_artifact",
+      "family_dir": "governance/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-035",
+      "pair_number": 35,
+      "title": "Research Institute Operating Model",
+      "slug": "research-institute-operating-model",
+      "prompt_message_id": "MSG-069",
+      "response_message_id": "MSG-070",
+      "source_message_indexes": [
+        68,
+        69
+      ],
+      "prompt_sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "response_sha256": "6ad3642f8d3028ccb5c3df4f22f11037e5a9f4a2d31021e9bdc7954b255e9b06",
+      "pair_sha256": "252df95a886eec3fc1d73fbd9db4e032e41c9696a6f3b3fbeb21e77ff344ce6a",
+      "pair_path": "research/thread_pairs/TH-035-research-institute-operating-model.md",
+      "artifact_path": "governance/artifacts/ART-035-research-institute-operating-model.md",
+      "artifact_type": "governance_artifact",
+      "family_dir": "governance/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-036",
+      "pair_number": 36,
+      "title": "Universe-Engine Computational Architecture",
+      "slug": "universe-engine-computational-architecture",
+      "prompt_message_id": "MSG-071",
+      "response_message_id": "MSG-072",
+      "source_message_indexes": [
+        70,
+        71
+      ],
+      "prompt_sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "response_sha256": "87ce3d1aa511a88da7b24047938a99988e5783f538c73c2d72811b7543646386",
+      "pair_sha256": "67cd080b16c85f6fad220547bc78bd16513e7d7dc49cffbe43b88862707b48a0",
+      "pair_path": "research/thread_pairs/TH-036-universe-engine-computational-architecture.md",
+      "artifact_path": "governance/artifacts/ART-036-universe-engine-computational-architecture.md",
+      "artifact_type": "governance_artifact",
+      "family_dir": "governance/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-037",
+      "pair_number": 37,
+      "title": "Below is the realistic assessment.",
+      "slug": "below-is-the-realistic-assessment",
+      "prompt_message_id": "MSG-073",
+      "response_message_id": "MSG-074",
+      "source_message_indexes": [
+        72,
+        73
+      ],
+      "prompt_sha256": "f656c762667dd8c68ec2bac8b14b331ab6eb307b2b43c3ac2a3c6f0e0a3dae6d",
+      "response_sha256": "425687b1943558b74bf320b321930721a7a2ebf70c56f0b433798f7976ef85c7",
+      "pair_sha256": "9488dca5d276794b9efd4bb7c31c96b04f3efad06c79ff0f3e078c1cc777ea9d",
+      "pair_path": "research/thread_pairs/TH-037-below-is-the-realistic-assessment.md",
+      "artifact_path": "governance/artifacts/ART-037-below-is-the-realistic-assessment.md",
+      "artifact_type": "governance_artifact",
+      "family_dir": "governance/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-038",
+      "pair_number": 38,
+      "title": "PRIMITIVE CANON v1",
+      "slug": "primitive-canon-v1",
+      "prompt_message_id": "MSG-075",
+      "response_message_id": "MSG-076",
+      "source_message_indexes": [
+        74,
+        75
+      ],
+      "prompt_sha256": "3da91947d628ea1f945f80cba4837376a12104aa89911663d8f18b7151c32407",
+      "response_sha256": "81aa0bb948390beaa7c3b38545a0859cd484e32cad63cd59b74f6ceda7c4f47e",
+      "pair_sha256": "b60920175c531f712b31f3caf548b4fa85d9fbca2b7ad48483ccf7277f063973",
+      "pair_path": "research/thread_pairs/TH-038-primitive-canon-v1.md",
+      "artifact_path": "engine/primitives/ART-038-primitive-canon-v1.md",
+      "artifact_type": "primitive_artifact",
+      "family_dir": "engine/primitives",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-039",
+      "pair_number": 39,
+      "title": "MECHANISM REGISTRY v1",
+      "slug": "mechanism-registry-v1",
+      "prompt_message_id": "MSG-077",
+      "response_message_id": "MSG-078",
+      "source_message_indexes": [
+        76,
+        77
+      ],
+      "prompt_sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "response_sha256": "6759a18e83101d849628fb9abbd1698f72e375757693fba39dfec31531917872",
+      "pair_sha256": "d1bb81b0318704dc6feb08ed237a0c8765f32685e4b345c0e8f02f6529f997b3",
+      "pair_path": "research/thread_pairs/TH-039-mechanism-registry-v1.md",
+      "artifact_path": "engine/mechanisms/ART-039-mechanism-registry-v1.md",
+      "artifact_type": "mechanism_artifact",
+      "family_dir": "engine/mechanisms",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-040",
+      "pair_number": 40,
+      "title": "To answer this clearly, we need to distinguish three completion horizons",
+      "slug": "to-answer-this-clearly-we-need-to-distinguish-three-completion-horizons",
+      "prompt_message_id": "MSG-079",
+      "response_message_id": "MSG-080",
+      "source_message_indexes": [
+        78,
+        79
+      ],
+      "prompt_sha256": "03b4b255b2cda60cf48df4808a45986243b08ecba73d7ae8149e7752cfc993ff",
+      "response_sha256": "db7cf2918e17483086181ab6bd0db01c1d96b68db169515ac6c8439e8cecb9cc",
+      "pair_sha256": "450dc6ff9e8c77a520ded91ceae7020efdf88dcfb0eaed190d6555f8e1f394b8",
+      "pair_path": "research/thread_pairs/TH-040-to-answer-this-clearly-we-need-to-distinguish-three-completion-horizons.md",
+      "artifact_path": "atlas/artifacts/ART-040-to-answer-this-clearly-we-need-to-distinguish-three-completion-horizons.md",
+      "artifact_type": "atlas_artifact",
+      "family_dir": "atlas/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-041",
+      "pair_number": 41,
+      "title": "To prevent collapse under complexity, the system must be reduced to a minimal operational backbone.",
+      "slug": "to-prevent-collapse-under-complexity-the-system-must-be-reduced-to-a-minimal-operational-backbone",
+      "prompt_message_id": "MSG-081",
+      "response_message_id": "MSG-082",
+      "source_message_indexes": [
+        80,
+        81
+      ],
+      "prompt_sha256": "c8f6a17df697649088faf641f495bb47fe5c2bcedcd8b519d18d037d5bdf8380",
+      "response_sha256": "b8d91f99766990c15d916922ce60c3f1416ece8559d454c5d8dd8863170489d5",
+      "pair_sha256": "977135b1d55740be521c269697ebaddc9f43ea2a6dc0f8403a85c5b8ed76a59c",
+      "pair_path": "research/thread_pairs/TH-041-to-prevent-collapse-under-complexity-the-system-must-be-reduced-to-a-minimal-operational-backbone.md",
+      "artifact_path": "atlas/artifacts/ART-041-to-prevent-collapse-under-complexity-the-system-must-be-reduced-to-a-minimal-operational-backbone.md",
+      "artifact_type": "atlas_artifact",
+      "family_dir": "atlas/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-042",
+      "pair_number": 42,
+      "title": "Not object types. Not domain-specific subsystems. Patterns.",
+      "slug": "not-object-types-not-domain-specific-subsystems-patterns",
+      "prompt_message_id": "MSG-083",
+      "response_message_id": "MSG-084",
+      "source_message_indexes": [
+        82,
+        83
+      ],
+      "prompt_sha256": "40d6765bd471d3f6123a87bd506cee44f7fd69ada5cdc93b20b8b6a231eb94d7",
+      "response_sha256": "4e879c09357d20184cab96393ddd4b52f34b0c5321d34d09421fff9caf63deda",
+      "pair_sha256": "5864d4dd6b5f12771b94b916abd0a96960cf43c5e749bddac80e5553f808710b",
+      "pair_path": "research/thread_pairs/TH-042-not-object-types-not-domain-specific-subsystems-patterns.md",
+      "artifact_path": "governance/artifacts/ART-042-not-object-types-not-domain-specific-subsystems-patterns.md",
+      "artifact_type": "governance_artifact",
+      "family_dir": "governance/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-043",
+      "pair_number": 43,
+      "title": "UNIVERSE_ENGINE_KERNEL_SPEC_v0",
+      "slug": "universe-engine-kernel-spec-v0",
+      "prompt_message_id": "MSG-085",
+      "response_message_id": "MSG-086",
+      "source_message_indexes": [
+        84,
+        85
+      ],
+      "prompt_sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "response_sha256": "5b35c9d0664f9f783b32e4093970f05cdb2cdd65dea80628403f134141641fa9",
+      "pair_sha256": "8604c613df43919d898ecb3cdf7b68d826b26fa656852bccdfe5fa798fa8eace",
+      "pair_path": "research/thread_pairs/TH-043-universe-engine-kernel-spec-v0.md",
+      "artifact_path": "engine/runtime/ART-043-universe-engine-kernel-spec-v0.md",
+      "artifact_type": "runtime_artifact",
+      "family_dir": "engine/runtime",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-044",
+      "pair_number": 44,
+      "title": "MODULE_API_SPEC_v1",
+      "slug": "module-api-spec-v1",
+      "prompt_message_id": "MSG-087",
+      "response_message_id": "MSG-088",
+      "source_message_indexes": [
+        86,
+        87
+      ],
+      "prompt_sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "response_sha256": "0a959dcf9711eb5910ca7d777a564ec4f710413b450820c251fddea82c625ad4",
+      "pair_sha256": "566db0da1fb705f92513a7cc6bce8d5cd7708801ef00559fdd283b549aa309e7",
+      "pair_path": "research/thread_pairs/TH-044-module-api-spec-v1.md",
+      "artifact_path": "engine/modules/ART-044-module-api-spec-v1.md",
+      "artifact_type": "module_artifact",
+      "family_dir": "engine/modules",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-045",
+      "pair_number": 45,
+      "title": "WORLD_INSTANCE_SCHEMA_v1",
+      "slug": "world-instance-schema-v1",
+      "prompt_message_id": "MSG-089",
+      "response_message_id": "MSG-090",
+      "source_message_indexes": [
+        88,
+        89
+      ],
+      "prompt_sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "response_sha256": "43dac1e0900be4234e439385cf3fa37981095061098e0108628821367ceb700b",
+      "pair_sha256": "639b88f81539a4eb0150255e193cba9d2975103ffb1a96398501a07d85d291d9",
+      "pair_path": "research/thread_pairs/TH-045-world-instance-schema-v1.md",
+      "artifact_path": "engine/worlds/ART-045-world-instance-schema-v1.md",
+      "artifact_type": "world_artifact",
+      "family_dir": "engine/worlds",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-046",
+      "pair_number": 46,
+      "title": "RESEARCH_DASHBOARD_v1",
+      "slug": "research-dashboard-v1",
+      "prompt_message_id": "MSG-091",
+      "response_message_id": "MSG-092",
+      "source_message_indexes": [
+        90,
+        91
+      ],
+      "prompt_sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "response_sha256": "3cbea1120cbc01db14b4f5c2827264714778e55cddd138a8a8e69a2e37aad8d9",
+      "pair_sha256": "2811962d1286e61fdca605893ab8599bea35f121009a2a1e755809126bf8daa8",
+      "pair_path": "research/thread_pairs/TH-046-research-dashboard-v1.md",
+      "artifact_path": "engine/mechanisms/ART-046-research-dashboard-v1.md",
+      "artifact_type": "mechanism_artifact",
+      "family_dir": "engine/mechanisms",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-047",
+      "pair_number": 47,
+      "title": "Below is the Phase-1 Launch Reading Set (30 texts).",
+      "slug": "below-is-the-phase-1-launch-reading-set-30-texts",
+      "prompt_message_id": "MSG-093",
+      "response_message_id": "MSG-094",
+      "source_message_indexes": [
+        92,
+        93
+      ],
+      "prompt_sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "response_sha256": "b1183b959a229b21c861994dc513415c9ffb1364c440a3e8138d03cab8b338c3",
+      "pair_sha256": "d7b26b635def7a2356188d519989151647337dc742c19e82d6f5f5d7d5efcde4",
+      "pair_path": "research/thread_pairs/TH-047-below-is-the-phase-1-launch-reading-set-30-texts.md",
+      "artifact_path": "organvm_bridge/artifacts/ART-047-below-is-the-phase-1-launch-reading-set-30-texts.md",
+      "artifact_type": "organvm_bridge_artifact",
+      "family_dir": "organvm_bridge/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-048",
+      "pair_number": 48,
+      "title": "MECHANISM EXTRACTION TEMPLATE v1",
+      "slug": "mechanism-extraction-template-v1",
+      "prompt_message_id": "MSG-095",
+      "response_message_id": "MSG-096",
+      "source_message_indexes": [
+        94,
+        95
+      ],
+      "prompt_sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "response_sha256": "cb69cdc410f979fda9b5a29f575908b2aed4ae47f1361a35c28efd9bfc481ef7",
+      "pair_sha256": "7673da28801b451a404b500f30780d49d48077c14399d7a0ff17004cb0d9f298",
+      "pair_path": "research/thread_pairs/TH-048-mechanism-extraction-template-v1.md",
+      "artifact_path": "engine/mechanisms/ART-048-mechanism-extraction-template-v1.md",
+      "artifact_type": "mechanism_artifact",
+      "family_dir": "engine/mechanisms",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-049",
+      "pair_number": 49,
+      "title": "Below is a complete operational close-out package for this thread.",
+      "slug": "below-is-a-complete-operational-close-out-package-for-this-thread",
+      "prompt_message_id": "MSG-097",
+      "response_message_id": "MSG-098",
+      "source_message_indexes": [
+        96,
+        97
+      ],
+      "prompt_sha256": "1edfcf053f255eb7b7dcc7bb3ff7e7a36dad2fb09c4f7ca4d65ffbedd6a34768",
+      "response_sha256": "d5979745949fe6f8b5789579732f2f247b67a0bbe2d01dd6b3c59a859cc26b99",
+      "pair_sha256": "d557f5c0b20eb2c4906a953f489ba2ff06b55068693c6609a041e67318636390",
+      "pair_path": "research/thread_pairs/TH-049-below-is-a-complete-operational-close-out-package-for-this-thread.md",
+      "artifact_path": "manifest/artifacts/ART-049-below-is-a-complete-operational-close-out-package-for-this-thread.md",
+      "artifact_type": "manifest_artifact",
+      "family_dir": "manifest/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-050",
+      "pair_number": 50,
+      "title": "Below is a one-command repository generator script that bootstraps the entire local structure for the project.",
+      "slug": "below-is-a-one-command-repository-generator-script-that-bootstraps-the-entire-local-structure-for-the-project",
+      "prompt_message_id": "MSG-099",
+      "response_message_id": "MSG-100",
+      "source_message_indexes": [
+        98,
+        99
+      ],
+      "prompt_sha256": "7b72345a4594c64aa287a0e3b98fd2fed5df656c35ad555376051f7c3da97632",
+      "response_sha256": "1094a39794ee8e29e136509ce765f07cb72b1c0fd563759240cbb3af0f4082c0",
+      "pair_sha256": "d682427115d49c82b5c5784c73f242e137fdafa18e86c773a69c0dc9b6c253e0",
+      "pair_path": "research/thread_pairs/TH-050-below-is-a-one-command-repository-generator-script-that-bootstraps-the-entire-local-structure-for-the-project.md",
+      "artifact_path": "manifest/artifacts/ART-050-below-is-a-one-command-repository-generator-script-that-bootstraps-the-entire-local-structure-for-the-project.md",
+      "artifact_type": "manifest_artifact",
+      "family_dir": "manifest/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-051",
+      "pair_number": 51,
+      "title": "Below is the thread distiller script that takes a raw ChatGPT transcript and turns it into seeded repository artifacts.",
+      "slug": "below-is-the-thread-distiller-script-that-takes-a-raw-chatgpt-transcript-and-turns-it-into-seeded-repository-artifacts",
+      "prompt_message_id": "MSG-101",
+      "response_message_id": "MSG-102",
+      "source_message_indexes": [
+        100,
+        101
+      ],
+      "prompt_sha256": "119792136aa24c129810a8c2d0920e3fdff09e7276f6c9d105d447a62de4dd90",
+      "response_sha256": "0bda1ebf5aef88ace0a0354e3cad1e1ba1fbab31df882d3b821234cc7444971f",
+      "pair_sha256": "d3c8fd1108f59481f4e8b0d1861e9c52bbbac1cf19fbec746bc9e7b84d46013a",
+      "pair_path": "research/thread_pairs/TH-051-below-is-the-thread-distiller-script-that-takes-a-raw-chatgpt-transcript-and-turns-it-into-seeded-repository-artifacts.md",
+      "artifact_path": "ingestion/artifacts/ART-051-below-is-the-thread-distiller-script-that-takes-a-raw-chatgpt-transcript-and-turns-it-into-seeded-repository-artifacts.md",
+      "artifact_type": "ingestion_artifact",
+      "family_dir": "ingestion/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-052",
+      "pair_number": 52,
+      "title": "Writing",
+      "slug": "writing",
+      "prompt_message_id": "MSG-103",
+      "response_message_id": "MSG-104",
+      "source_message_indexes": [
+        102,
+        103
+      ],
+      "prompt_sha256": "d5473fb2f64b6dc2a57faa62152472a404ed6f9349d6a151df57aee00371c9e3",
+      "response_sha256": "8e706f548d732cd28a4a76480759970713459f08d479ab204786688c511573ed",
+      "pair_sha256": "803f807df13c0edd6879a04f55a786e21e2a70e3856480f17cb85278f88eac23",
+      "pair_path": "research/thread_pairs/TH-052-writing.md",
+      "artifact_path": "manifest/artifacts/ART-052-writing.md",
+      "artifact_type": "manifest_artifact",
+      "family_dir": "manifest/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-053",
+      "pair_number": 53,
+      "title": "Ulti-Meta\u2013Multiversal\u2013Poly-Algorithm\u2013Rhythmic\u2013Constant-Morph\u2013Meme",
+      "slug": "ulti-meta-multiversal-poly-algorithm-rhythmic-constant-morph-meme",
+      "prompt_message_id": "MSG-105",
+      "response_message_id": "MSG-106",
+      "source_message_indexes": [
+        104,
+        105
+      ],
+      "prompt_sha256": "e097c18a52d4373c12b95ac2997e77ad6d4691d2c029be4105982ab71785aa04",
+      "response_sha256": "f615994caa2a3ccf1c708a015a98ee50db2114605a384a100cf78e89765e7b5b",
+      "pair_sha256": "2f5fa6bf126e1a32abc778e227d0c1329db3ffaf61636be3bf0644a0be287fe8",
+      "pair_path": "research/thread_pairs/TH-053-ulti-meta-multiversal-poly-algorithm-rhythmic-constant-morph-meme.md",
+      "artifact_path": "engine/mechanisms/ART-053-ulti-meta-multiversal-poly-algorithm-rhythmic-constant-morph-meme.md",
+      "artifact_type": "mechanism_artifact",
+      "family_dir": "engine/mechanisms",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-054",
+      "pair_number": 54,
+      "title": "Formal Mapping",
+      "slug": "formal-mapping",
+      "prompt_message_id": "MSG-107",
+      "response_message_id": "MSG-108",
+      "source_message_indexes": [
+        106,
+        107
+      ],
+      "prompt_sha256": "85a39ab345d672ff8ca9b9c6876f3adcacf45ee7c1e2dbd2408fd338bd55e07e",
+      "response_sha256": "35ea5fd6515b412174e84569f619cc882339fa119ad82520734b5b792c069152",
+      "pair_sha256": "06c0e0ef561ae5173bcb60b49868354a8d0f22445d7972f6cd50c7dd5849e186",
+      "pair_path": "research/thread_pairs/TH-054-formal-mapping.md",
+      "artifact_path": "governance/artifacts/ART-054-formal-mapping.md",
+      "artifact_type": "governance_artifact",
+      "family_dir": "governance/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-055",
+      "pair_number": 55,
+      "title": "To explain precisely, we should separate three layers that now exist in your project.",
+      "slug": "to-explain-precisely-we-should-separate-three-layers-that-now-exist-in-your-project",
+      "prompt_message_id": "MSG-109",
+      "response_message_id": "MSG-110",
+      "source_message_indexes": [
+        108,
+        109
+      ],
+      "prompt_sha256": "278da46f51483a060a5c7f3039bf10550f8b34ea4a5750adb6fce4dfddb78abf",
+      "response_sha256": "11a3c9deb259752a1b5c9bfb35213dbe10c67323d8ca901df174a9a5351384f5",
+      "pair_sha256": "928f785f8faf6869e00df093fd78010933c9002933c8f205202c628dbd885a7b",
+      "pair_path": "research/thread_pairs/TH-055-to-explain-precisely-we-should-separate-three-layers-that-now-exist-in-your-project.md",
+      "artifact_path": "atlas/artifacts/ART-055-to-explain-precisely-we-should-separate-three-layers-that-now-exist-in-your-project.md",
+      "artifact_type": "atlas_artifact",
+      "family_dir": "atlas/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-056",
+      "pair_number": 56,
+      "title": "Preventing that outcome requires a mechanism discipline protocol before the literature review begins.",
+      "slug": "preventing-that-outcome-requires-a-mechanism-discipline-protocol-before-the-literature-review-begins",
+      "prompt_message_id": "MSG-111",
+      "response_message_id": "MSG-112",
+      "source_message_indexes": [
+        110,
+        111
+      ],
+      "prompt_sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "response_sha256": "7f8ce2c00c552a0e670c6f0181a9425aa0e4180b248e86fcb2bb7a983b0e9315",
+      "pair_sha256": "602d7ba41bd4fbdd9b0f49a4207fb34de5553d4d5efc9b3e230ddcf72260a075",
+      "pair_path": "research/thread_pairs/TH-056-preventing-that-outcome-requires-a-mechanism-discipline-protocol-before-the-literature-review-begins.md",
+      "artifact_path": "governance/artifacts/ART-056-preventing-that-outcome-requires-a-mechanism-discipline-protocol-before-the-literature-review-begins.md",
+      "artifact_type": "governance_artifact",
+      "family_dir": "governance/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-057",
+      "pair_number": 57,
+      "title": "The 12 Mechanism Families",
+      "slug": "the-12-mechanism-families",
+      "prompt_message_id": "MSG-113",
+      "response_message_id": "MSG-114",
+      "source_message_indexes": [
+        112,
+        113
+      ],
+      "prompt_sha256": "1abb619bb5dce09cdc2af48f635ad4e96c5d35eddde6d9976dcae9b3556ed03e",
+      "response_sha256": "dc2ba0c8372b376f0943bb36710cabe8c3b5dcb25cf31c860cd2bbded47db681",
+      "pair_sha256": "9c9b6292e41a2031cdac5cc90237e21936add16e7de0ebdac33ce16cb03e0e2c",
+      "pair_path": "research/thread_pairs/TH-057-the-12-mechanism-families.md",
+      "artifact_path": "governance/artifacts/ART-057-the-12-mechanism-families.md",
+      "artifact_type": "governance_artifact",
+      "family_dir": "governance/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-058",
+      "pair_number": 58,
+      "title": "Below is the Research Pipeline (R0 \u2192 R6) that operationalizes the entire research phase.",
+      "slug": "below-is-the-research-pipeline-r0-r6-that-operationalizes-the-entire-research-phase",
+      "prompt_message_id": "MSG-115",
+      "response_message_id": "MSG-116",
+      "source_message_indexes": [
+        114,
+        115
+      ],
+      "prompt_sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "response_sha256": "5ddcda42c0445dd3417dccfa4f0adaa15c2716d4dd73a32ed16efc0de59d9b91",
+      "pair_sha256": "c0af09542c4ed26d5d0a64e37bda1547ebffa1e8701fb55b57debc35fd2990c8",
+      "pair_path": "research/thread_pairs/TH-058-below-is-the-research-pipeline-r0-r6-that-operationalizes-the-entire-research-phase.md",
+      "artifact_path": "atlas/artifacts/ART-058-below-is-the-research-pipeline-r0-r6-that-operationalizes-the-entire-research-phase.md",
+      "artifact_type": "atlas_artifact",
+      "family_dir": "atlas/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-059",
+      "pair_number": 59,
+      "title": "You need a lane system that is",
+      "slug": "you-need-a-lane-system-that-is",
+      "prompt_message_id": "MSG-117",
+      "response_message_id": "MSG-118",
+      "source_message_indexes": [
+        116,
+        117
+      ],
+      "prompt_sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "response_sha256": "00cff217f9cc5dd65152e37c8f6c2ba8d63b92a7ad03c58c6d53955f516b49d8",
+      "pair_sha256": "2ff9a0d78a263d58db9b7a73b62d88290d272902fef06ec3636f124c78566fa0",
+      "pair_path": "research/thread_pairs/TH-059-you-need-a-lane-system-that-is.md",
+      "artifact_path": "governance/artifacts/ART-059-you-need-a-lane-system-that-is.md",
+      "artifact_type": "governance_artifact",
+      "family_dir": "governance/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-060",
+      "pair_number": 60,
+      "title": "Lane Governance Charter v1",
+      "slug": "lane-governance-charter-v1",
+      "prompt_message_id": "MSG-119",
+      "response_message_id": "MSG-120",
+      "source_message_indexes": [
+        118,
+        119
+      ],
+      "prompt_sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "response_sha256": "a772a4526e9f489fd404b31b6854e20512dc4d9e90aec8986ddf86bb6fcd2c53",
+      "pair_sha256": "63b612a30c36fc71c1c6a69971d573a3e08a788f3c0577cc44b9bf4a917c5e34",
+      "pair_path": "research/thread_pairs/TH-060-lane-governance-charter-v1.md",
+      "artifact_path": "governance/artifacts/ART-060-lane-governance-charter-v1.md",
+      "artifact_type": "governance_artifact",
+      "family_dir": "governance/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-061",
+      "pair_number": 61,
+      "title": "The key distinction is between infrastructure that enables research and infrastructure that delays research.",
+      "slug": "the-key-distinction-is-between-infrastructure-that-enables-research-and-infrastructure-that-delays-research",
+      "prompt_message_id": "MSG-121",
+      "response_message_id": "MSG-122",
+      "source_message_indexes": [
+        120,
+        121
+      ],
+      "prompt_sha256": "56e10de7b4eed6e338edef6f8742f98650bdbc69dac0cad3cefa74d4c10082b4",
+      "response_sha256": "607b1d01b586b778aa02fa0d66f9eb80f8b14c7a397b563fa7517105896f0c35",
+      "pair_sha256": "f5a1431965d2953b201f27aefba6d3bba24b5771d3209e9e440f47cfd6e09856",
+      "pair_path": "research/thread_pairs/TH-061-the-key-distinction-is-between-infrastructure-that-enables-research-and-infrastructure-that-delays-research.md",
+      "artifact_path": "atlas/artifacts/ART-061-the-key-distinction-is-between-infrastructure-that-enables-research-and-infrastructure-that-delays-research.md",
+      "artifact_type": "atlas_artifact",
+      "family_dir": "atlas/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-062",
+      "pair_number": 62,
+      "title": "In systems terms, what you are outlining sounds like a triadic architecture.",
+      "slug": "in-systems-terms-what-you-are-outlining-sounds-like-a-triadic-architecture",
+      "prompt_message_id": "MSG-123",
+      "response_message_id": "MSG-124",
+      "source_message_indexes": [
+        122,
+        123
+      ],
+      "prompt_sha256": "b38d6b036d66abcf45ce8334dd05e2ce2565a90e06113a5ea06406e52315dd25",
+      "response_sha256": "6736f771d4364e0408c40ddb9f2817c13a9f01d0ee65191694bccf0e97a9e636",
+      "pair_sha256": "eb1281a99fe1af15090f7554de5ab5f80e596b3958f5da837c70358697a33ffe",
+      "pair_path": "research/thread_pairs/TH-062-in-systems-terms-what-you-are-outlining-sounds-like-a-triadic-architecture.md",
+      "artifact_path": "governance/artifacts/ART-062-in-systems-terms-what-you-are-outlining-sounds-like-a-triadic-architecture.md",
+      "artifact_type": "governance_artifact",
+      "family_dir": "governance/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-063",
+      "pair_number": 63,
+      "title": "Below is the historical pattern.",
+      "slug": "below-is-the-historical-pattern",
+      "prompt_message_id": "MSG-125",
+      "response_message_id": "MSG-126",
+      "source_message_indexes": [
+        124,
+        125
+      ],
+      "prompt_sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "response_sha256": "f031af16de0cf727d91dbf895aac6b0faacf8dcd4a400da1097fa9bb508ce4a2",
+      "pair_sha256": "b5583e732b05569f938692b895353b54beb74cef6fa2c90fc2646bc6205ef708",
+      "pair_path": "research/thread_pairs/TH-063-below-is-the-historical-pattern.md",
+      "artifact_path": "atlas/artifacts/ART-063-below-is-the-historical-pattern.md",
+      "artifact_type": "atlas_artifact",
+      "family_dir": "atlas/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-064",
+      "pair_number": 64,
+      "title": "The Three Pillars as Knowledge Engines",
+      "slug": "the-three-pillars-as-knowledge-engines",
+      "prompt_message_id": "MSG-127",
+      "response_message_id": "MSG-128",
+      "source_message_indexes": [
+        126,
+        127
+      ],
+      "prompt_sha256": "6e96f0a0322306e09b434ca02eaa84c40bde04c1eaadf23d1378b27a6eca0fbf",
+      "response_sha256": "4f8ed54797ab0ddf7016f048d8cd55d3a9a451c5e6cd84bd7cdf25a0173302cb",
+      "pair_sha256": "2fe6e84a978cc61aa7154aa08418d7fbde779a4d1697caabd7b212a753289eec",
+      "pair_path": "research/thread_pairs/TH-064-the-three-pillars-as-knowledge-engines.md",
+      "artifact_path": "atlas/artifacts/ART-064-the-three-pillars-as-knowledge-engines.md",
+      "artifact_type": "atlas_artifact",
+      "family_dir": "atlas/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-065",
+      "pair_number": 65,
+      "title": "This framework also includes a structural audit to check whether the architecture is missing a pillar.",
+      "slug": "this-framework-also-includes-a-structural-audit-to-check-whether-the-architecture-is-missing-a-pillar",
+      "prompt_message_id": "MSG-129",
+      "response_message_id": "MSG-130",
+      "source_message_indexes": [
+        128,
+        129
+      ],
+      "prompt_sha256": "29e82f6172fb6134881b0e86ebc07ce7efc76b37d51038b087de172ec7630ee2",
+      "response_sha256": "2d27c6827331da9328da9098c3a8881bb661909c046a3dec4cec9dea9c90e087",
+      "pair_sha256": "b13b6d22ab20751f0a84aa46070fb6217a8bee7d232190164b9e5519f099c61c",
+      "pair_path": "research/thread_pairs/TH-065-this-framework-also-includes-a-structural-audit-to-check-whether-the-architecture-is-missing-a-pillar.md",
+      "artifact_path": "atlas/artifacts/ART-065-this-framework-also-includes-a-structural-audit-to-check-whether-the-architecture-is-missing-a-pillar.md",
+      "artifact_type": "atlas_artifact",
+      "family_dir": "atlas/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-066",
+      "pair_number": 66,
+      "title": "Failure Mode 1 \u2014 Infrastructure Spiral",
+      "slug": "failure-mode-1-infrastructure-spiral",
+      "prompt_message_id": "MSG-131",
+      "response_message_id": "MSG-132",
+      "source_message_indexes": [
+        130,
+        131
+      ],
+      "prompt_sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "response_sha256": "d4e292b59d23608910c4ce0978a67070f129ec43616423a5c6214f61df57fa58",
+      "pair_sha256": "2724cf1f57acceb3d485809eca64c9b2e6e4dce0ef3df60d156a473c828526a1",
+      "pair_path": "research/thread_pairs/TH-066-failure-mode-1-infrastructure-spiral.md",
+      "artifact_path": "governance/artifacts/ART-066-failure-mode-1-infrastructure-spiral.md",
+      "artifact_type": "governance_artifact",
+      "family_dir": "governance/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-067",
+      "pair_number": 67,
+      "title": "The success criterion for the first 90 days is simple",
+      "slug": "the-success-criterion-for-the-first-90-days-is-simple",
+      "prompt_message_id": "MSG-133",
+      "response_message_id": "MSG-134",
+      "source_message_indexes": [
+        132,
+        133
+      ],
+      "prompt_sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "response_sha256": "dc6eb182e0a203170c7800b39357377d09ae9f88c5a7d70929db125b9125dd77",
+      "pair_sha256": "a07667c67be6e43d53565e80cbca297a05dfd3f54d2f69e3fe400aa49433a4e8",
+      "pair_path": "research/thread_pairs/TH-067-the-success-criterion-for-the-first-90-days-is-simple.md",
+      "artifact_path": "atlas/artifacts/ART-067-the-success-criterion-for-the-first-90-days-is-simple.md",
+      "artifact_type": "atlas_artifact",
+      "family_dir": "atlas/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-068",
+      "pair_number": 68,
+      "title": "Think of it as a mechanism extraction instrument, not a reading summary format.",
+      "slug": "think-of-it-as-a-mechanism-extraction-instrument-not-a-reading-summary-format",
+      "prompt_message_id": "MSG-135",
+      "response_message_id": "MSG-136",
+      "source_message_indexes": [
+        134,
+        135
+      ],
+      "prompt_sha256": "c0956992b4f01bd2b637f073c61a069397e84b8a673e564c465f753682ce3d88",
+      "response_sha256": "5bbc69366c444d24b188e872d19624fd480a2024308e376cdb7083c66361c56c",
+      "pair_sha256": "778ef5f7277fce8cc08296436d09197f0480e1f946a88bbae2e138c28a722383",
+      "pair_path": "research/thread_pairs/TH-068-think-of-it-as-a-mechanism-extraction-instrument-not-a-reading-summary-format.md",
+      "artifact_path": "atlas/artifacts/ART-068-think-of-it-as-a-mechanism-extraction-instrument-not-a-reading-summary-format.md",
+      "artifact_type": "atlas_artifact",
+      "family_dir": "atlas/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-069",
+      "pair_number": 69,
+      "title": "Below is the clean integration.",
+      "slug": "below-is-the-clean-integration",
+      "prompt_message_id": "MSG-137",
+      "response_message_id": "MSG-138",
+      "source_message_indexes": [
+        136,
+        137
+      ],
+      "prompt_sha256": "5d3c135e6af83b86f1f5ef883b472af24bab70f265519fb1a6abf352211ee179",
+      "response_sha256": "6fdfd19812834ed17c524cf33cff353bbd90938c7887437329cf8eabf1ff4d2c",
+      "pair_sha256": "6f83d2a75c84d721cfaaf6fab71821f9f7e85c13b6b6512a1d721f9e522867da",
+      "pair_path": "research/thread_pairs/TH-069-below-is-the-clean-integration.md",
+      "artifact_path": "organvm_bridge/artifacts/ART-069-below-is-the-clean-integration.md",
+      "artifact_type": "organvm_bridge_artifact",
+      "family_dir": "organvm_bridge/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-070",
+      "pair_number": 70,
+      "title": "Design Brief",
+      "slug": "design-brief",
+      "prompt_message_id": "MSG-139",
+      "response_message_id": "MSG-140",
+      "source_message_indexes": [
+        138,
+        139
+      ],
+      "prompt_sha256": "2ea7ee94d73a8256f4390dcaab1fdef1e0a9359fc0cc0e3ad0beca8fec9b56f7",
+      "response_sha256": "1147c68bddce31ab21f147c0dc28011a4eaabee45f6d102410baf32ea26d27e7",
+      "pair_sha256": "d530e22ad3674f762ef1675641cefec77357fa247e688cf5dfe409f77c9e310d",
+      "pair_path": "research/thread_pairs/TH-070-design-brief.md",
+      "artifact_path": "organvm_bridge/artifacts/ART-070-design-brief.md",
+      "artifact_type": "organvm_bridge_artifact",
+      "family_dir": "organvm_bridge/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-071",
+      "pair_number": 71,
+      "title": "The core principle",
+      "slug": "the-core-principle",
+      "prompt_message_id": "MSG-141",
+      "response_message_id": "MSG-142",
+      "source_message_indexes": [
+        140,
+        141
+      ],
+      "prompt_sha256": "3e66adc764646e29f55304d89a5098d7107cf56db17a04ecd106668976401f57",
+      "response_sha256": "27b7e2bc7bc5d886346516ab0fc7a1b29e8d84becb0a9caa5343a1996bb2ca37",
+      "pair_sha256": "30932714f012fbc1825ed404727b2c1169e20608ddc7e2101c46fc20f01ea89a",
+      "pair_path": "research/thread_pairs/TH-071-the-core-principle.md",
+      "artifact_path": "organvm_bridge/artifacts/ART-071-the-core-principle.md",
+      "artifact_type": "organvm_bridge_artifact",
+      "family_dir": "organvm_bridge/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-072",
+      "pair_number": 72,
+      "title": "I grouped them by type of influence, because your system blends several traditions that rarely coexist.",
+      "slug": "i-grouped-them-by-type-of-influence-because-your-system-blends-several-traditions-that-rarely-coexist",
+      "prompt_message_id": "MSG-143",
+      "response_message_id": "MSG-144",
+      "source_message_indexes": [
+        142,
+        143
+      ],
+      "prompt_sha256": "dcc14e21a4a1ae2243c044b35bcc4bbf436511555dcbf86e679da1306a403431",
+      "response_sha256": "c8e718099abfb099c94576651d80992edc8c825467676ea88ee5d7a7c9380c17",
+      "pair_sha256": "2ebcde329bac615d1a4b65361afab80d3a201045b0b586026b6d24488738ff67",
+      "pair_path": "research/thread_pairs/TH-072-i-grouped-them-by-type-of-influence-because-your-system-blends-several-traditions-that-rarely-coexist.md",
+      "artifact_path": "organvm_bridge/artifacts/ART-072-i-grouped-them-by-type-of-influence-because-your-system-blends-several-traditions-that-rarely-coexist.md",
+      "artifact_type": "organvm_bridge_artifact",
+      "family_dir": "organvm_bridge/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-073",
+      "pair_number": 73,
+      "title": "Together they form the closest historical analog.",
+      "slug": "together-they-form-the-closest-historical-analog",
+      "prompt_message_id": "MSG-145",
+      "response_message_id": "MSG-146",
+      "source_message_indexes": [
+        144,
+        145
+      ],
+      "prompt_sha256": "19fa762055eef1d9623a41a72e24c1b24e534432cfa8d51390a9dc0ce6f68fa8",
+      "response_sha256": "bcb9b9786b7997020eba8c9472c88ba4429951007346c501f80d6d930e2150f7",
+      "pair_sha256": "65eb4bab6c69836e6b79c3baa30b290c7a4eac950429f58f2cf8fa945672c223",
+      "pair_path": "research/thread_pairs/TH-073-together-they-form-the-closest-historical-analog.md",
+      "artifact_path": "organvm_bridge/artifacts/ART-073-together-they-form-the-closest-historical-analog.md",
+      "artifact_type": "organvm_bridge_artifact",
+      "family_dir": "organvm_bridge/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-074",
+      "pair_number": 74,
+      "title": "theory must generate frameworks",
+      "slug": "theory-must-generate-frameworks",
+      "prompt_message_id": "MSG-147",
+      "response_message_id": "MSG-148",
+      "source_message_indexes": [
+        146,
+        147
+      ],
+      "prompt_sha256": "19fa762055eef1d9623a41a72e24c1b24e534432cfa8d51390a9dc0ce6f68fa8",
+      "response_sha256": "2b884ac56e90e3eebdc7384bccaab4d29b9b319f132fbbb11507a5ba48698ef1",
+      "pair_sha256": "17a232b754eac9d3329701143a6631fcbe478fbf473b48a66ddea1bd700575e5",
+      "pair_path": "research/thread_pairs/TH-074-theory-must-generate-frameworks.md",
+      "artifact_path": "organvm_bridge/artifacts/ART-074-theory-must-generate-frameworks.md",
+      "artifact_type": "organvm_bridge_artifact",
+      "family_dir": "organvm_bridge/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-075",
+      "pair_number": 75,
+      "title": "If they are not addressed early, the organism gradually loses coherence.",
+      "slug": "if-they-are-not-addressed-early-the-organism-gradually-loses-coherence",
+      "prompt_message_id": "MSG-149",
+      "response_message_id": "MSG-150",
+      "source_message_indexes": [
+        148,
+        149
+      ],
+      "prompt_sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "response_sha256": "24374d8179bd831e721ef4bd5778b4b582038924b90c8274fc5f6f6e56dc39b7",
+      "pair_sha256": "f8b763086b80a2e42de0b822c7aaa46f5f3f4fabefc75ca074d3b8302c4babdb",
+      "pair_path": "research/thread_pairs/TH-075-if-they-are-not-addressed-early-the-organism-gradually-loses-coherence.md",
+      "artifact_path": "organvm_bridge/artifacts/ART-075-if-they-are-not-addressed-early-the-organism-gradually-loses-coherence.md",
+      "artifact_type": "organvm_bridge_artifact",
+      "family_dir": "organvm_bridge/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-076",
+      "pair_number": 76,
+      "title": "The single most stabilizing repository that organvm does not yet clearly have is something like",
+      "slug": "the-single-most-stabilizing-repository-that-organvm-does-not-yet-clearly-have-is-something-like",
+      "prompt_message_id": "MSG-151",
+      "response_message_id": "MSG-152",
+      "source_message_indexes": [
+        150,
+        151
+      ],
+      "prompt_sha256": "f01847dfc94126426b4849004762a12557de2332ae0ca1b4602210b341f0281b",
+      "response_sha256": "5f480180adcac1f6cc18d5ec29948687ded3b36eccd22f254c447151869363e2",
+      "pair_sha256": "dddad0d00a154e053d78b5524b510658decd377e1ff897fb066a94f4ff862104",
+      "pair_path": "research/thread_pairs/TH-076-the-single-most-stabilizing-repository-that-organvm-does-not-yet-clearly-have-is-something-like.md",
+      "artifact_path": "atlas/artifacts/ART-076-the-single-most-stabilizing-repository-that-organvm-does-not-yet-clearly-have-is-something-like.md",
+      "artifact_type": "atlas_artifact",
+      "family_dir": "atlas/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    },
+    {
+      "pair_id": "TH-077",
+      "pair_number": 77,
+      "title": "A. Updated automated repository generator script",
+      "slug": "a-updated-automated-repository-generator-script",
+      "prompt_message_id": "MSG-153",
+      "response_message_id": "MSG-154",
+      "source_message_indexes": [
+        152,
+        153
+      ],
+      "prompt_sha256": "e5a4cd64ac85222ec1764e0f559c1ef2b512b183667530e8e971a474640bb207",
+      "response_sha256": "78f4a635d7050947a6f6797204b6deab12b614adca0aee14fc8b53035c4d5b2b",
+      "pair_sha256": "dfdc6722eb08758719c9557f13bf259b7d2769fa2996ccbe927f8df3129fdb4f",
+      "pair_path": "research/thread_pairs/TH-077-a-updated-automated-repository-generator-script.md",
+      "artifact_path": "manifest/artifacts/ART-077-a-updated-automated-repository-generator-script.md",
+      "artifact_type": "manifest_artifact",
+      "family_dir": "manifest/artifacts",
+      "title_source": "response-first-line-or-prompt-fallback"
+    }
+  ]
+}

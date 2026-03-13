@@ -1,0 +1,78 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://organvm.io/schemas/atom.json",
+  "title": "Atom",
+  "description": "Base schema for all atomic knowledge units",
+  "type": "object",
+  "required": ["atom_id", "atom_type", "name", "provenance"],
+  "properties": {
+    "atom_id": {
+      "type": "string",
+      "pattern": "^(PRIM|MECH|MOD|THRESH|TH)-[0-9]{3}$",
+      "description": "Unique identifier for this atom"
+    },
+    "atom_type": {
+      "type": "string",
+      "enum": ["primitive", "mechanism", "module", "threshold", "thread"],
+      "description": "The category of this atom"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 100,
+      "description": "Human-readable name"
+    },
+    "definition": {
+      "type": "string",
+      "description": "Formal definition of this atom"
+    },
+    "provenance": {
+      "type": "object",
+      "required": ["source"],
+      "properties": {
+        "source": {
+          "type": "string"
+        },
+        "extracted_from": {
+          "type": "string"
+        },
+        "confidence": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        }
+      }
+    },
+    "relations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["target", "type"],
+        "properties": {
+          "target": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "created_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "version": {
+          "type": "integer"
+        },
+        "status": {
+          "type": "string",
+          "enum": ["draft", "stable", "deprecated"]
+        }
+      }
+    }
+  }
+}

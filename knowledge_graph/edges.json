@@ -1,0 +1,3612 @@
+[
+  {
+    "from": "pair:TH-001",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-001",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-001"
+  },
+  {
+    "from": "artifact:ART-001",
+    "relation": "stored_in",
+    "to": "directory:research"
+  },
+  {
+    "from": "artifact:ART-001",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "pair:TH-002",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-002",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-002"
+  },
+  {
+    "from": "artifact:ART-002",
+    "relation": "stored_in",
+    "to": "directory:engine"
+  },
+  {
+    "from": "artifact:ART-002",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-002",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-002",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-002",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-003",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-003",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-003"
+  },
+  {
+    "from": "artifact:ART-003",
+    "relation": "stored_in",
+    "to": "directory:governance"
+  },
+  {
+    "from": "artifact:ART-003",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-003",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-003",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-003",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-003",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "pair:TH-004",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-004",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-004"
+  },
+  {
+    "from": "artifact:ART-004",
+    "relation": "stored_in",
+    "to": "directory:engine"
+  },
+  {
+    "from": "artifact:ART-004",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-004",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "pair:TH-005",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-005",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-005"
+  },
+  {
+    "from": "artifact:ART-005",
+    "relation": "stored_in",
+    "to": "directory:atlas"
+  },
+  {
+    "from": "artifact:ART-005",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-005",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "artifact:ART-005",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "pair:TH-006",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-006",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-006"
+  },
+  {
+    "from": "artifact:ART-006",
+    "relation": "stored_in",
+    "to": "directory:atlas"
+  },
+  {
+    "from": "artifact:ART-006",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-006",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-006",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-006",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-006",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-006",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "artifact:ART-006",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-006",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-007",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-007",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-007"
+  },
+  {
+    "from": "artifact:ART-007",
+    "relation": "stored_in",
+    "to": "directory:atlas"
+  },
+  {
+    "from": "artifact:ART-007",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-007",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-007",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-007",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-007",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-007",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "artifact:ART-007",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-007",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-008",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-008",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-008"
+  },
+  {
+    "from": "artifact:ART-008",
+    "relation": "stored_in",
+    "to": "directory:governance"
+  },
+  {
+    "from": "artifact:ART-008",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-008",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-008",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-008",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-008",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-008",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-008",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "pair:TH-009",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-009",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-009"
+  },
+  {
+    "from": "artifact:ART-009",
+    "relation": "stored_in",
+    "to": "directory:governance"
+  },
+  {
+    "from": "artifact:ART-009",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-009",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-009",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-009",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-009",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-009",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-009",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-010",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-010",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-010"
+  },
+  {
+    "from": "artifact:ART-010",
+    "relation": "stored_in",
+    "to": "directory:governance"
+  },
+  {
+    "from": "artifact:ART-010",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-010",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-010",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-010",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-010",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "pair:TH-011",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-011",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-011"
+  },
+  {
+    "from": "artifact:ART-011",
+    "relation": "stored_in",
+    "to": "directory:governance"
+  },
+  {
+    "from": "artifact:ART-011",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-011",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-011",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-011",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "pair:TH-012",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-012",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-012"
+  },
+  {
+    "from": "artifact:ART-012",
+    "relation": "stored_in",
+    "to": "directory:governance"
+  },
+  {
+    "from": "artifact:ART-012",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-012",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-012",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-012",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-012",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "pair:TH-013",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-013",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-013"
+  },
+  {
+    "from": "artifact:ART-013",
+    "relation": "stored_in",
+    "to": "directory:governance"
+  },
+  {
+    "from": "artifact:ART-013",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-013",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-013",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-013",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-013",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-013",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-014",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-014",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-014"
+  },
+  {
+    "from": "artifact:ART-014",
+    "relation": "stored_in",
+    "to": "directory:engine"
+  },
+  {
+    "from": "artifact:ART-014",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-014",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-014",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "pair:TH-015",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-015",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-015"
+  },
+  {
+    "from": "artifact:ART-015",
+    "relation": "stored_in",
+    "to": "directory:governance"
+  },
+  {
+    "from": "artifact:ART-015",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-015",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-015",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-015",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-015",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-015",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-016",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-016",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-016"
+  },
+  {
+    "from": "artifact:ART-016",
+    "relation": "stored_in",
+    "to": "directory:governance"
+  },
+  {
+    "from": "artifact:ART-016",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-016",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-016",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-016",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "pair:TH-017",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-017",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-017"
+  },
+  {
+    "from": "artifact:ART-017",
+    "relation": "stored_in",
+    "to": "directory:governance"
+  },
+  {
+    "from": "artifact:ART-017",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-017",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-017",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-017",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-017",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-017",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-017",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-017",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-018",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-018",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-018"
+  },
+  {
+    "from": "artifact:ART-018",
+    "relation": "stored_in",
+    "to": "directory:governance"
+  },
+  {
+    "from": "artifact:ART-018",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-018",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-018",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-018",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-018",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-018",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-018",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-019",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-019",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-019"
+  },
+  {
+    "from": "artifact:ART-019",
+    "relation": "stored_in",
+    "to": "directory:atlas"
+  },
+  {
+    "from": "artifact:ART-019",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-019",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-019",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-019",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-019",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "artifact:ART-019",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "pair:TH-020",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-020",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-020"
+  },
+  {
+    "from": "artifact:ART-020",
+    "relation": "stored_in",
+    "to": "directory:atlas"
+  },
+  {
+    "from": "artifact:ART-020",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-020",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-020",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-020",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-020",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-020",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "artifact:ART-020",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-020",
+    "relation": "references_concept",
+    "to": "concept:manifest"
+  },
+  {
+    "from": "pair:TH-021",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-021",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-021"
+  },
+  {
+    "from": "artifact:ART-021",
+    "relation": "stored_in",
+    "to": "directory:knowledge_graph"
+  },
+  {
+    "from": "artifact:ART-021",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-021",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-021",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-021",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-021",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-021",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "artifact:ART-021",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "pair:TH-022",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-022",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-022"
+  },
+  {
+    "from": "artifact:ART-022",
+    "relation": "stored_in",
+    "to": "directory:engine"
+  },
+  {
+    "from": "artifact:ART-022",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-022",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-022",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-022",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-022",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-022",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-022",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "artifact:ART-022",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-022",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-023",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-023",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-023"
+  },
+  {
+    "from": "artifact:ART-023",
+    "relation": "stored_in",
+    "to": "directory:engine"
+  },
+  {
+    "from": "artifact:ART-023",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-023",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-023",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-023",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-023",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-023",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-023",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "artifact:ART-023",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-023",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-024",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-024",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-024"
+  },
+  {
+    "from": "artifact:ART-024",
+    "relation": "stored_in",
+    "to": "directory:atlas"
+  },
+  {
+    "from": "artifact:ART-024",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-024",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-024",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-024",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-024",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-024",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-024",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "artifact:ART-024",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-024",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-025",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-025",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-025"
+  },
+  {
+    "from": "artifact:ART-025",
+    "relation": "stored_in",
+    "to": "directory:research"
+  },
+  {
+    "from": "artifact:ART-025",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "pair:TH-026",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-026",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-026"
+  },
+  {
+    "from": "artifact:ART-026",
+    "relation": "stored_in",
+    "to": "directory:atlas"
+  },
+  {
+    "from": "artifact:ART-026",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-026",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-026",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-026",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-026",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-026",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "artifact:ART-026",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-027",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-027",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-027"
+  },
+  {
+    "from": "artifact:ART-027",
+    "relation": "stored_in",
+    "to": "directory:atlas"
+  },
+  {
+    "from": "artifact:ART-027",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-027",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-027",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-027",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-027",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-027",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "artifact:ART-027",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-028",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-028",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-028"
+  },
+  {
+    "from": "artifact:ART-028",
+    "relation": "stored_in",
+    "to": "directory:atlas"
+  },
+  {
+    "from": "artifact:ART-028",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-028",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-028",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-028",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-028",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-028",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "artifact:ART-028",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-028",
+    "relation": "references_concept",
+    "to": "concept:manifest"
+  },
+  {
+    "from": "artifact:ART-028",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-029",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-029",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-029"
+  },
+  {
+    "from": "artifact:ART-029",
+    "relation": "stored_in",
+    "to": "directory:governance"
+  },
+  {
+    "from": "artifact:ART-029",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-029",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-029",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-030",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-030",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-030"
+  },
+  {
+    "from": "artifact:ART-030",
+    "relation": "stored_in",
+    "to": "directory:engine"
+  },
+  {
+    "from": "artifact:ART-030",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-030",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-030",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-030",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-030",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-030",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-031",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-031",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-031"
+  },
+  {
+    "from": "artifact:ART-031",
+    "relation": "stored_in",
+    "to": "directory:engine"
+  },
+  {
+    "from": "artifact:ART-031",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-031",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-031",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "pair:TH-032",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-032",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-032"
+  },
+  {
+    "from": "artifact:ART-032",
+    "relation": "stored_in",
+    "to": "directory:atlas"
+  },
+  {
+    "from": "artifact:ART-032",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-032",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-032",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-032",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-032",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-032",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "artifact:ART-032",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "pair:TH-033",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-033",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-033"
+  },
+  {
+    "from": "artifact:ART-033",
+    "relation": "stored_in",
+    "to": "directory:knowledge_graph"
+  },
+  {
+    "from": "artifact:ART-033",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-033",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-033",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-033",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-033",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-033",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-033",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "pair:TH-034",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-034",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-034"
+  },
+  {
+    "from": "artifact:ART-034",
+    "relation": "stored_in",
+    "to": "directory:governance"
+  },
+  {
+    "from": "artifact:ART-034",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-034",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-034",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-034",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-034",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-034",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-034",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-034",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-035",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-035",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-035"
+  },
+  {
+    "from": "artifact:ART-035",
+    "relation": "stored_in",
+    "to": "directory:governance"
+  },
+  {
+    "from": "artifact:ART-035",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-035",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-035",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-035",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-035",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-035",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-035",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-036",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-036",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-036"
+  },
+  {
+    "from": "artifact:ART-036",
+    "relation": "stored_in",
+    "to": "directory:governance"
+  },
+  {
+    "from": "artifact:ART-036",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-036",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-036",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-036",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-036",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-036",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-036",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "pair:TH-037",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-037",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-037"
+  },
+  {
+    "from": "artifact:ART-037",
+    "relation": "stored_in",
+    "to": "directory:governance"
+  },
+  {
+    "from": "artifact:ART-037",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-037",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-037",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-037",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-037",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-037",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-037",
+    "relation": "references_concept",
+    "to": "concept:manifest"
+  },
+  {
+    "from": "pair:TH-038",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-038",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-038"
+  },
+  {
+    "from": "artifact:ART-038",
+    "relation": "stored_in",
+    "to": "directory:engine"
+  },
+  {
+    "from": "artifact:ART-038",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-038",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-038",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-038",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-038",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-038",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "pair:TH-039",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-039",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-039"
+  },
+  {
+    "from": "artifact:ART-039",
+    "relation": "stored_in",
+    "to": "directory:engine"
+  },
+  {
+    "from": "artifact:ART-039",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-039",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-039",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-039",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-039",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-039",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-039",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "pair:TH-040",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-040",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-040"
+  },
+  {
+    "from": "artifact:ART-040",
+    "relation": "stored_in",
+    "to": "directory:atlas"
+  },
+  {
+    "from": "artifact:ART-040",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-040",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-040",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-040",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-040",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-040",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-040",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "artifact:ART-040",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-041",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-041",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-041"
+  },
+  {
+    "from": "artifact:ART-041",
+    "relation": "stored_in",
+    "to": "directory:atlas"
+  },
+  {
+    "from": "artifact:ART-041",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-041",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-041",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-041",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-041",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-041",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-041",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "pair:TH-042",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-042",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-042"
+  },
+  {
+    "from": "artifact:ART-042",
+    "relation": "stored_in",
+    "to": "directory:governance"
+  },
+  {
+    "from": "artifact:ART-042",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-042",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-042",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-042",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-042",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "pair:TH-043",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-043",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-043"
+  },
+  {
+    "from": "artifact:ART-043",
+    "relation": "stored_in",
+    "to": "directory:engine"
+  },
+  {
+    "from": "artifact:ART-043",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-043",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-043",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-043",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-043",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-043",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-043",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-043",
+    "relation": "references_concept",
+    "to": "concept:manifest"
+  },
+  {
+    "from": "pair:TH-044",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-044",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-044"
+  },
+  {
+    "from": "artifact:ART-044",
+    "relation": "stored_in",
+    "to": "directory:engine"
+  },
+  {
+    "from": "artifact:ART-044",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-044",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-044",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-044",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-044",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-044",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-044",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "pair:TH-045",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-045",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-045"
+  },
+  {
+    "from": "artifact:ART-045",
+    "relation": "stored_in",
+    "to": "directory:engine"
+  },
+  {
+    "from": "artifact:ART-045",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-045",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-045",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-045",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-045",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-045",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-046",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-046",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-046"
+  },
+  {
+    "from": "artifact:ART-046",
+    "relation": "stored_in",
+    "to": "directory:engine"
+  },
+  {
+    "from": "artifact:ART-046",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-046",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-046",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-046",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-046",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-046",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-046",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-047",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-047",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-047"
+  },
+  {
+    "from": "artifact:ART-047",
+    "relation": "stored_in",
+    "to": "directory:organvm_bridge"
+  },
+  {
+    "from": "artifact:ART-047",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-047",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-047",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-047",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-047",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-047",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-047",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-048",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-048",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-048"
+  },
+  {
+    "from": "artifact:ART-048",
+    "relation": "stored_in",
+    "to": "directory:engine"
+  },
+  {
+    "from": "artifact:ART-048",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-048",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-048",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-048",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-048",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-048",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-048",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-049",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-049",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-049"
+  },
+  {
+    "from": "artifact:ART-049",
+    "relation": "stored_in",
+    "to": "directory:manifest"
+  },
+  {
+    "from": "artifact:ART-049",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-049",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-049",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-049",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-049",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-049",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-049",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "artifact:ART-049",
+    "relation": "references_concept",
+    "to": "concept:manifest"
+  },
+  {
+    "from": "artifact:ART-049",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-050",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-050",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-050"
+  },
+  {
+    "from": "artifact:ART-050",
+    "relation": "stored_in",
+    "to": "directory:manifest"
+  },
+  {
+    "from": "artifact:ART-050",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-050",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-050",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-050",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-050",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-050",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-050",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "artifact:ART-050",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-050",
+    "relation": "references_concept",
+    "to": "concept:manifest"
+  },
+  {
+    "from": "artifact:ART-050",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-051",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-051",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-051"
+  },
+  {
+    "from": "artifact:ART-051",
+    "relation": "stored_in",
+    "to": "directory:ingestion"
+  },
+  {
+    "from": "artifact:ART-051",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-051",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-051",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-051",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-051",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-051",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "artifact:ART-051",
+    "relation": "references_concept",
+    "to": "concept:manifest"
+  },
+  {
+    "from": "artifact:ART-051",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-052",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-052",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-052"
+  },
+  {
+    "from": "artifact:ART-052",
+    "relation": "stored_in",
+    "to": "directory:manifest"
+  },
+  {
+    "from": "artifact:ART-052",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-052",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-052",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-052",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-052",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-052",
+    "relation": "references_concept",
+    "to": "concept:manifest"
+  },
+  {
+    "from": "artifact:ART-052",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-053",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-053",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-053"
+  },
+  {
+    "from": "artifact:ART-053",
+    "relation": "stored_in",
+    "to": "directory:engine"
+  },
+  {
+    "from": "artifact:ART-053",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-053",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-053",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-053",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-053",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-053",
+    "relation": "references_concept",
+    "to": "concept:manifest"
+  },
+  {
+    "from": "pair:TH-054",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-054",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-054"
+  },
+  {
+    "from": "artifact:ART-054",
+    "relation": "stored_in",
+    "to": "directory:governance"
+  },
+  {
+    "from": "artifact:ART-054",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-054",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-054",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-054",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-054",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-054",
+    "relation": "references_concept",
+    "to": "concept:manifest"
+  },
+  {
+    "from": "pair:TH-055",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-055",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-055"
+  },
+  {
+    "from": "artifact:ART-055",
+    "relation": "stored_in",
+    "to": "directory:atlas"
+  },
+  {
+    "from": "artifact:ART-055",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-055",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-055",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-055",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-055",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-055",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "artifact:ART-055",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-055",
+    "relation": "references_concept",
+    "to": "concept:manifest"
+  },
+  {
+    "from": "artifact:ART-055",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-056",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-056",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-056"
+  },
+  {
+    "from": "artifact:ART-056",
+    "relation": "stored_in",
+    "to": "directory:governance"
+  },
+  {
+    "from": "artifact:ART-056",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-056",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-056",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-056",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-056",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-056",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-056",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-057",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-057",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-057"
+  },
+  {
+    "from": "artifact:ART-057",
+    "relation": "stored_in",
+    "to": "directory:governance"
+  },
+  {
+    "from": "artifact:ART-057",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-057",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-057",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-057",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-057",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "pair:TH-058",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-058",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-058"
+  },
+  {
+    "from": "artifact:ART-058",
+    "relation": "stored_in",
+    "to": "directory:atlas"
+  },
+  {
+    "from": "artifact:ART-058",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-058",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-058",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-058",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-058",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-058",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-058",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "pair:TH-059",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-059",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-059"
+  },
+  {
+    "from": "artifact:ART-059",
+    "relation": "stored_in",
+    "to": "directory:governance"
+  },
+  {
+    "from": "artifact:ART-059",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-059",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-059",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-059",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-059",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "pair:TH-060",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-060",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-060"
+  },
+  {
+    "from": "artifact:ART-060",
+    "relation": "stored_in",
+    "to": "directory:governance"
+  },
+  {
+    "from": "artifact:ART-060",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-060",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-060",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-060",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-060",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-060",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-060",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-061",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-061",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-061"
+  },
+  {
+    "from": "artifact:ART-061",
+    "relation": "stored_in",
+    "to": "directory:atlas"
+  },
+  {
+    "from": "artifact:ART-061",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-061",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-061",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-061",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-061",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-061",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "artifact:ART-061",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-061",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-062",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-062",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-062"
+  },
+  {
+    "from": "artifact:ART-062",
+    "relation": "stored_in",
+    "to": "directory:governance"
+  },
+  {
+    "from": "artifact:ART-062",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-062",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-062",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-062",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-062",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "pair:TH-063",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-063",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-063"
+  },
+  {
+    "from": "artifact:ART-063",
+    "relation": "stored_in",
+    "to": "directory:atlas"
+  },
+  {
+    "from": "artifact:ART-063",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-063",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-063",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-063",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-063",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-063",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-063",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "pair:TH-064",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-064",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-064"
+  },
+  {
+    "from": "artifact:ART-064",
+    "relation": "stored_in",
+    "to": "directory:atlas"
+  },
+  {
+    "from": "artifact:ART-064",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-064",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-064",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-064",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-064",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-064",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "artifact:ART-064",
+    "relation": "references_concept",
+    "to": "concept:manifest"
+  },
+  {
+    "from": "pair:TH-065",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-065",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-065"
+  },
+  {
+    "from": "artifact:ART-065",
+    "relation": "stored_in",
+    "to": "directory:atlas"
+  },
+  {
+    "from": "artifact:ART-065",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-065",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-065",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-065",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-065",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-065",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-065",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "artifact:ART-065",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "pair:TH-066",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-066",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-066"
+  },
+  {
+    "from": "artifact:ART-066",
+    "relation": "stored_in",
+    "to": "directory:governance"
+  },
+  {
+    "from": "artifact:ART-066",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-066",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-066",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-066",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-066",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "pair:TH-067",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-067",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-067"
+  },
+  {
+    "from": "artifact:ART-067",
+    "relation": "stored_in",
+    "to": "directory:atlas"
+  },
+  {
+    "from": "artifact:ART-067",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-067",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-067",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-067",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-067",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-067",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-067",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "pair:TH-068",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-068",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-068"
+  },
+  {
+    "from": "artifact:ART-068",
+    "relation": "stored_in",
+    "to": "directory:atlas"
+  },
+  {
+    "from": "artifact:ART-068",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-068",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-068",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-068",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-068",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-068",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-068",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "pair:TH-069",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-069",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-069"
+  },
+  {
+    "from": "artifact:ART-069",
+    "relation": "stored_in",
+    "to": "directory:organvm_bridge"
+  },
+  {
+    "from": "artifact:ART-069",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-069",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-069",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-069",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-069",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-069",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "artifact:ART-069",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-069",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-070",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-070",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-070"
+  },
+  {
+    "from": "artifact:ART-070",
+    "relation": "stored_in",
+    "to": "directory:organvm_bridge"
+  },
+  {
+    "from": "artifact:ART-070",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-070",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-070",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "pair:TH-071",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-071",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-071"
+  },
+  {
+    "from": "artifact:ART-071",
+    "relation": "stored_in",
+    "to": "directory:organvm_bridge"
+  },
+  {
+    "from": "artifact:ART-071",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-071",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-071",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-071",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-071",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-071",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-071",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "artifact:ART-071",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-071",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-072",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-072",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-072"
+  },
+  {
+    "from": "artifact:ART-072",
+    "relation": "stored_in",
+    "to": "directory:organvm_bridge"
+  },
+  {
+    "from": "artifact:ART-072",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-072",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-072",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-072",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-072",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "pair:TH-073",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-073",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-073"
+  },
+  {
+    "from": "artifact:ART-073",
+    "relation": "stored_in",
+    "to": "directory:organvm_bridge"
+  },
+  {
+    "from": "artifact:ART-073",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-073",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-073",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "pair:TH-074",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-074",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-074"
+  },
+  {
+    "from": "artifact:ART-074",
+    "relation": "stored_in",
+    "to": "directory:organvm_bridge"
+  },
+  {
+    "from": "artifact:ART-074",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-074",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-074",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-074",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "artifact:ART-074",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "pair:TH-075",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-075",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-075"
+  },
+  {
+    "from": "artifact:ART-075",
+    "relation": "stored_in",
+    "to": "directory:organvm_bridge"
+  },
+  {
+    "from": "artifact:ART-075",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-075",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-075",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-075",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-075",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "artifact:ART-075",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-075",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-076",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-076",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-076"
+  },
+  {
+    "from": "artifact:ART-076",
+    "relation": "stored_in",
+    "to": "directory:atlas"
+  },
+  {
+    "from": "artifact:ART-076",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-076",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-076",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-076",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "artifact:ART-076",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-076",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  },
+  {
+    "from": "pair:TH-077",
+    "relation": "belongs_to_thread",
+    "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+  },
+  {
+    "from": "artifact:ART-077",
+    "relation": "derived_from_pair",
+    "to": "pair:TH-077"
+  },
+  {
+    "from": "artifact:ART-077",
+    "relation": "stored_in",
+    "to": "directory:manifest"
+  },
+  {
+    "from": "artifact:ART-077",
+    "relation": "references_concept",
+    "to": "concept:reading"
+  },
+  {
+    "from": "artifact:ART-077",
+    "relation": "references_concept",
+    "to": "concept:mechanism"
+  },
+  {
+    "from": "artifact:ART-077",
+    "relation": "references_concept",
+    "to": "concept:primitive"
+  },
+  {
+    "from": "artifact:ART-077",
+    "relation": "references_concept",
+    "to": "concept:module"
+  },
+  {
+    "from": "artifact:ART-077",
+    "relation": "references_concept",
+    "to": "concept:threshold"
+  },
+  {
+    "from": "artifact:ART-077",
+    "relation": "references_concept",
+    "to": "concept:governance"
+  },
+  {
+    "from": "artifact:ART-077",
+    "relation": "references_concept",
+    "to": "concept:atlas"
+  },
+  {
+    "from": "artifact:ART-077",
+    "relation": "references_concept",
+    "to": "concept:organvm_integration"
+  },
+  {
+    "from": "artifact:ART-077",
+    "relation": "references_concept",
+    "to": "concept:manifest"
+  },
+  {
+    "from": "artifact:ART-077",
+    "relation": "references_concept",
+    "to": "concept:ingestion"
+  }
+]

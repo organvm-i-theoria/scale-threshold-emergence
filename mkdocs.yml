@@ -1,0 +1,24 @@
+site_name: Universe Engine Research
+docs_dir: docs
+theme:
+name: material
+nav:
+
+
+Primitive Canon: primitive_canon.md
+
+Module Library: module_library.md
+
+Threshold Atlas: threshold_atlas.md
+
+Mechanism Registry: mechanism_registry.md
+
+Computational Patterns: computational_patterns.md
+
+Kernel Spec: kernel_spec.md
+
+Module API: module_api.md
+
+World Instance Schema: world_instance_schema.md
+
+Three Pillar Model: three_pillar_model.md

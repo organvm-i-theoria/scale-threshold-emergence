@@ -1,0 +1,31 @@
+{
+  "id": "repo_index_v1",
+  "title": "Repository Index",
+  "repo_root": "/Users/4jp/Workspace/organvm-i-theoria/knowledge-engine",
+  "top_level_directories": [
+    "atlas",
+    "data",
+    "docs",
+    "ecosystem",
+    "engine",
+    "experiments",
+    "governance",
+    "handoff",
+    "ingestion",
+    "knowledge_graph",
+    "library",
+    "manifest",
+    "organvm_bridge",
+    "prompts",
+    "research",
+    "scripts",
+    "source_artifacts",
+    "src",
+    "tests"
+  ],
+  "counts": {
+    "markdown_files": 240,
+    "json_files": 22,
+    "script_entries": 11
+  }
+}

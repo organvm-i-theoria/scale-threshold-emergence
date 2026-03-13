@@ -1,0 +1,4722 @@
+{
+  "nodes": [
+    {
+      "id": "thread:69aed518-2570-832c-92ba-01d53d078c73",
+      "type": "thread",
+      "title": "Branch \u00b7 Theory of Everything Domains"
+    },
+    {
+      "id": "directory:docs",
+      "type": "directory",
+      "path": "docs"
+    },
+    {
+      "id": "directory:research",
+      "type": "directory",
+      "path": "research"
+    },
+    {
+      "id": "directory:knowledge_graph",
+      "type": "directory",
+      "path": "knowledge_graph"
+    },
+    {
+      "id": "directory:engine",
+      "type": "directory",
+      "path": "engine"
+    },
+    {
+      "id": "directory:experiments",
+      "type": "directory",
+      "path": "experiments"
+    },
+    {
+      "id": "directory:manifest",
+      "type": "directory",
+      "path": "manifest"
+    },
+    {
+      "id": "directory:governance",
+      "type": "directory",
+      "path": "governance"
+    },
+    {
+      "id": "directory:atlas",
+      "type": "directory",
+      "path": "atlas"
+    },
+    {
+      "id": "directory:organvm_bridge",
+      "type": "directory",
+      "path": "organvm_bridge"
+    },
+    {
+      "id": "directory:ingestion",
+      "type": "directory",
+      "path": "ingestion"
+    },
+    {
+      "id": "concept:reading",
+      "type": "concept",
+      "name": "reading"
+    },
+    {
+      "id": "concept:mechanism",
+      "type": "concept",
+      "name": "mechanism"
+    },
+    {
+      "id": "concept:primitive",
+      "type": "concept",
+      "name": "primitive"
+    },
+    {
+      "id": "concept:module",
+      "type": "concept",
+      "name": "module"
+    },
+    {
+      "id": "concept:threshold",
+      "type": "concept",
+      "name": "threshold"
+    },
+    {
+      "id": "concept:governance",
+      "type": "concept",
+      "name": "governance"
+    },
+    {
+      "id": "concept:atlas",
+      "type": "concept",
+      "name": "atlas"
+    },
+    {
+      "id": "concept:organvm_integration",
+      "type": "concept",
+      "name": "organvm_integration"
+    },
+    {
+      "id": "concept:manifest",
+      "type": "concept",
+      "name": "manifest"
+    },
+    {
+      "id": "concept:ingestion",
+      "type": "concept",
+      "name": "ingestion"
+    },
+    {
+      "id": "pair:TH-001",
+      "type": "pair",
+      "title": "Below is a structured domain map.",
+      "pair_path": "research/thread_pairs/TH-001-below-is-a-structured-domain-map.md"
+    },
+    {
+      "id": "artifact:ART-001",
+      "type": "artifact",
+      "title": "Below is a structured domain map.",
+      "artifact_type": "research_artifact",
+      "output_path": "research/artifacts/ART-001-below-is-a-structured-domain-map.md"
+    },
+    {
+      "id": "pair:TH-002",
+      "type": "pair",
+      "title": "The process can be expressed as a structured pipeline.",
+      "pair_path": "research/thread_pairs/TH-002-the-process-can-be-expressed-as-a-structured-pipeline.md"
+    },
+    {
+      "id": "artifact:ART-002",
+      "type": "artifact",
+      "title": "The process can be expressed as a structured pipeline.",
+      "artifact_type": "primitive_artifact",
+      "output_path": "engine/primitives/ART-002-the-process-can-be-expressed-as-a-structured-pipeline.md"
+    },
+    {
+      "id": "pair:TH-003",
+      "type": "pair",
+      "title": "Master Hierarchy of Existence (Refined Ontological Stack)",
+      "pair_path": "research/thread_pairs/TH-003-master-hierarchy-of-existence-refined-ontological-stack.md"
+    },
+    {
+      "id": "artifact:ART-003",
+      "type": "artifact",
+      "title": "Master Hierarchy of Existence (Refined Ontological Stack)",
+      "artifact_type": "governance_artifact",
+      "output_path": "governance/artifacts/ART-003-master-hierarchy-of-existence-refined-ontological-stack.md"
+    },
+    {
+      "id": "pair:TH-004",
+      "type": "pair",
+      "title": "The resulting structure becomes a stack of possibility \u2192 instantiation \u2192 emergence.",
+      "pair_path": "research/thread_pairs/TH-004-the-resulting-structure-becomes-a-stack-of-possibility-instantiation-emergence.md"
+    },
+    {
+      "id": "artifact:ART-004",
+      "type": "artifact",
+      "title": "The resulting structure becomes a stack of possibility \u2192 instantiation \u2192 emergence.",
+      "artifact_type": "mechanism_artifact",
+      "output_path": "engine/mechanisms/ART-004-the-resulting-structure-becomes-a-stack-of-possibility-instantiation-emergence.md"
+    },
+    {
+      "id": "pair:TH-005",
+      "type": "pair",
+      "title": "Below is a structured research architecture designed for rigorous academic exploration.",
+      "pair_path": "research/thread_pairs/TH-005-below-is-a-structured-research-architecture-designed-for-rigorous-academic-exploration.md"
+    },
+    {
+      "id": "artifact:ART-005",
+      "type": "artifact",
+      "title": "Below is a structured research architecture designed for rigorous academic exploration.",
+      "artifact_type": "atlas_artifact",
+      "output_path": "atlas/artifacts/ART-005-below-is-a-structured-research-architecture-designed-for-rigorous-academic-exploration.md"
+    },
+    {
+      "id": "pair:TH-006",
+      "type": "pair",
+      "title": "The atlas is designed to do three things at once.",
+      "pair_path": "research/thread_pairs/TH-006-the-atlas-is-designed-to-do-three-things-at-once.md"
+    },
+    {
+      "id": "artifact:ART-006",
+      "type": "artifact",
+      "title": "The atlas is designed to do three things at once.",
+      "artifact_type": "atlas_artifact",
+      "output_path": "atlas/artifacts/ART-006-the-atlas-is-designed-to-do-three-things-at-once.md"
+    },
+    {
+      "id": "pair:TH-007",
+      "type": "pair",
+      "title": "No. The compression is not logically necessary. It is only operationally useful.",
+      "pair_path": "research/thread_pairs/TH-007-no-the-compression-is-not-logically-necessary-it-is-only-operationally-useful.md"
+    },
+    {
+      "id": "artifact:ART-007",
+      "type": "artifact",
+      "title": "No. The compression is not logically necessary. It is only operationally useful.",
+      "artifact_type": "atlas_artifact",
+      "output_path": "atlas/artifacts/ART-007-no-the-compression-is-not-logically-necessary-it-is-only-operationally-useful.md"
+    },
+    {
+      "id": "pair:TH-008",
+      "type": "pair",
+      "title": "The added fields are",
+      "pair_path": "research/thread_pairs/TH-008-the-added-fields-are.md"
+    },
+    {
+      "id": "artifact:ART-008",
+      "type": "artifact",
+      "title": "The added fields are",
+      "artifact_type": "governance_artifact",
+      "output_path": "governance/artifacts/ART-008-the-added-fields-are.md"
+    },
+    {
+      "id": "pair:TH-009",
+      "type": "pair",
+      "title": "The pack contains four core artifacts",
+      "pair_path": "research/thread_pairs/TH-009-the-pack-contains-four-core-artifacts.md"
+    },
+    {
+      "id": "artifact:ART-009",
+      "type": "artifact",
+      "title": "The pack contains four core artifacts",
+      "artifact_type": "governance_artifact",
+      "output_path": "governance/artifacts/ART-009-the-pack-contains-four-core-artifacts.md"
+    },
+    {
+      "id": "pair:TH-010",
+      "type": "pair",
+      "title": "Below is the Phase-1 Master Index.",
+      "pair_path": "research/thread_pairs/TH-010-below-is-the-phase-1-master-index.md"
+    },
+    {
+      "id": "artifact:ART-010",
+      "type": "artifact",
+      "title": "Below is the Phase-1 Master Index.",
+      "artifact_type": "governance_artifact",
+      "output_path": "governance/artifacts/ART-010-below-is-the-phase-1-master-index.md"
+    },
+    {
+      "id": "pair:TH-011",
+      "type": "pair",
+      "title": "Phase-1 Dependency Graph",
+      "pair_path": "research/thread_pairs/TH-011-phase-1-dependency-graph.md"
+    },
+    {
+      "id": "artifact:ART-011",
+      "type": "artifact",
+      "title": "Phase-1 Dependency Graph",
+      "artifact_type": "governance_artifact",
+      "output_path": "governance/artifacts/ART-011-phase-1-dependency-graph.md"
+    },
+    {
+      "id": "pair:TH-012",
+      "type": "pair",
+      "title": "Phase-1 Control Sheet v2",
+      "pair_path": "research/thread_pairs/TH-012-phase-1-control-sheet-v2.md"
+    },
+    {
+      "id": "artifact:ART-012",
+      "type": "artifact",
+      "title": "Phase-1 Control Sheet v2",
+      "artifact_type": "governance_artifact",
+      "output_path": "governance/artifacts/ART-012-phase-1-control-sheet-v2.md"
+    },
+    {
+      "id": "pair:TH-013",
+      "type": "pair",
+      "title": "Phase-1 Wave-1 Launch Pack",
+      "pair_path": "research/thread_pairs/TH-013-phase-1-wave-1-launch-pack.md"
+    },
+    {
+      "id": "artifact:ART-013",
+      "type": "artifact",
+      "title": "Phase-1 Wave-1 Launch Pack",
+      "artifact_type": "governance_artifact",
+      "output_path": "governance/artifacts/ART-013-phase-1-wave-1-launch-pack.md"
+    },
+    {
+      "id": "pair:TH-014",
+      "type": "pair",
+      "title": "Phase-1 Primitive Extraction Seed Library",
+      "pair_path": "research/thread_pairs/TH-014-phase-1-primitive-extraction-seed-library.md"
+    },
+    {
+      "id": "artifact:ART-014",
+      "type": "artifact",
+      "title": "Phase-1 Primitive Extraction Seed Library",
+      "artifact_type": "primitive_artifact",
+      "output_path": "engine/primitives/ART-014-phase-1-primitive-extraction-seed-library.md"
+    },
+    {
+      "id": "pair:TH-015",
+      "type": "pair",
+      "title": "Primitive Interaction Map",
+      "pair_path": "research/thread_pairs/TH-015-primitive-interaction-map.md"
+    },
+    {
+      "id": "artifact:ART-015",
+      "type": "artifact",
+      "title": "Primitive Interaction Map",
+      "artifact_type": "governance_artifact",
+      "output_path": "governance/artifacts/ART-015-primitive-interaction-map.md"
+    },
+    {
+      "id": "pair:TH-016",
+      "type": "pair",
+      "title": "Cross-Lane Primitive Matrix",
+      "pair_path": "research/thread_pairs/TH-016-cross-lane-primitive-matrix.md"
+    },
+    {
+      "id": "artifact:ART-016",
+      "type": "artifact",
+      "title": "Cross-Lane Primitive Matrix",
+      "artifact_type": "governance_artifact",
+      "output_path": "governance/artifacts/ART-016-cross-lane-primitive-matrix.md"
+    },
+    {
+      "id": "pair:TH-017",
+      "type": "pair",
+      "title": "Primitive Governance Table",
+      "pair_path": "research/thread_pairs/TH-017-primitive-governance-table.md"
+    },
+    {
+      "id": "artifact:ART-017",
+      "type": "artifact",
+      "title": "Primitive Governance Table",
+      "artifact_type": "governance_artifact",
+      "output_path": "governance/artifacts/ART-017-primitive-governance-table.md"
+    },
+    {
+      "id": "pair:TH-018",
+      "type": "pair",
+      "title": "Glossary Draft Pack v1",
+      "pair_path": "research/thread_pairs/TH-018-glossary-draft-pack-v1.md"
+    },
+    {
+      "id": "artifact:ART-018",
+      "type": "artifact",
+      "title": "Glossary Draft Pack v1",
+      "artifact_type": "governance_artifact",
+      "output_path": "governance/artifacts/ART-018-glossary-draft-pack-v1.md"
+    },
+    {
+      "id": "pair:TH-019",
+      "type": "pair",
+      "title": "System Architecture Seed Modules",
+      "pair_path": "research/thread_pairs/TH-019-system-architecture-seed-modules.md"
+    },
+    {
+      "id": "artifact:ART-019",
+      "type": "artifact",
+      "title": "System Architecture Seed Modules",
+      "artifact_type": "atlas_artifact",
+      "output_path": "atlas/artifacts/ART-019-system-architecture-seed-modules.md"
+    },
+    {
+      "id": "pair:TH-020",
+      "type": "pair",
+      "title": "Universal Systems Map",
+      "pair_path": "research/thread_pairs/TH-020-universal-systems-map.md"
+    },
+    {
+      "id": "artifact:ART-020",
+      "type": "artifact",
+      "title": "Universal Systems Map",
+      "artifact_type": "atlas_artifact",
+      "output_path": "atlas/artifacts/ART-020-universal-systems-map.md"
+    },
+    {
+      "id": "pair:TH-021",
+      "type": "pair",
+      "title": "Universal Primitive Graph",
+      "pair_path": "research/thread_pairs/TH-021-universal-primitive-graph.md"
+    },
+    {
+      "id": "artifact:ART-021",
+      "type": "artifact",
+      "title": "Universal Primitive Graph",
+      "artifact_type": "knowledge_graph_artifact",
+      "output_path": "knowledge_graph/artifacts/ART-021-universal-primitive-graph.md"
+    },
+    {
+      "id": "pair:TH-022",
+      "type": "pair",
+      "title": "Transition Atlas",
+      "pair_path": "research/thread_pairs/TH-022-transition-atlas.md"
+    },
+    {
+      "id": "artifact:ART-022",
+      "type": "artifact",
+      "title": "Transition Atlas",
+      "artifact_type": "threshold_artifact",
+      "output_path": "engine/thresholds/ART-022-transition-atlas.md"
+    },
+    {
+      "id": "pair:TH-023",
+      "type": "pair",
+      "title": "Threshold Package Library",
+      "pair_path": "research/thread_pairs/TH-023-threshold-package-library.md"
+    },
+    {
+      "id": "artifact:ART-023",
+      "type": "artifact",
+      "title": "Threshold Package Library",
+      "artifact_type": "threshold_artifact",
+      "output_path": "engine/thresholds/ART-023-threshold-package-library.md"
+    },
+    {
+      "id": "pair:TH-024",
+      "type": "pair",
+      "title": "Phase-2 Deep Research Charter",
+      "pair_path": "research/thread_pairs/TH-024-phase-2-deep-research-charter.md"
+    },
+    {
+      "id": "artifact:ART-024",
+      "type": "artifact",
+      "title": "Phase-2 Deep Research Charter",
+      "artifact_type": "atlas_artifact",
+      "output_path": "atlas/artifacts/ART-024-phase-2-deep-research-charter.md"
+    },
+    {
+      "id": "pair:TH-025",
+      "type": "pair",
+      "title": "produce the core reading library",
+      "pair_path": "research/thread_pairs/TH-025-produce-the-core-reading-library.md"
+    },
+    {
+      "id": "artifact:ART-025",
+      "type": "artifact",
+      "title": "produce the core reading library",
+      "artifact_type": "research_artifact",
+      "output_path": "research/artifacts/ART-025-produce-the-core-reading-library.md"
+    },
+    {
+      "id": "pair:TH-026",
+      "type": "pair",
+      "title": "Below is the most reliable workflow.",
+      "pair_path": "research/thread_pairs/TH-026-below-is-the-most-reliable-workflow.md"
+    },
+    {
+      "id": "artifact:ART-026",
+      "type": "artifact",
+      "title": "Below is the most reliable workflow.",
+      "artifact_type": "atlas_artifact",
+      "output_path": "atlas/artifacts/ART-026-below-is-the-most-reliable-workflow.md"
+    },
+    {
+      "id": "pair:TH-027",
+      "type": "pair",
+      "title": "Below is the simplest robust version you can run locally.",
+      "pair_path": "research/thread_pairs/TH-027-below-is-the-simplest-robust-version-you-can-run-locally.md"
+    },
+    {
+      "id": "artifact:ART-027",
+      "type": "artifact",
+      "title": "Below is the simplest robust version you can run locally.",
+      "artifact_type": "atlas_artifact",
+      "output_path": "atlas/artifacts/ART-027-below-is-the-simplest-robust-version-you-can-run-locally.md"
+    },
+    {
+      "id": "pair:TH-028",
+      "type": "pair",
+      "title": "The core idea is simple",
+      "pair_path": "research/thread_pairs/TH-028-the-core-idea-is-simple.md"
+    },
+    {
+      "id": "artifact:ART-028",
+      "type": "artifact",
+      "title": "The core idea is simple",
+      "artifact_type": "atlas_artifact",
+      "output_path": "atlas/artifacts/ART-028-the-core-idea-is-simple.md"
+    },
+    {
+      "id": "pair:TH-029",
+      "type": "pair",
+      "title": "Yes \u2014 that was a real missing piece.",
+      "pair_path": "research/thread_pairs/TH-029-yes-that-was-a-real-missing-piece.md"
+    },
+    {
+      "id": "artifact:ART-029",
+      "type": "artifact",
+      "title": "Yes \u2014 that was a real missing piece.",
+      "artifact_type": "governance_artifact",
+      "output_path": "governance/artifacts/ART-029-yes-that-was-a-real-missing-piece.md"
+    },
+    {
+      "id": "pair:TH-030",
+      "type": "pair",
+      "title": "Below is Source Access Matrix v1 for the Wave-1 priority readings that correspond to the five Phase-2 research lanes.",
+      "pair_path": "research/thread_pairs/TH-030-below-is-source-access-matrix-v1-for-the-wave-1-priority-readings-that-correspond-to-the-five-phase-2-research-lanes.md"
+    },
+    {
+      "id": "artifact:ART-030",
+      "type": "artifact",
+      "title": "Below is Source Access Matrix v1 for the Wave-1 priority readings that correspond to the five Phase-2 research lanes.",
+      "artifact_type": "mechanism_artifact",
+      "output_path": "engine/mechanisms/ART-030-below-is-source-access-matrix-v1-for-the-wave-1-priority-readings-that-correspond-to-the-five-phase-2-research-lanes.md"
+    },
+    {
+      "id": "pair:TH-031",
+      "type": "pair",
+      "title": "The index is organized by the domain stack",
+      "pair_path": "research/thread_pairs/TH-031-the-index-is-organized-by-the-domain-stack.md"
+    },
+    {
+      "id": "artifact:ART-031",
+      "type": "artifact",
+      "title": "The index is organized by the domain stack",
+      "artifact_type": "threshold_artifact",
+      "output_path": "engine/thresholds/ART-031-the-index-is-organized-by-the-domain-stack.md"
+    },
+    {
+      "id": "pair:TH-032",
+      "type": "pair",
+      "title": "Below is the Research Lane Syllabus v1.",
+      "pair_path": "research/thread_pairs/TH-032-below-is-the-research-lane-syllabus-v1.md"
+    },
+    {
+      "id": "artifact:ART-032",
+      "type": "artifact",
+      "title": "Below is the Research Lane Syllabus v1.",
+      "artifact_type": "atlas_artifact",
+      "output_path": "atlas/artifacts/ART-032-below-is-the-research-lane-syllabus-v1.md"
+    },
+    {
+      "id": "pair:TH-033",
+      "type": "pair",
+      "title": "Research Knowledge Graph",
+      "pair_path": "research/thread_pairs/TH-033-research-knowledge-graph.md"
+    },
+    {
+      "id": "artifact:ART-033",
+      "type": "artifact",
+      "title": "Research Knowledge Graph",
+      "artifact_type": "knowledge_graph_artifact",
+      "output_path": "knowledge_graph/artifacts/ART-033-research-knowledge-graph.md"
+    },
+    {
+      "id": "pair:TH-034",
+      "type": "pair",
+      "title": "Your three points raise three different governance questions for the project",
+      "pair_path": "research/thread_pairs/TH-034-your-three-points-raise-three-different-governance-questions-for-the-project.md"
+    },
+    {
+      "id": "artifact:ART-034",
+      "type": "artifact",
+      "title": "Your three points raise three different governance questions for the project",
+      "artifact_type": "governance_artifact",
+      "output_path": "governance/artifacts/ART-034-your-three-points-raise-three-different-governance-questions-for-the-project.md"
+    },
+    {
+      "id": "pair:TH-035",
+      "type": "pair",
+      "title": "Research Institute Operating Model",
+      "pair_path": "research/thread_pairs/TH-035-research-institute-operating-model.md"
+    },
+    {
+      "id": "artifact:ART-035",
+      "type": "artifact",
+      "title": "Research Institute Operating Model",
+      "artifact_type": "governance_artifact",
+      "output_path": "governance/artifacts/ART-035-research-institute-operating-model.md"
+    },
+    {
+      "id": "pair:TH-036",
+      "type": "pair",
+      "title": "Universe-Engine Computational Architecture",
+      "pair_path": "research/thread_pairs/TH-036-universe-engine-computational-architecture.md"
+    },
+    {
+      "id": "artifact:ART-036",
+      "type": "artifact",
+      "title": "Universe-Engine Computational Architecture",
+      "artifact_type": "governance_artifact",
+      "output_path": "governance/artifacts/ART-036-universe-engine-computational-architecture.md"
+    },
+    {
+      "id": "pair:TH-037",
+      "type": "pair",
+      "title": "Below is the realistic assessment.",
+      "pair_path": "research/thread_pairs/TH-037-below-is-the-realistic-assessment.md"
+    },
+    {
+      "id": "artifact:ART-037",
+      "type": "artifact",
+      "title": "Below is the realistic assessment.",
+      "artifact_type": "governance_artifact",
+      "output_path": "governance/artifacts/ART-037-below-is-the-realistic-assessment.md"
+    },
+    {
+      "id": "pair:TH-038",
+      "type": "pair",
+      "title": "PRIMITIVE CANON v1",
+      "pair_path": "research/thread_pairs/TH-038-primitive-canon-v1.md"
+    },
+    {
+      "id": "artifact:ART-038",
+      "type": "artifact",
+      "title": "PRIMITIVE CANON v1",
+      "artifact_type": "primitive_artifact",
+      "output_path": "engine/primitives/ART-038-primitive-canon-v1.md"
+    },
+    {
+      "id": "pair:TH-039",
+      "type": "pair",
+      "title": "MECHANISM REGISTRY v1",
+      "pair_path": "research/thread_pairs/TH-039-mechanism-registry-v1.md"
+    },
+    {
+      "id": "artifact:ART-039",
+      "type": "artifact",
+      "title": "MECHANISM REGISTRY v1",
+      "artifact_type": "mechanism_artifact",
+      "output_path": "engine/mechanisms/ART-039-mechanism-registry-v1.md"
+    },
+    {
+      "id": "pair:TH-040",
+      "type": "pair",
+      "title": "To answer this clearly, we need to distinguish three completion horizons",
+      "pair_path": "research/thread_pairs/TH-040-to-answer-this-clearly-we-need-to-distinguish-three-completion-horizons.md"
+    },
+    {
+      "id": "artifact:ART-040",
+      "type": "artifact",
+      "title": "To answer this clearly, we need to distinguish three completion horizons",
+      "artifact_type": "atlas_artifact",
+      "output_path": "atlas/artifacts/ART-040-to-answer-this-clearly-we-need-to-distinguish-three-completion-horizons.md"
+    },
+    {
+      "id": "pair:TH-041",
+      "type": "pair",
+      "title": "To prevent collapse under complexity, the system must be reduced to a minimal operational backbone.",
+      "pair_path": "research/thread_pairs/TH-041-to-prevent-collapse-under-complexity-the-system-must-be-reduced-to-a-minimal-operational-backbone.md"
+    },
+    {
+      "id": "artifact:ART-041",
+      "type": "artifact",
+      "title": "To prevent collapse under complexity, the system must be reduced to a minimal operational backbone.",
+      "artifact_type": "atlas_artifact",
+      "output_path": "atlas/artifacts/ART-041-to-prevent-collapse-under-complexity-the-system-must-be-reduced-to-a-minimal-operational-backbone.md"
+    },
+    {
+      "id": "pair:TH-042",
+      "type": "pair",
+      "title": "Not object types. Not domain-specific subsystems. Patterns.",
+      "pair_path": "research/thread_pairs/TH-042-not-object-types-not-domain-specific-subsystems-patterns.md"
+    },
+    {
+      "id": "artifact:ART-042",
+      "type": "artifact",
+      "title": "Not object types. Not domain-specific subsystems. Patterns.",
+      "artifact_type": "governance_artifact",
+      "output_path": "governance/artifacts/ART-042-not-object-types-not-domain-specific-subsystems-patterns.md"
+    },
+    {
+      "id": "pair:TH-043",
+      "type": "pair",
+      "title": "UNIVERSE_ENGINE_KERNEL_SPEC_v0",
+      "pair_path": "research/thread_pairs/TH-043-universe-engine-kernel-spec-v0.md"
+    },
+    {
+      "id": "artifact:ART-043",
+      "type": "artifact",
+      "title": "UNIVERSE_ENGINE_KERNEL_SPEC_v0",
+      "artifact_type": "runtime_artifact",
+      "output_path": "engine/runtime/ART-043-universe-engine-kernel-spec-v0.md"
+    },
+    {
+      "id": "pair:TH-044",
+      "type": "pair",
+      "title": "MODULE_API_SPEC_v1",
+      "pair_path": "research/thread_pairs/TH-044-module-api-spec-v1.md"
+    },
+    {
+      "id": "artifact:ART-044",
+      "type": "artifact",
+      "title": "MODULE_API_SPEC_v1",
+      "artifact_type": "module_artifact",
+      "output_path": "engine/modules/ART-044-module-api-spec-v1.md"
+    },
+    {
+      "id": "pair:TH-045",
+      "type": "pair",
+      "title": "WORLD_INSTANCE_SCHEMA_v1",
+      "pair_path": "research/thread_pairs/TH-045-world-instance-schema-v1.md"
+    },
+    {
+      "id": "artifact:ART-045",
+      "type": "artifact",
+      "title": "WORLD_INSTANCE_SCHEMA_v1",
+      "artifact_type": "world_artifact",
+      "output_path": "engine/worlds/ART-045-world-instance-schema-v1.md"
+    },
+    {
+      "id": "pair:TH-046",
+      "type": "pair",
+      "title": "RESEARCH_DASHBOARD_v1",
+      "pair_path": "research/thread_pairs/TH-046-research-dashboard-v1.md"
+    },
+    {
+      "id": "artifact:ART-046",
+      "type": "artifact",
+      "title": "RESEARCH_DASHBOARD_v1",
+      "artifact_type": "mechanism_artifact",
+      "output_path": "engine/mechanisms/ART-046-research-dashboard-v1.md"
+    },
+    {
+      "id": "pair:TH-047",
+      "type": "pair",
+      "title": "Below is the Phase-1 Launch Reading Set (30 texts).",
+      "pair_path": "research/thread_pairs/TH-047-below-is-the-phase-1-launch-reading-set-30-texts.md"
+    },
+    {
+      "id": "artifact:ART-047",
+      "type": "artifact",
+      "title": "Below is the Phase-1 Launch Reading Set (30 texts).",
+      "artifact_type": "organvm_bridge_artifact",
+      "output_path": "organvm_bridge/artifacts/ART-047-below-is-the-phase-1-launch-reading-set-30-texts.md"
+    },
+    {
+      "id": "pair:TH-048",
+      "type": "pair",
+      "title": "MECHANISM EXTRACTION TEMPLATE v1",
+      "pair_path": "research/thread_pairs/TH-048-mechanism-extraction-template-v1.md"
+    },
+    {
+      "id": "artifact:ART-048",
+      "type": "artifact",
+      "title": "MECHANISM EXTRACTION TEMPLATE v1",
+      "artifact_type": "mechanism_artifact",
+      "output_path": "engine/mechanisms/ART-048-mechanism-extraction-template-v1.md"
+    },
+    {
+      "id": "pair:TH-049",
+      "type": "pair",
+      "title": "Below is a complete operational close-out package for this thread.",
+      "pair_path": "research/thread_pairs/TH-049-below-is-a-complete-operational-close-out-package-for-this-thread.md"
+    },
+    {
+      "id": "artifact:ART-049",
+      "type": "artifact",
+      "title": "Below is a complete operational close-out package for this thread.",
+      "artifact_type": "manifest_artifact",
+      "output_path": "manifest/artifacts/ART-049-below-is-a-complete-operational-close-out-package-for-this-thread.md"
+    },
+    {
+      "id": "pair:TH-050",
+      "type": "pair",
+      "title": "Below is a one-command repository generator script that bootstraps the entire local structure for the project.",
+      "pair_path": "research/thread_pairs/TH-050-below-is-a-one-command-repository-generator-script-that-bootstraps-the-entire-local-structure-for-the-project.md"
+    },
+    {
+      "id": "artifact:ART-050",
+      "type": "artifact",
+      "title": "Below is a one-command repository generator script that bootstraps the entire local structure for the project.",
+      "artifact_type": "manifest_artifact",
+      "output_path": "manifest/artifacts/ART-050-below-is-a-one-command-repository-generator-script-that-bootstraps-the-entire-local-structure-for-the-project.md"
+    },
+    {
+      "id": "pair:TH-051",
+      "type": "pair",
+      "title": "Below is the thread distiller script that takes a raw ChatGPT transcript and turns it into seeded repository artifacts.",
+      "pair_path": "research/thread_pairs/TH-051-below-is-the-thread-distiller-script-that-takes-a-raw-chatgpt-transcript-and-turns-it-into-seeded-repository-artifacts.md"
+    },
+    {
+      "id": "artifact:ART-051",
+      "type": "artifact",
+      "title": "Below is the thread distiller script that takes a raw ChatGPT transcript and turns it into seeded repository artifacts.",
+      "artifact_type": "ingestion_artifact",
+      "output_path": "ingestion/artifacts/ART-051-below-is-the-thread-distiller-script-that-takes-a-raw-chatgpt-transcript-and-turns-it-into-seeded-repository-artifacts.md"
+    },
+    {
+      "id": "pair:TH-052",
+      "type": "pair",
+      "title": "Writing",
+      "pair_path": "research/thread_pairs/TH-052-writing.md"
+    },
+    {
+      "id": "artifact:ART-052",
+      "type": "artifact",
+      "title": "Writing",
+      "artifact_type": "manifest_artifact",
+      "output_path": "manifest/artifacts/ART-052-writing.md"
+    },
+    {
+      "id": "pair:TH-053",
+      "type": "pair",
+      "title": "Ulti-Meta\u2013Multiversal\u2013Poly-Algorithm\u2013Rhythmic\u2013Constant-Morph\u2013Meme",
+      "pair_path": "research/thread_pairs/TH-053-ulti-meta-multiversal-poly-algorithm-rhythmic-constant-morph-meme.md"
+    },
+    {
+      "id": "artifact:ART-053",
+      "type": "artifact",
+      "title": "Ulti-Meta\u2013Multiversal\u2013Poly-Algorithm\u2013Rhythmic\u2013Constant-Morph\u2013Meme",
+      "artifact_type": "mechanism_artifact",
+      "output_path": "engine/mechanisms/ART-053-ulti-meta-multiversal-poly-algorithm-rhythmic-constant-morph-meme.md"
+    },
+    {
+      "id": "pair:TH-054",
+      "type": "pair",
+      "title": "Formal Mapping",
+      "pair_path": "research/thread_pairs/TH-054-formal-mapping.md"
+    },
+    {
+      "id": "artifact:ART-054",
+      "type": "artifact",
+      "title": "Formal Mapping",
+      "artifact_type": "governance_artifact",
+      "output_path": "governance/artifacts/ART-054-formal-mapping.md"
+    },
+    {
+      "id": "pair:TH-055",
+      "type": "pair",
+      "title": "To explain precisely, we should separate three layers that now exist in your project.",
+      "pair_path": "research/thread_pairs/TH-055-to-explain-precisely-we-should-separate-three-layers-that-now-exist-in-your-project.md"
+    },
+    {
+      "id": "artifact:ART-055",
+      "type": "artifact",
+      "title": "To explain precisely, we should separate three layers that now exist in your project.",
+      "artifact_type": "atlas_artifact",
+      "output_path": "atlas/artifacts/ART-055-to-explain-precisely-we-should-separate-three-layers-that-now-exist-in-your-project.md"
+    },
+    {
+      "id": "pair:TH-056",
+      "type": "pair",
+      "title": "Preventing that outcome requires a mechanism discipline protocol before the literature review begins.",
+      "pair_path": "research/thread_pairs/TH-056-preventing-that-outcome-requires-a-mechanism-discipline-protocol-before-the-literature-review-begins.md"
+    },
+    {
+      "id": "artifact:ART-056",
+      "type": "artifact",
+      "title": "Preventing that outcome requires a mechanism discipline protocol before the literature review begins.",
+      "artifact_type": "governance_artifact",
+      "output_path": "governance/artifacts/ART-056-preventing-that-outcome-requires-a-mechanism-discipline-protocol-before-the-literature-review-begins.md"
+    },
+    {
+      "id": "pair:TH-057",
+      "type": "pair",
+      "title": "The 12 Mechanism Families",
+      "pair_path": "research/thread_pairs/TH-057-the-12-mechanism-families.md"
+    },
+    {
+      "id": "artifact:ART-057",
+      "type": "artifact",
+      "title": "The 12 Mechanism Families",
+      "artifact_type": "governance_artifact",
+      "output_path": "governance/artifacts/ART-057-the-12-mechanism-families.md"
+    },
+    {
+      "id": "pair:TH-058",
+      "type": "pair",
+      "title": "Below is the Research Pipeline (R0 \u2192 R6) that operationalizes the entire research phase.",
+      "pair_path": "research/thread_pairs/TH-058-below-is-the-research-pipeline-r0-r6-that-operationalizes-the-entire-research-phase.md"
+    },
+    {
+      "id": "artifact:ART-058",
+      "type": "artifact",
+      "title": "Below is the Research Pipeline (R0 \u2192 R6) that operationalizes the entire research phase.",
+      "artifact_type": "atlas_artifact",
+      "output_path": "atlas/artifacts/ART-058-below-is-the-research-pipeline-r0-r6-that-operationalizes-the-entire-research-phase.md"
+    },
+    {
+      "id": "pair:TH-059",
+      "type": "pair",
+      "title": "You need a lane system that is",
+      "pair_path": "research/thread_pairs/TH-059-you-need-a-lane-system-that-is.md"
+    },
+    {
+      "id": "artifact:ART-059",
+      "type": "artifact",
+      "title": "You need a lane system that is",
+      "artifact_type": "governance_artifact",
+      "output_path": "governance/artifacts/ART-059-you-need-a-lane-system-that-is.md"
+    },
+    {
+      "id": "pair:TH-060",
+      "type": "pair",
+      "title": "Lane Governance Charter v1",
+      "pair_path": "research/thread_pairs/TH-060-lane-governance-charter-v1.md"
+    },
+    {
+      "id": "artifact:ART-060",
+      "type": "artifact",
+      "title": "Lane Governance Charter v1",
+      "artifact_type": "governance_artifact",
+      "output_path": "governance/artifacts/ART-060-lane-governance-charter-v1.md"
+    },
+    {
+      "id": "pair:TH-061",
+      "type": "pair",
+      "title": "The key distinction is between infrastructure that enables research and infrastructure that delays research.",
+      "pair_path": "research/thread_pairs/TH-061-the-key-distinction-is-between-infrastructure-that-enables-research-and-infrastructure-that-delays-research.md"
+    },
+    {
+      "id": "artifact:ART-061",
+      "type": "artifact",
+      "title": "The key distinction is between infrastructure that enables research and infrastructure that delays research.",
+      "artifact_type": "atlas_artifact",
+      "output_path": "atlas/artifacts/ART-061-the-key-distinction-is-between-infrastructure-that-enables-research-and-infrastructure-that-delays-research.md"
+    },
+    {
+      "id": "pair:TH-062",
+      "type": "pair",
+      "title": "In systems terms, what you are outlining sounds like a triadic architecture.",
+      "pair_path": "research/thread_pairs/TH-062-in-systems-terms-what-you-are-outlining-sounds-like-a-triadic-architecture.md"
+    },
+    {
+      "id": "artifact:ART-062",
+      "type": "artifact",
+      "title": "In systems terms, what you are outlining sounds like a triadic architecture.",
+      "artifact_type": "governance_artifact",
+      "output_path": "governance/artifacts/ART-062-in-systems-terms-what-you-are-outlining-sounds-like-a-triadic-architecture.md"
+    },
+    {
+      "id": "pair:TH-063",
+      "type": "pair",
+      "title": "Below is the historical pattern.",
+      "pair_path": "research/thread_pairs/TH-063-below-is-the-historical-pattern.md"
+    },
+    {
+      "id": "artifact:ART-063",
+      "type": "artifact",
+      "title": "Below is the historical pattern.",
+      "artifact_type": "atlas_artifact",
+      "output_path": "atlas/artifacts/ART-063-below-is-the-historical-pattern.md"
+    },
+    {
+      "id": "pair:TH-064",
+      "type": "pair",
+      "title": "The Three Pillars as Knowledge Engines",
+      "pair_path": "research/thread_pairs/TH-064-the-three-pillars-as-knowledge-engines.md"
+    },
+    {
+      "id": "artifact:ART-064",
+      "type": "artifact",
+      "title": "The Three Pillars as Knowledge Engines",
+      "artifact_type": "atlas_artifact",
+      "output_path": "atlas/artifacts/ART-064-the-three-pillars-as-knowledge-engines.md"
+    },
+    {
+      "id": "pair:TH-065",
+      "type": "pair",
+      "title": "This framework also includes a structural audit to check whether the architecture is missing a pillar.",
+      "pair_path": "research/thread_pairs/TH-065-this-framework-also-includes-a-structural-audit-to-check-whether-the-architecture-is-missing-a-pillar.md"
+    },
+    {
+      "id": "artifact:ART-065",
+      "type": "artifact",
+      "title": "This framework also includes a structural audit to check whether the architecture is missing a pillar.",
+      "artifact_type": "atlas_artifact",
+      "output_path": "atlas/artifacts/ART-065-this-framework-also-includes-a-structural-audit-to-check-whether-the-architecture-is-missing-a-pillar.md"
+    },
+    {
+      "id": "pair:TH-066",
+      "type": "pair",
+      "title": "Failure Mode 1 \u2014 Infrastructure Spiral",
+      "pair_path": "research/thread_pairs/TH-066-failure-mode-1-infrastructure-spiral.md"
+    },
+    {
+      "id": "artifact:ART-066",
+      "type": "artifact",
+      "title": "Failure Mode 1 \u2014 Infrastructure Spiral",
+      "artifact_type": "governance_artifact",
+      "output_path": "governance/artifacts/ART-066-failure-mode-1-infrastructure-spiral.md"
+    },
+    {
+      "id": "pair:TH-067",
+      "type": "pair",
+      "title": "The success criterion for the first 90 days is simple",
+      "pair_path": "research/thread_pairs/TH-067-the-success-criterion-for-the-first-90-days-is-simple.md"
+    },
+    {
+      "id": "artifact:ART-067",
+      "type": "artifact",
+      "title": "The success criterion for the first 90 days is simple",
+      "artifact_type": "atlas_artifact",
+      "output_path": "atlas/artifacts/ART-067-the-success-criterion-for-the-first-90-days-is-simple.md"
+    },
+    {
+      "id": "pair:TH-068",
+      "type": "pair",
+      "title": "Think of it as a mechanism extraction instrument, not a reading summary format.",
+      "pair_path": "research/thread_pairs/TH-068-think-of-it-as-a-mechanism-extraction-instrument-not-a-reading-summary-format.md"
+    },
+    {
+      "id": "artifact:ART-068",
+      "type": "artifact",
+      "title": "Think of it as a mechanism extraction instrument, not a reading summary format.",
+      "artifact_type": "atlas_artifact",
+      "output_path": "atlas/artifacts/ART-068-think-of-it-as-a-mechanism-extraction-instrument-not-a-reading-summary-format.md"
+    },
+    {
+      "id": "pair:TH-069",
+      "type": "pair",
+      "title": "Below is the clean integration.",
+      "pair_path": "research/thread_pairs/TH-069-below-is-the-clean-integration.md"
+    },
+    {
+      "id": "artifact:ART-069",
+      "type": "artifact",
+      "title": "Below is the clean integration.",
+      "artifact_type": "organvm_bridge_artifact",
+      "output_path": "organvm_bridge/artifacts/ART-069-below-is-the-clean-integration.md"
+    },
+    {
+      "id": "pair:TH-070",
+      "type": "pair",
+      "title": "Design Brief",
+      "pair_path": "research/thread_pairs/TH-070-design-brief.md"
+    },
+    {
+      "id": "artifact:ART-070",
+      "type": "artifact",
+      "title": "Design Brief",
+      "artifact_type": "organvm_bridge_artifact",
+      "output_path": "organvm_bridge/artifacts/ART-070-design-brief.md"
+    },
+    {
+      "id": "pair:TH-071",
+      "type": "pair",
+      "title": "The core principle",
+      "pair_path": "research/thread_pairs/TH-071-the-core-principle.md"
+    },
+    {
+      "id": "artifact:ART-071",
+      "type": "artifact",
+      "title": "The core principle",
+      "artifact_type": "organvm_bridge_artifact",
+      "output_path": "organvm_bridge/artifacts/ART-071-the-core-principle.md"
+    },
+    {
+      "id": "pair:TH-072",
+      "type": "pair",
+      "title": "I grouped them by type of influence, because your system blends several traditions that rarely coexist.",
+      "pair_path": "research/thread_pairs/TH-072-i-grouped-them-by-type-of-influence-because-your-system-blends-several-traditions-that-rarely-coexist.md"
+    },
+    {
+      "id": "artifact:ART-072",
+      "type": "artifact",
+      "title": "I grouped them by type of influence, because your system blends several traditions that rarely coexist.",
+      "artifact_type": "organvm_bridge_artifact",
+      "output_path": "organvm_bridge/artifacts/ART-072-i-grouped-them-by-type-of-influence-because-your-system-blends-several-traditions-that-rarely-coexist.md"
+    },
+    {
+      "id": "pair:TH-073",
+      "type": "pair",
+      "title": "Together they form the closest historical analog.",
+      "pair_path": "research/thread_pairs/TH-073-together-they-form-the-closest-historical-analog.md"
+    },
+    {
+      "id": "artifact:ART-073",
+      "type": "artifact",
+      "title": "Together they form the closest historical analog.",
+      "artifact_type": "organvm_bridge_artifact",
+      "output_path": "organvm_bridge/artifacts/ART-073-together-they-form-the-closest-historical-analog.md"
+    },
+    {
+      "id": "pair:TH-074",
+      "type": "pair",
+      "title": "theory must generate frameworks",
+      "pair_path": "research/thread_pairs/TH-074-theory-must-generate-frameworks.md"
+    },
+    {
+      "id": "artifact:ART-074",
+      "type": "artifact",
+      "title": "theory must generate frameworks",
+      "artifact_type": "organvm_bridge_artifact",
+      "output_path": "organvm_bridge/artifacts/ART-074-theory-must-generate-frameworks.md"
+    },
+    {
+      "id": "pair:TH-075",
+      "type": "pair",
+      "title": "If they are not addressed early, the organism gradually loses coherence.",
+      "pair_path": "research/thread_pairs/TH-075-if-they-are-not-addressed-early-the-organism-gradually-loses-coherence.md"
+    },
+    {
+      "id": "artifact:ART-075",
+      "type": "artifact",
+      "title": "If they are not addressed early, the organism gradually loses coherence.",
+      "artifact_type": "organvm_bridge_artifact",
+      "output_path": "organvm_bridge/artifacts/ART-075-if-they-are-not-addressed-early-the-organism-gradually-loses-coherence.md"
+    },
+    {
+      "id": "pair:TH-076",
+      "type": "pair",
+      "title": "The single most stabilizing repository that organvm does not yet clearly have is something like",
+      "pair_path": "research/thread_pairs/TH-076-the-single-most-stabilizing-repository-that-organvm-does-not-yet-clearly-have-is-something-like.md"
+    },
+    {
+      "id": "artifact:ART-076",
+      "type": "artifact",
+      "title": "The single most stabilizing repository that organvm does not yet clearly have is something like",
+      "artifact_type": "atlas_artifact",
+      "output_path": "atlas/artifacts/ART-076-the-single-most-stabilizing-repository-that-organvm-does-not-yet-clearly-have-is-something-like.md"
+    },
+    {
+      "id": "pair:TH-077",
+      "type": "pair",
+      "title": "A. Updated automated repository generator script",
+      "pair_path": "research/thread_pairs/TH-077-a-updated-automated-repository-generator-script.md"
+    },
+    {
+      "id": "artifact:ART-077",
+      "type": "artifact",
+      "title": "A. Updated automated repository generator script",
+      "artifact_type": "manifest_artifact",
+      "output_path": "manifest/artifacts/ART-077-a-updated-automated-repository-generator-script.md"
+    }
+  ],
+  "edges": [
+    {
+      "from": "pair:TH-001",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-001",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-001"
+    },
+    {
+      "from": "artifact:ART-001",
+      "relation": "stored_in",
+      "to": "directory:research"
+    },
+    {
+      "from": "artifact:ART-001",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "pair:TH-002",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-002",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-002"
+    },
+    {
+      "from": "artifact:ART-002",
+      "relation": "stored_in",
+      "to": "directory:engine"
+    },
+    {
+      "from": "artifact:ART-002",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-002",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-002",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-002",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-003",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-003",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-003"
+    },
+    {
+      "from": "artifact:ART-003",
+      "relation": "stored_in",
+      "to": "directory:governance"
+    },
+    {
+      "from": "artifact:ART-003",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-003",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-003",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-003",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-003",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "pair:TH-004",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-004",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-004"
+    },
+    {
+      "from": "artifact:ART-004",
+      "relation": "stored_in",
+      "to": "directory:engine"
+    },
+    {
+      "from": "artifact:ART-004",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-004",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "pair:TH-005",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-005",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-005"
+    },
+    {
+      "from": "artifact:ART-005",
+      "relation": "stored_in",
+      "to": "directory:atlas"
+    },
+    {
+      "from": "artifact:ART-005",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-005",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "artifact:ART-005",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "pair:TH-006",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-006",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-006"
+    },
+    {
+      "from": "artifact:ART-006",
+      "relation": "stored_in",
+      "to": "directory:atlas"
+    },
+    {
+      "from": "artifact:ART-006",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-006",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-006",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-006",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-006",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-006",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "artifact:ART-006",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-006",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-007",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-007",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-007"
+    },
+    {
+      "from": "artifact:ART-007",
+      "relation": "stored_in",
+      "to": "directory:atlas"
+    },
+    {
+      "from": "artifact:ART-007",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-007",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-007",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-007",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-007",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-007",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "artifact:ART-007",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-007",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-008",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-008",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-008"
+    },
+    {
+      "from": "artifact:ART-008",
+      "relation": "stored_in",
+      "to": "directory:governance"
+    },
+    {
+      "from": "artifact:ART-008",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-008",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-008",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-008",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-008",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-008",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-008",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "pair:TH-009",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-009",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-009"
+    },
+    {
+      "from": "artifact:ART-009",
+      "relation": "stored_in",
+      "to": "directory:governance"
+    },
+    {
+      "from": "artifact:ART-009",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-009",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-009",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-009",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-009",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-009",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-009",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-010",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-010",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-010"
+    },
+    {
+      "from": "artifact:ART-010",
+      "relation": "stored_in",
+      "to": "directory:governance"
+    },
+    {
+      "from": "artifact:ART-010",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-010",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-010",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-010",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-010",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "pair:TH-011",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-011",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-011"
+    },
+    {
+      "from": "artifact:ART-011",
+      "relation": "stored_in",
+      "to": "directory:governance"
+    },
+    {
+      "from": "artifact:ART-011",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-011",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-011",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-011",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "pair:TH-012",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-012",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-012"
+    },
+    {
+      "from": "artifact:ART-012",
+      "relation": "stored_in",
+      "to": "directory:governance"
+    },
+    {
+      "from": "artifact:ART-012",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-012",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-012",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-012",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-012",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "pair:TH-013",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-013",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-013"
+    },
+    {
+      "from": "artifact:ART-013",
+      "relation": "stored_in",
+      "to": "directory:governance"
+    },
+    {
+      "from": "artifact:ART-013",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-013",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-013",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-013",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-013",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-013",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-014",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-014",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-014"
+    },
+    {
+      "from": "artifact:ART-014",
+      "relation": "stored_in",
+      "to": "directory:engine"
+    },
+    {
+      "from": "artifact:ART-014",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-014",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-014",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "pair:TH-015",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-015",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-015"
+    },
+    {
+      "from": "artifact:ART-015",
+      "relation": "stored_in",
+      "to": "directory:governance"
+    },
+    {
+      "from": "artifact:ART-015",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-015",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-015",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-015",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-015",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-015",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-016",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-016",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-016"
+    },
+    {
+      "from": "artifact:ART-016",
+      "relation": "stored_in",
+      "to": "directory:governance"
+    },
+    {
+      "from": "artifact:ART-016",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-016",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-016",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-016",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "pair:TH-017",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-017",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-017"
+    },
+    {
+      "from": "artifact:ART-017",
+      "relation": "stored_in",
+      "to": "directory:governance"
+    },
+    {
+      "from": "artifact:ART-017",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-017",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-017",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-017",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-017",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-017",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-017",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-017",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-018",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-018",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-018"
+    },
+    {
+      "from": "artifact:ART-018",
+      "relation": "stored_in",
+      "to": "directory:governance"
+    },
+    {
+      "from": "artifact:ART-018",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-018",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-018",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-018",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-018",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-018",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-018",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-019",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-019",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-019"
+    },
+    {
+      "from": "artifact:ART-019",
+      "relation": "stored_in",
+      "to": "directory:atlas"
+    },
+    {
+      "from": "artifact:ART-019",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-019",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-019",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-019",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-019",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "artifact:ART-019",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "pair:TH-020",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-020",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-020"
+    },
+    {
+      "from": "artifact:ART-020",
+      "relation": "stored_in",
+      "to": "directory:atlas"
+    },
+    {
+      "from": "artifact:ART-020",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-020",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-020",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-020",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-020",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-020",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "artifact:ART-020",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-020",
+      "relation": "references_concept",
+      "to": "concept:manifest"
+    },
+    {
+      "from": "pair:TH-021",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-021",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-021"
+    },
+    {
+      "from": "artifact:ART-021",
+      "relation": "stored_in",
+      "to": "directory:knowledge_graph"
+    },
+    {
+      "from": "artifact:ART-021",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-021",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-021",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-021",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-021",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-021",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "artifact:ART-021",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "pair:TH-022",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-022",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-022"
+    },
+    {
+      "from": "artifact:ART-022",
+      "relation": "stored_in",
+      "to": "directory:engine"
+    },
+    {
+      "from": "artifact:ART-022",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-022",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-022",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-022",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-022",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-022",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-022",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "artifact:ART-022",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-022",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-023",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-023",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-023"
+    },
+    {
+      "from": "artifact:ART-023",
+      "relation": "stored_in",
+      "to": "directory:engine"
+    },
+    {
+      "from": "artifact:ART-023",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-023",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-023",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-023",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-023",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-023",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-023",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "artifact:ART-023",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-023",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-024",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-024",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-024"
+    },
+    {
+      "from": "artifact:ART-024",
+      "relation": "stored_in",
+      "to": "directory:atlas"
+    },
+    {
+      "from": "artifact:ART-024",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-024",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-024",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-024",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-024",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-024",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-024",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "artifact:ART-024",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-024",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-025",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-025",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-025"
+    },
+    {
+      "from": "artifact:ART-025",
+      "relation": "stored_in",
+      "to": "directory:research"
+    },
+    {
+      "from": "artifact:ART-025",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "pair:TH-026",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-026",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-026"
+    },
+    {
+      "from": "artifact:ART-026",
+      "relation": "stored_in",
+      "to": "directory:atlas"
+    },
+    {
+      "from": "artifact:ART-026",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-026",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-026",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-026",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-026",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-026",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "artifact:ART-026",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-027",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-027",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-027"
+    },
+    {
+      "from": "artifact:ART-027",
+      "relation": "stored_in",
+      "to": "directory:atlas"
+    },
+    {
+      "from": "artifact:ART-027",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-027",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-027",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-027",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-027",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-027",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "artifact:ART-027",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-028",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-028",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-028"
+    },
+    {
+      "from": "artifact:ART-028",
+      "relation": "stored_in",
+      "to": "directory:atlas"
+    },
+    {
+      "from": "artifact:ART-028",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-028",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-028",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-028",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-028",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-028",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "artifact:ART-028",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-028",
+      "relation": "references_concept",
+      "to": "concept:manifest"
+    },
+    {
+      "from": "artifact:ART-028",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-029",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-029",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-029"
+    },
+    {
+      "from": "artifact:ART-029",
+      "relation": "stored_in",
+      "to": "directory:governance"
+    },
+    {
+      "from": "artifact:ART-029",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-029",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-029",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-030",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-030",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-030"
+    },
+    {
+      "from": "artifact:ART-030",
+      "relation": "stored_in",
+      "to": "directory:engine"
+    },
+    {
+      "from": "artifact:ART-030",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-030",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-030",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-030",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-030",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-030",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-031",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-031",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-031"
+    },
+    {
+      "from": "artifact:ART-031",
+      "relation": "stored_in",
+      "to": "directory:engine"
+    },
+    {
+      "from": "artifact:ART-031",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-031",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-031",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "pair:TH-032",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-032",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-032"
+    },
+    {
+      "from": "artifact:ART-032",
+      "relation": "stored_in",
+      "to": "directory:atlas"
+    },
+    {
+      "from": "artifact:ART-032",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-032",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-032",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-032",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-032",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-032",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "artifact:ART-032",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "pair:TH-033",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-033",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-033"
+    },
+    {
+      "from": "artifact:ART-033",
+      "relation": "stored_in",
+      "to": "directory:knowledge_graph"
+    },
+    {
+      "from": "artifact:ART-033",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-033",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-033",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-033",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-033",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-033",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-033",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "pair:TH-034",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-034",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-034"
+    },
+    {
+      "from": "artifact:ART-034",
+      "relation": "stored_in",
+      "to": "directory:governance"
+    },
+    {
+      "from": "artifact:ART-034",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-034",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-034",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-034",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-034",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-034",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-034",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-034",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-035",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-035",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-035"
+    },
+    {
+      "from": "artifact:ART-035",
+      "relation": "stored_in",
+      "to": "directory:governance"
+    },
+    {
+      "from": "artifact:ART-035",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-035",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-035",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-035",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-035",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-035",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-035",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-036",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-036",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-036"
+    },
+    {
+      "from": "artifact:ART-036",
+      "relation": "stored_in",
+      "to": "directory:governance"
+    },
+    {
+      "from": "artifact:ART-036",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-036",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-036",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-036",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-036",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-036",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-036",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "pair:TH-037",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-037",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-037"
+    },
+    {
+      "from": "artifact:ART-037",
+      "relation": "stored_in",
+      "to": "directory:governance"
+    },
+    {
+      "from": "artifact:ART-037",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-037",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-037",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-037",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-037",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-037",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-037",
+      "relation": "references_concept",
+      "to": "concept:manifest"
+    },
+    {
+      "from": "pair:TH-038",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-038",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-038"
+    },
+    {
+      "from": "artifact:ART-038",
+      "relation": "stored_in",
+      "to": "directory:engine"
+    },
+    {
+      "from": "artifact:ART-038",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-038",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-038",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-038",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-038",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-038",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "pair:TH-039",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-039",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-039"
+    },
+    {
+      "from": "artifact:ART-039",
+      "relation": "stored_in",
+      "to": "directory:engine"
+    },
+    {
+      "from": "artifact:ART-039",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-039",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-039",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-039",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-039",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-039",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-039",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "pair:TH-040",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-040",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-040"
+    },
+    {
+      "from": "artifact:ART-040",
+      "relation": "stored_in",
+      "to": "directory:atlas"
+    },
+    {
+      "from": "artifact:ART-040",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-040",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-040",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-040",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-040",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-040",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-040",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "artifact:ART-040",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-041",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-041",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-041"
+    },
+    {
+      "from": "artifact:ART-041",
+      "relation": "stored_in",
+      "to": "directory:atlas"
+    },
+    {
+      "from": "artifact:ART-041",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-041",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-041",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-041",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-041",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-041",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-041",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "pair:TH-042",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-042",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-042"
+    },
+    {
+      "from": "artifact:ART-042",
+      "relation": "stored_in",
+      "to": "directory:governance"
+    },
+    {
+      "from": "artifact:ART-042",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-042",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-042",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-042",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-042",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "pair:TH-043",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-043",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-043"
+    },
+    {
+      "from": "artifact:ART-043",
+      "relation": "stored_in",
+      "to": "directory:engine"
+    },
+    {
+      "from": "artifact:ART-043",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-043",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-043",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-043",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-043",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-043",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-043",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-043",
+      "relation": "references_concept",
+      "to": "concept:manifest"
+    },
+    {
+      "from": "pair:TH-044",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-044",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-044"
+    },
+    {
+      "from": "artifact:ART-044",
+      "relation": "stored_in",
+      "to": "directory:engine"
+    },
+    {
+      "from": "artifact:ART-044",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-044",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-044",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-044",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-044",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-044",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-044",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "pair:TH-045",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-045",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-045"
+    },
+    {
+      "from": "artifact:ART-045",
+      "relation": "stored_in",
+      "to": "directory:engine"
+    },
+    {
+      "from": "artifact:ART-045",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-045",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-045",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-045",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-045",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-045",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-046",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-046",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-046"
+    },
+    {
+      "from": "artifact:ART-046",
+      "relation": "stored_in",
+      "to": "directory:engine"
+    },
+    {
+      "from": "artifact:ART-046",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-046",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-046",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-046",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-046",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-046",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-046",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-047",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-047",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-047"
+    },
+    {
+      "from": "artifact:ART-047",
+      "relation": "stored_in",
+      "to": "directory:organvm_bridge"
+    },
+    {
+      "from": "artifact:ART-047",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-047",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-047",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-047",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-047",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-047",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-047",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-048",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-048",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-048"
+    },
+    {
+      "from": "artifact:ART-048",
+      "relation": "stored_in",
+      "to": "directory:engine"
+    },
+    {
+      "from": "artifact:ART-048",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-048",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-048",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-048",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-048",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-048",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-048",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-049",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-049",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-049"
+    },
+    {
+      "from": "artifact:ART-049",
+      "relation": "stored_in",
+      "to": "directory:manifest"
+    },
+    {
+      "from": "artifact:ART-049",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-049",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-049",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-049",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-049",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-049",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-049",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "artifact:ART-049",
+      "relation": "references_concept",
+      "to": "concept:manifest"
+    },
+    {
+      "from": "artifact:ART-049",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-050",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-050",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-050"
+    },
+    {
+      "from": "artifact:ART-050",
+      "relation": "stored_in",
+      "to": "directory:manifest"
+    },
+    {
+      "from": "artifact:ART-050",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-050",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-050",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-050",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-050",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-050",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-050",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "artifact:ART-050",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-050",
+      "relation": "references_concept",
+      "to": "concept:manifest"
+    },
+    {
+      "from": "artifact:ART-050",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-051",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-051",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-051"
+    },
+    {
+      "from": "artifact:ART-051",
+      "relation": "stored_in",
+      "to": "directory:ingestion"
+    },
+    {
+      "from": "artifact:ART-051",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-051",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-051",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-051",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-051",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-051",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "artifact:ART-051",
+      "relation": "references_concept",
+      "to": "concept:manifest"
+    },
+    {
+      "from": "artifact:ART-051",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-052",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-052",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-052"
+    },
+    {
+      "from": "artifact:ART-052",
+      "relation": "stored_in",
+      "to": "directory:manifest"
+    },
+    {
+      "from": "artifact:ART-052",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-052",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-052",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-052",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-052",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-052",
+      "relation": "references_concept",
+      "to": "concept:manifest"
+    },
+    {
+      "from": "artifact:ART-052",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-053",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-053",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-053"
+    },
+    {
+      "from": "artifact:ART-053",
+      "relation": "stored_in",
+      "to": "directory:engine"
+    },
+    {
+      "from": "artifact:ART-053",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-053",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-053",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-053",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-053",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-053",
+      "relation": "references_concept",
+      "to": "concept:manifest"
+    },
+    {
+      "from": "pair:TH-054",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-054",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-054"
+    },
+    {
+      "from": "artifact:ART-054",
+      "relation": "stored_in",
+      "to": "directory:governance"
+    },
+    {
+      "from": "artifact:ART-054",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-054",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-054",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-054",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-054",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-054",
+      "relation": "references_concept",
+      "to": "concept:manifest"
+    },
+    {
+      "from": "pair:TH-055",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-055",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-055"
+    },
+    {
+      "from": "artifact:ART-055",
+      "relation": "stored_in",
+      "to": "directory:atlas"
+    },
+    {
+      "from": "artifact:ART-055",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-055",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-055",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-055",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-055",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-055",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "artifact:ART-055",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-055",
+      "relation": "references_concept",
+      "to": "concept:manifest"
+    },
+    {
+      "from": "artifact:ART-055",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-056",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-056",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-056"
+    },
+    {
+      "from": "artifact:ART-056",
+      "relation": "stored_in",
+      "to": "directory:governance"
+    },
+    {
+      "from": "artifact:ART-056",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-056",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-056",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-056",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-056",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-056",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-056",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-057",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-057",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-057"
+    },
+    {
+      "from": "artifact:ART-057",
+      "relation": "stored_in",
+      "to": "directory:governance"
+    },
+    {
+      "from": "artifact:ART-057",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-057",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-057",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-057",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-057",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "pair:TH-058",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-058",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-058"
+    },
+    {
+      "from": "artifact:ART-058",
+      "relation": "stored_in",
+      "to": "directory:atlas"
+    },
+    {
+      "from": "artifact:ART-058",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-058",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-058",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-058",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-058",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-058",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-058",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "pair:TH-059",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-059",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-059"
+    },
+    {
+      "from": "artifact:ART-059",
+      "relation": "stored_in",
+      "to": "directory:governance"
+    },
+    {
+      "from": "artifact:ART-059",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-059",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-059",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-059",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-059",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "pair:TH-060",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-060",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-060"
+    },
+    {
+      "from": "artifact:ART-060",
+      "relation": "stored_in",
+      "to": "directory:governance"
+    },
+    {
+      "from": "artifact:ART-060",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-060",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-060",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-060",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-060",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-060",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-060",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-061",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-061",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-061"
+    },
+    {
+      "from": "artifact:ART-061",
+      "relation": "stored_in",
+      "to": "directory:atlas"
+    },
+    {
+      "from": "artifact:ART-061",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-061",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-061",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-061",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-061",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-061",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "artifact:ART-061",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-061",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-062",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-062",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-062"
+    },
+    {
+      "from": "artifact:ART-062",
+      "relation": "stored_in",
+      "to": "directory:governance"
+    },
+    {
+      "from": "artifact:ART-062",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-062",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-062",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-062",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-062",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "pair:TH-063",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-063",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-063"
+    },
+    {
+      "from": "artifact:ART-063",
+      "relation": "stored_in",
+      "to": "directory:atlas"
+    },
+    {
+      "from": "artifact:ART-063",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-063",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-063",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-063",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-063",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-063",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-063",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "pair:TH-064",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-064",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-064"
+    },
+    {
+      "from": "artifact:ART-064",
+      "relation": "stored_in",
+      "to": "directory:atlas"
+    },
+    {
+      "from": "artifact:ART-064",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-064",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-064",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-064",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-064",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-064",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "artifact:ART-064",
+      "relation": "references_concept",
+      "to": "concept:manifest"
+    },
+    {
+      "from": "pair:TH-065",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-065",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-065"
+    },
+    {
+      "from": "artifact:ART-065",
+      "relation": "stored_in",
+      "to": "directory:atlas"
+    },
+    {
+      "from": "artifact:ART-065",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-065",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-065",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-065",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-065",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-065",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-065",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "artifact:ART-065",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "pair:TH-066",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-066",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-066"
+    },
+    {
+      "from": "artifact:ART-066",
+      "relation": "stored_in",
+      "to": "directory:governance"
+    },
+    {
+      "from": "artifact:ART-066",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-066",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-066",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-066",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-066",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "pair:TH-067",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-067",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-067"
+    },
+    {
+      "from": "artifact:ART-067",
+      "relation": "stored_in",
+      "to": "directory:atlas"
+    },
+    {
+      "from": "artifact:ART-067",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-067",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-067",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-067",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-067",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-067",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-067",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "pair:TH-068",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-068",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-068"
+    },
+    {
+      "from": "artifact:ART-068",
+      "relation": "stored_in",
+      "to": "directory:atlas"
+    },
+    {
+      "from": "artifact:ART-068",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-068",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-068",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-068",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-068",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-068",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-068",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "pair:TH-069",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-069",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-069"
+    },
+    {
+      "from": "artifact:ART-069",
+      "relation": "stored_in",
+      "to": "directory:organvm_bridge"
+    },
+    {
+      "from": "artifact:ART-069",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-069",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-069",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-069",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-069",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-069",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "artifact:ART-069",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-069",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-070",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-070",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-070"
+    },
+    {
+      "from": "artifact:ART-070",
+      "relation": "stored_in",
+      "to": "directory:organvm_bridge"
+    },
+    {
+      "from": "artifact:ART-070",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-070",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-070",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "pair:TH-071",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-071",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-071"
+    },
+    {
+      "from": "artifact:ART-071",
+      "relation": "stored_in",
+      "to": "directory:organvm_bridge"
+    },
+    {
+      "from": "artifact:ART-071",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-071",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-071",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-071",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-071",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-071",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-071",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "artifact:ART-071",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-071",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-072",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-072",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-072"
+    },
+    {
+      "from": "artifact:ART-072",
+      "relation": "stored_in",
+      "to": "directory:organvm_bridge"
+    },
+    {
+      "from": "artifact:ART-072",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-072",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-072",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-072",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-072",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "pair:TH-073",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-073",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-073"
+    },
+    {
+      "from": "artifact:ART-073",
+      "relation": "stored_in",
+      "to": "directory:organvm_bridge"
+    },
+    {
+      "from": "artifact:ART-073",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-073",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-073",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "pair:TH-074",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-074",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-074"
+    },
+    {
+      "from": "artifact:ART-074",
+      "relation": "stored_in",
+      "to": "directory:organvm_bridge"
+    },
+    {
+      "from": "artifact:ART-074",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-074",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-074",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-074",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "artifact:ART-074",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "pair:TH-075",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-075",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-075"
+    },
+    {
+      "from": "artifact:ART-075",
+      "relation": "stored_in",
+      "to": "directory:organvm_bridge"
+    },
+    {
+      "from": "artifact:ART-075",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-075",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-075",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-075",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-075",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "artifact:ART-075",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-075",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-076",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-076",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-076"
+    },
+    {
+      "from": "artifact:ART-076",
+      "relation": "stored_in",
+      "to": "directory:atlas"
+    },
+    {
+      "from": "artifact:ART-076",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-076",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-076",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-076",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "artifact:ART-076",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-076",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    },
+    {
+      "from": "pair:TH-077",
+      "relation": "belongs_to_thread",
+      "to": "thread:69aed518-2570-832c-92ba-01d53d078c73"
+    },
+    {
+      "from": "artifact:ART-077",
+      "relation": "derived_from_pair",
+      "to": "pair:TH-077"
+    },
+    {
+      "from": "artifact:ART-077",
+      "relation": "stored_in",
+      "to": "directory:manifest"
+    },
+    {
+      "from": "artifact:ART-077",
+      "relation": "references_concept",
+      "to": "concept:reading"
+    },
+    {
+      "from": "artifact:ART-077",
+      "relation": "references_concept",
+      "to": "concept:mechanism"
+    },
+    {
+      "from": "artifact:ART-077",
+      "relation": "references_concept",
+      "to": "concept:primitive"
+    },
+    {
+      "from": "artifact:ART-077",
+      "relation": "references_concept",
+      "to": "concept:module"
+    },
+    {
+      "from": "artifact:ART-077",
+      "relation": "references_concept",
+      "to": "concept:threshold"
+    },
+    {
+      "from": "artifact:ART-077",
+      "relation": "references_concept",
+      "to": "concept:governance"
+    },
+    {
+      "from": "artifact:ART-077",
+      "relation": "references_concept",
+      "to": "concept:atlas"
+    },
+    {
+      "from": "artifact:ART-077",
+      "relation": "references_concept",
+      "to": "concept:organvm_integration"
+    },
+    {
+      "from": "artifact:ART-077",
+      "relation": "references_concept",
+      "to": "concept:manifest"
+    },
+    {
+      "from": "artifact:ART-077",
+      "relation": "references_concept",
+      "to": "concept:ingestion"
+    }
+  ]
+}
