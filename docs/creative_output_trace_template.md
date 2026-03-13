@@ -2,24 +2,24 @@
 id: creative_output_trace_template_v1
 title: "Creative Output Trace Template"
 type: public-artifact
-status: placeholder
+status: drafted_from_context
 version: 1
-source_artifacts:
-  - manifest/artifacts/ART-077-a-updated-automated-repository-generator-script.md
 ---
 
 # Creative Output Trace Template
 
-Purpose: Trace template for connecting creative outputs back to mechanisms, models, and provenance.
+Document ID: ontological_framework_creative_output_trace_v1
 
-Status: placeholder
+## 1. Purpose
 
-This artifact was named in the close-out inventory but was not fully drafted in the source thread.
+Trace template for connecting creative outputs back to mechanisms, models, and provenance.
 
-Suggested next sections:
+## 2. Structure
 
-- Purpose and boundary
 - Required inputs
 - Canonical structure
-- Provenance and integrity requirements
-- Open decisions
+- Provenance requirements
+
+## 3. Source Lineage
+
+Derived from the Theory of Everything conversation artifact set.

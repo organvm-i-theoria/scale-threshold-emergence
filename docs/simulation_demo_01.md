@@ -2,24 +2,24 @@
 id: simulation_demo_01_v1
 title: "Simulation Demo 01"
 type: public-artifact
-status: placeholder
+status: drafted_from_context
 version: 1
-source_artifacts:
-  - manifest/artifacts/ART-077-a-updated-automated-repository-generator-script.md
 ---
 
 # Simulation Demo 01
 
-Purpose: First demonstration artifact linking mechanism packs, runtime parameters, and evaluation traces.
+Document ID: ontological_framework_simulation_demo_01_v1
 
-Status: placeholder
+## 1. Purpose
 
-This artifact was named in the close-out inventory but was not fully drafted in the source thread.
+Demonstration linking mechanism packs, runtime parameters, and evaluation traces.
 
-Suggested next sections:
+## 2. Components
 
-- Purpose and boundary
-- Required inputs
-- Canonical structure
-- Provenance and integrity requirements
-- Open decisions
+- Mechanism configuration
+- Runtime parameters
+- Evaluation traces
+
+## 3. Source Lineage
+
+Derived from the Theory of Everything conversation artifact set.
