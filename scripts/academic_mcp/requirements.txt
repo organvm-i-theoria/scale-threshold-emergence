@@ -1,0 +1,3 @@
+# Academic Paper MCP Server Dependencies
+requests>=2.31.0
+mcp>=1.0.0

@@ -24,7 +24,7 @@
       "name": "Origin of Life",
       "description": "Chemistry \u2192 Biology",
       "readings_total": 10,
-      "readings_completed": 0,
+      "readings_completed": 1,
       "mechanisms_extracted": 0,
       "synthesis_status": "none",
       "status": "in_progress"
@@ -73,14 +73,14 @@
         "title": "Energy Flow in Biology",
         "author": "Harold Morowitz",
         "year": 1968,
-        "status": "queued"
+        "status": "completed"
       },
       {
         "id": "R201-002",
         "title": "Vital Dust",
         "author": "Christian de Duve",
         "year": 1991,
-        "status": "queued"
+        "status": "in_progress"
       },
       {
         "id": "R201-003",
@@ -101,18 +101,6 @@
         "title": "Steps Toward Life",
         "author": "Manfred Eigen",
         "year": 1992,
-        "status": "queued"
-      },
-      {
-        "id": "R201-001",
-        "status": "queued"
-      },
-      {
-        "id": "R201-002",
-        "status": "queued"
-      },
-      {
-        "id": "R201-003",
         "status": "queued"
       }
     ]

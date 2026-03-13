@@ -9,7 +9,10 @@ Usage:
     python pipeline.py advance <lane>          # Advance to next stage
     python pipeline.py add-reading <lane> <id> # Add reading to queue
     python pipeline.py extract-mechanism <id>  # Create mechanism extraction
-    python pipeline.py update-dashboard        # Refresh dashboard
+    python pipeline.py update-dashboard         # Refresh dashboard
+    python pipeline.py find-reading <topic>    # Find academic papers
+    python pipeline.py fetch-paper <id>        # Get paper metadata
+    python pipeline.py download-paper <id> <dir> # Download PDF
 """
 
 import json
@@ -19,9 +22,13 @@ from datetime import datetime
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).parent.parent
+SCRIPT_DIR = Path(__file__).parent
 DASHBOARD_JSON = REPO_ROOT / "research/dashboards/research_dashboard_state.json"
 READING_NOTES_DIR = REPO_ROOT / "research/reading_notes"
 MECHANISM_EXTRACTIONS_DIR = REPO_ROOT / "research/mechanism_extractions"
+
+# Add academic module to path
+sys.path.insert(0, str(SCRIPT_DIR))
 
 STAGES = ["R0", "R1", "R2", "R3", "R4", "R5", "R6"]
 STAGE_NAMES = {
@@ -201,6 +208,113 @@ def cmd_update_dashboard(args):
     print(f"Dashboard updated: {data['last_updated']}")
 
 
+# Academic Integration
+try:
+    from academic import AcademicClient
+
+    ACADEMIC_CLIENT = AcademicClient()
+    HAS_ACADEMIC = True
+except ImportError:
+    HAS_ACADEMIC = False
+    ACADEMIC_CLIENT = None
+
+
+def cmd_find_reading(args):
+    """Find academic papers for a research topic."""
+    if not HAS_ACADEMIC:
+        print("Error: academic module not installed")
+        print("Run: pip install requests")
+        return
+
+    if not args:
+        print("Usage: pipeline.py find-reading <topic> [lane]")
+        return
+
+    topic = args[0]
+    lane = args[1] if len(args) > 1 else ""
+
+    client = AcademicClient()
+    results = client.search(topic, limit=10)
+
+    print(f"\nSearch: {topic}")
+    if lane:
+        print(f"Lane: {lane}")
+    print()
+
+    all_papers = []
+    for source, papers in results.items():
+        for paper in papers:
+            paper.source = source
+            all_papers.append(paper)
+
+    # Sort by citations
+    all_papers.sort(key=lambda p: p.citation_count, reverse=True)
+
+    for i, paper in enumerate(all_papers[:10], 1):
+        print(f"{i}. {paper.title}")
+        print(f"   {', '.join(paper.authors[:2])} ({paper.year or 'N/A'})")
+        print(f"   Citations: {paper.citation_count}")
+        print(f"   Source: {paper.source}")
+        print(f"   PDF: {paper.pdf_url or 'N/A'}")
+        print()
+
+
+def cmd_fetch_paper(args):
+    """Fetch paper metadata by ID."""
+    if not HAS_ACADEMIC:
+        print("Error: academic module not installed")
+        return
+
+    if not args:
+        print("Usage: pipeline.py fetch-paper <identifier>")
+        return
+
+    identifier = args[0]
+    client = AcademicClient()
+    paper = client.get_paper(identifier)
+
+    if paper:
+        print(f"Title: {paper.title}")
+        print(f"Authors: {', '.join(paper.authors)}")
+        print(f"Year: {paper.year or 'N/A'}")
+        print(f"DOI: {paper.doi or 'N/A'}")
+        print(f"PMID: {paper.pmid or 'N/A'}")
+        print(f"arXiv: {paper.arxiv_id or 'N/A'}")
+        print(f"Venue: {paper.venue or 'N/A'}")
+        print(f"Citations: {paper.citation_count}")
+        print(f"PDF URL: {paper.pdf_url or 'N/A'}")
+        print(f"\nAbstract:")
+        print(
+            paper.abstract[:1000] + "..."
+            if paper.abstract and len(paper.abstract) > 1000
+            else paper.abstract or "N/A"
+        )
+    else:
+        print(f"Paper not found: {identifier}")
+
+
+def cmd_download_paper(args):
+    """Download paper PDF."""
+    if not HAS_ACADEMIC:
+        print("Error: academic module not installed")
+        return
+
+    if len(args) < 2:
+        print("Usage: pipeline.py download-paper <identifier> <output_dir>")
+        return
+
+    identifier = args[0]
+    output_dir = args[1]
+
+    client = AcademicClient()
+    filepath = client.download_pdf(identifier, output_dir)
+
+    if filepath:
+        print(f"Downloaded: {filepath}")
+    else:
+        print(f"Failed to download: {identifier}")
+
+
 def main():
     if len(sys.argv) < 2:
         print(__doc__)
@@ -213,6 +327,9 @@ def main():
         "add-reading": cmd_add_reading,
         "extract-mechanism": cmd_extract_mechanism,
         "update-dashboard": cmd_update_dashboard,
+        "find-reading": cmd_find_reading,
+        "fetch-paper": cmd_fetch_paper,
+        "download-paper": cmd_download_paper,
     }
     if cmd in commands:
         commands[cmd](args)
