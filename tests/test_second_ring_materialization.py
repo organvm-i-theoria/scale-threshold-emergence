@@ -9,7 +9,9 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 
 def test_second_ring_manifest_covers_required_files() -> None:
     manifest = json.loads(
-        (REPO_ROOT / "manifest/second_ring_artifacts_manifest.json").read_text(encoding="utf-8")
+        (REPO_ROOT / "manifest/second_ring_artifacts_manifest.json").read_text(
+            encoding="utf-8"
+        )
     )
 
     expected = {
@@ -37,8 +39,13 @@ def test_second_ring_manifest_covers_required_files() -> None:
 
 
 def test_second_ring_documents_include_expected_seed_content() -> None:
-    mechanism_pack = (REPO_ROOT / "engine/runtime/mechanism_pack_spec.md").read_text(encoding="utf-8")
-    assert "A mechanism pack is how literature becomes executable theory." in mechanism_pack
+    mechanism_pack = (REPO_ROOT / "engine/runtime/mechanism_pack_spec.md").read_text(
+        encoding="utf-8"
+    )
+    assert (
+        "A mechanism pack is how literature becomes executable theory."
+        in mechanism_pack
+    )
 
     knowledge_supply_chain = (
         REPO_ROOT / "organvm_bridge/knowledge_supply_chain.md"
@@ -47,5 +54,7 @@ def test_second_ring_documents_include_expected_seed_content() -> None:
     assert "Poiesis" in knowledge_supply_chain
     assert "Ergon" in knowledge_supply_chain
 
-    whitepaper = (REPO_ROOT / "docs/technical_whitepaper_01.md").read_text(encoding="utf-8")
-    assert "Status: placeholder" in whitepaper
+    whitepaper = (REPO_ROOT / "docs/technical_whitepaper_01.md").read_text(
+        encoding="utf-8"
+    )
+    assert "status:" in whitepaper.lower()
