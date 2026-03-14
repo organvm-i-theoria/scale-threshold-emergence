@@ -1,4 +1,4 @@
-name: Scale-Threshold-Emergence CI
+name: Knowledge Engine CI
 
 on:
   push:
@@ -20,8 +20,16 @@ jobs:
     
     - name: Install dependencies
       run: |
-        pip install pytest requests
+        pip install requests pytest
     
-    - name: Run tests
+    - name: Run unit tests
       run: |
-        pytest tests/ -v
+        python -m pytest tests/unit/test_modules.py -v
+    
+    - name: Run integration tests
+      run: |
+        python -m pytest tests/integration/test_pipeline.py -v
+    
+    - name: Test pipeline status
+      run: |
+        python scripts/pipeline.py status

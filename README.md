@@ -151,7 +151,8 @@ Add to `~/.claude/mcp.json`:
 | Active Lanes | 1/5 | 5/5 |
 | Mechanisms Identified | 0 | 50+ |
 | Mechanisms Admitted | 0 | 20+ |
-| Modules Implemented | 0 | 20+ |
+| Modules Implemented | 12 | 12 |
+| Tests | 0 | 65+ |
 | Simulations Run | 0 | 10+ |
 
 ## Documentation
