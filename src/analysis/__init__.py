@@ -14,7 +14,6 @@ Features:
 import hashlib
 import re
 from dataclasses import dataclass, field
-from datetime import datetime
 from typing import Optional
 
 
@@ -69,9 +68,9 @@ class AnalysisNormalizer:
         warnings = []
 
         required_fields = ["id", "content", "atom_type"]
-        for field in required_fields:
-            if field not in atom:
-                errors.append(f"Missing required field: {field}")
+        for required_field in required_fields:
+            if required_field not in atom:
+                errors.append(f"Missing required field: {required_field}")
 
         if "content" in atom:
             if len(atom["content"]) < 2:

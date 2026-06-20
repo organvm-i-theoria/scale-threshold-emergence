@@ -12,10 +12,9 @@ Features:
 - Error handling
 """
 
-import json
 from dataclasses import dataclass, field
 from datetime import datetime
-from typing import Any, Optional
+from typing import Optional
 
 
 @dataclass
@@ -242,7 +241,6 @@ class GraphQLAPI:
                 )
 
             operation_type = parsed.get("type")
-            operation_name = parsed.get("name")
             selections = parsed.get("selections", [])
 
             if operation_type == "query":
