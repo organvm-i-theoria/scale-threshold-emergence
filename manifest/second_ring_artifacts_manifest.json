@@ -1,0 +1,24 @@
+{
+  "generated_at": "2026-03-14T00:00:00Z",
+  "required_count": 17,
+  "materialized_count": 17,
+  "fully_materialized": [
+    "atlas/dependency_graph.md",
+    "atlas/promotion_state_dashboard.md",
+    "atlas/repo_index.json",
+    "docs/creative_output_trace_template.md",
+    "docs/public_research_archive.md",
+    "docs/simulation_demo_01.md",
+    "docs/technical_whitepaper_01.md",
+    "engine/runtime/cross_scale_coupling_spec.md",
+    "engine/runtime/mechanism_pack_spec.md",
+    "governance/annual_framework_review.md",
+    "governance/mechanism_review_process.md",
+    "governance/primitive_revision_protocol.md",
+    "governance/threshold_review_cycle.md",
+    "knowledge_graph/graph_query_library.md",
+    "manifest/distillation_report.md",
+    "organvm_bridge/knowledge_supply_chain.md",
+    "research/open_problems/open_problem_register.md"
+  ]
+}

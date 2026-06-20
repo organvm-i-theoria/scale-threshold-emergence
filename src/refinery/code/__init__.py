@@ -51,7 +51,8 @@ class CodeRelation:
 LANGUAGE_PATTERNS = {
     "python": {
         "function": re.compile(
-            r"^(\s*)def\s+(\w+)\s*\((.*?)\)(?:\s*->\s*(.*?))?:", re.MULTILINE
+            r"^([ \t]*)def\s+(\w+)\s*\((.*?)\)(?:\s*->\s*(.*?))?:",
+            re.MULTILINE,
         ),
         "class": re.compile(r"^class\s+(\w+)(?:\((.*?)\))?:", re.MULTILINE),
         "import": re.compile(
