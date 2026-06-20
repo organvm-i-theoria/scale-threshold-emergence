@@ -17,7 +17,6 @@ import re
 from dataclasses import dataclass, field
 from datetime import datetime
 from pathlib import Path
-from typing import Optional
 
 
 @dataclass
@@ -148,7 +147,6 @@ class CodeRefinery:
 
         for match in patterns["function"].finditer(content):
             name = match.group(2)
-            params = match.group(3) or ""
             start_line = content[: match.start()].count("\n") + 1
 
             end_line = start_line
@@ -224,7 +222,6 @@ class CodeRefinery:
     def _extract_javascript_atoms(self, content: str) -> list[CodeAtom]:
         """Extract code atoms from JavaScript content."""
         atoms = []
-        lines = content.split("\n")
         patterns = LANGUAGE_PATTERNS["javascript"]
 
         for match in patterns["class"].finditer(content):

@@ -62,6 +62,7 @@ class Calculator:
 
         assert result is not None
         assert result.source_hash is not None
+        assert record.id is not None
 
     def test_refinery_to_storage_pipeline(self, sample_text):
         """Test pipeline from refinery to storage."""
@@ -157,6 +158,9 @@ class Calculator:
 
             assert len(text_result.atoms) > 0
             assert len(code_atoms) > 0
+            assert text_record.source_type == "text"
+            assert code_record.source_type == "code"
+            assert len(normalized) > 0
 
     def test_assembly_integration(self, sample_text):
         """Test assembly engine integration."""
@@ -199,7 +203,6 @@ class Calculator:
     def test_ops_health_check_integration(self):
         """Test operations health check integration."""
         from ops import Operations, HealthStatus
-        from intake import SourceIntake
 
         ops = Operations()
 

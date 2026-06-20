@@ -6,7 +6,6 @@ Unit tests for scale-threshold-emergence modules.
 import sys
 import os
 import tempfile
-import shutil
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "src"))
 
@@ -555,6 +554,10 @@ class TestPortalModule:
 
             assert "1" in json_export
 
+            csv_export = portal.export_atoms([{"id": "1", "content": "a,b"}], "csv")
+
+            assert csv_export == "id,content\n1,a;b\n"
+
 
 class TestOpsModule:
     """Tests for Operations module."""
@@ -747,6 +750,7 @@ class TestGraphQLModule:
             'mutation { createAtom(id: "new", content: "test") { id content } }'
         )
 
+        assert result.errors == []
         assert len(api.data["atoms"]) > 0
 
 

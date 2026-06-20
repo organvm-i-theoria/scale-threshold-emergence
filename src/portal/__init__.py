@@ -15,7 +15,7 @@ import json
 from dataclasses import dataclass, field
 from datetime import datetime
 from pathlib import Path
-from typing import Any, Optional
+from typing import Optional
 
 
 @dataclass
@@ -210,11 +210,13 @@ class PortalProjection:
             headers = list(atoms[0].keys())
             csv = ",".join(headers) + "\n"
 
-            for atom in headers[1:]:
-                value = str(atom.get(h, "")).replace(",", ";")
-                csv += value + ","
+            for atom in atoms:
+                values = [
+                    str(atom.get(header, "")).replace(",", ";") for header in headers
+                ]
+                csv += ",".join(values) + "\n"
 
-            return csv.rstrip(",") + "\n"
+            return csv
 
         return str(atoms)
 

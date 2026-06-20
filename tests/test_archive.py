@@ -11,7 +11,11 @@ def write_fixture(path: Path) -> None:
         "metadata": {
             "title": "Fixture Thread",
             "user": {"name": "Tester", "email": "tester@example.com"},
-            "dates": {"created": "3/11/2026 11:00:00", "updated": "3/11/2026 11:00:01", "exported": "3/11/2026 11:00:02"},
+            "dates": {
+                "created": "3/11/2026 11:00:00",
+                "updated": "3/11/2026 11:00:01",
+                "exported": "3/11/2026 11:00:02",
+            },
             "link": "https://chatgpt.com/c/fixture-thread-id",
             "powered_by": "fixture",
         },
@@ -26,7 +30,9 @@ def write_fixture(path: Path) -> None:
 
 
 def test_derive_title_prefers_response_heading() -> None:
-    title = derive_title("Question text", "Thought for 12s\n\nResearch Knowledge Graph\n\nBody")
+    title = derive_title(
+        "Question text", "Thought for 12s\n\nResearch Knowledge Graph\n\nBody"
+    )
     assert title == "Research Knowledge Graph"
 
 
@@ -40,7 +46,9 @@ def test_archive_and_verify_round_trip(tmp_path: Path) -> None:
     assert result["pair_count"] == 2
     assert result["empty_message_ids"] == ["MSG-004"]
 
-    pair_manifest = json.loads((repo_root / "manifest/pair_manifest.json").read_text(encoding="utf-8"))
+    pair_manifest = json.loads(
+        (repo_root / "manifest/pair_manifest.json").read_text(encoding="utf-8")
+    )
     assert pair_manifest[0]["pair_id"] == "TH-001"
     assert pair_manifest[1]["pair_id"] == "TH-002"
 

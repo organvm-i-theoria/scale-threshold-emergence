@@ -3,10 +3,16 @@ from __future__ import annotations
 import json
 from pathlib import Path
 
-from knowledge_engine_archive.export_diff import analyze_exports, normalize_markdown, write_outputs
+from knowledge_engine_archive.export_diff import (
+    analyze_exports,
+    normalize_markdown,
+    write_outputs,
+)
 
 
-def write_json_export(path: Path, title: str, exported: str, messages: list[dict[str, str]]) -> None:
+def write_json_export(
+    path: Path, title: str, exported: str, messages: list[dict[str, str]]
+) -> None:
     payload = {
         "metadata": {
             "title": title,
@@ -37,7 +43,9 @@ def test_json_equivalence_and_prefix_detection(tmp_path: Path) -> None:
 
     write_json_export(first, "Branch · Example", "3/11/2026 11:35:00", base_messages)
     write_json_export(second, "Branch · Example", "3/11/2026 11:40:00", base_messages)
-    write_json_export(third, "Branch · Example", "3/11/2026 11:45:00", extended_messages)
+    write_json_export(
+        third, "Branch · Example", "3/11/2026 11:45:00", extended_messages
+    )
 
     manifest = analyze_exports([first, second, third])
 
