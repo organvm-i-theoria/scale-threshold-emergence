@@ -1,0 +1,5 @@
+# Discovery Thesis
+
+The `scale-threshold-emergence` repository harbors significant latent value primarily through its `academic_mcp` server and the underlying `scripts/academic/` API suite. This integrated toolkit abstracts the complexity of fetching, downloading, and querying literature across major databases like Semantic Scholar, arXiv, and PubMed, providing a highly reusable capability that can be instantly deployed to grant other autonomous agents across the OrganVM estate rigorous academic research capabilities. By modularizing this Academic API suite and its MCP interface, the broader estate gains immediate programmatic access to formal academic literature.
+
+**First Task**: Extract the `academic_mcp` server and its `scripts/academic/` dependencies into a standalone, independently versioned python package (e.g., `organvm-academic-mcp`) so that other agents and organs can easily install and consume the academic retrieval capabilities without taking on the entire threshold-emergence framework.
