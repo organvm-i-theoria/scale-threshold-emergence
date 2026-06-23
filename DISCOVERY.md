@@ -1,0 +1,5 @@
+# Value Thesis: organvm/scale-threshold-emergence
+
+The highest latent value of `scale-threshold-emergence` is its `academic_mcp` server and the underlying unified `academic_client`. While the repository is designed as a theoretical framework and simulation engine for threshold transitions, its concrete, immediate utility lies in its robust Python client and FastMCP server for querying Semantic Scholar, arXiv, and PubMed. This gives any LLM agent or script in the estate turn-key capabilities to search for academic papers, fetch metadata, and download full-text PDFs natively. This capability should be promoted into the ranked tier to be utilized broadly across the estate's research operations.
+
+**Single best concrete first task:** Extract the `academic_client` and `academic_mcp` server from the `scripts/` directory into a standalone, reusable package (e.g., `organvm-academic-mcp`) so that it can be easily deployed and used by any other agent or repository in the estate without carrying the rest of the simulation engine.
