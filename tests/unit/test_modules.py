@@ -307,6 +307,67 @@ class TestStorageVectorModule:
 
             assert stats["total_entries"] == 2
 
+    def test_vector_add_with_vector_dimension_mismatch(self):
+        """Test adding a vector with wrong dimension raises ValueError and leaves store unchanged."""
+        import json
+        from pathlib import Path
+        from storage.vector import VectorStore
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            store = VectorStore(storage_dir=tmpdir, dimension=64)
+
+            assert len(store.entries) == 0
+            index_path = Path(tmpdir) / "index.json"
+
+            with pytest.raises(ValueError, match="expected 64, got 2") as exc_info:
+                store.add_with_vector("bad", [1.0, 0.0])
+
+            assert "64" in str(exc_info.value)
+            assert "2" in str(exc_info.value)
+            assert len(store.entries) == 0
+            if index_path.exists():
+                data = json.loads(index_path.read_text("utf-8"))
+                assert len(data.get("entries", {})) == 0
+
+    def test_vector_search_by_vector_dimension_mismatch(self):
+        """Test searching with wrong dimension query vector raises ValueError."""
+        from storage.vector import VectorStore
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            store = VectorStore(storage_dir=tmpdir, dimension=64)
+            store.add_with_vector("good", [1.0] + [0.0] * 63)
+
+            with pytest.raises(ValueError, match="expected 64, got 2") as exc_info:
+                store.search_by_vector([1.0, 0.0])
+
+            assert "64" in str(exc_info.value)
+            assert "2" in str(exc_info.value)
+
+    def test_vector_add_and_search_by_vector_valid_dimension(self):
+        """Test valid same-dimension vectors normalize, store, and search correctly."""
+        from storage.vector import VectorStore
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            store = VectorStore(storage_dir=tmpdir, dimension=64)
+
+            v1 = [2.0] + [0.0] * 63
+            entry_id1 = store.add_with_vector("content1", v1)
+            stored1 = store.get(entry_id1)
+            assert stored1 is not None
+            assert stored1.vector[0] == pytest.approx(1.0)
+
+            zero_vec = [0.0] * 64
+            entry_id2 = store.add_with_vector("zero_content", zero_vec)
+            stored2 = store.get(entry_id2)
+            assert stored2 is not None
+            assert stored2.vector == zero_vec
+
+            query_vec = [1.0] + [0.0] * 63
+            results = store.search_by_vector(query_vec, top_k=10)
+            assert len(results) == 2
+            assert results[0][0] == entry_id1
+            assert results[0][1] == pytest.approx(1.0)
+
 
 class TestStorageGraphModule:
     """Tests for Graph Storage module."""
