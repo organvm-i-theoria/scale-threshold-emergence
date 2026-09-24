@@ -146,6 +146,11 @@ class VectorStore:
         Returns:
             Entry ID
         """
+        if len(vector) != self.dimension:
+            raise ValueError(
+                f"Vector dimension mismatch: expected {self.dimension}, got {len(vector)}"
+            )
+
         entry_id = self._compute_hash(content)[:16]
 
         if entry_id in self.entries:
@@ -197,6 +202,11 @@ class VectorStore:
         Returns:
             List of (entry_id, score, content) tuples
         """
+        if len(vector) != self.dimension:
+            raise ValueError(
+                f"Vector dimension mismatch: expected {self.dimension}, got {len(vector)}"
+            )
+
         query_vector = self._normalize(vector)
 
         similarities = []
